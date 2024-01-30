@@ -1,0 +1,12 @@
+{
+  "_comment": "專案",
+  "item.measurements.tape_measure": "捲尺",
+
+  "_comment": "布料配置",
+  "text.autoconfig.measurements.option.client": "客戶",
+  "text.autoconfig.measurements.option.client.lineColor": "線條顏色",
+  "text.autoconfig.measurements.option.client.textColor": "文字顏色",
+  "text.autoconfig.measurements.option.client.textSize": "字體大小",
+  "text.autoconfig.measurements.option.client.lineWidth": "行寬",
+  "text.autoconfig.measurements.option.client.lineWidthMax": "最大線寬"
+}

@@ -1,0 +1,9 @@
+{
+  "itemGroup.appliedcooking": "應用烹飪",
+  "block.appliedcooking.kitchen_station": "ME 廚房站",
+  "tooltip.appliedcooking:kitchen_station.description": "連接到 Applied Energistics 2 電網的站節點",
+  "config.jade.plugin_appliedcooking.kitchen_station": "ME 廚房站",
+  "jade.appliedcooking:kitchen_station": "已在 %s 連接到 %s",
+  "jade.appliedcooking:online": "設備在線",
+  "jade.appliedcooking:offline": "裝置離線"
+}

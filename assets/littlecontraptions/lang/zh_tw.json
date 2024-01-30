@@ -1,0 +1,47 @@
+{
+    "entity.littlecontraptions.contraption_barge": "裝置駁船",
+    "item.littlecontraptions.contraption_barge": "裝置駁船",
+    "block.littlecontraptions.barge_assembler": "駁船組裝工",
+  
+    "littlecontraptions.ponder.tag.tugs": "小型物流拖船",
+    "littlecontraptions.ponder.tag.tugs.description": "附尋路功能的水上火車！",
+  
+    "littlecontraptions.ponder.tag.trains": "小型物流火車",
+    "littlecontraptions.ponder.tag.trains.description": "小而聰明的火車！",
+  
+    "littlecontraptions.ponder.basic_assembler.header": "使用駁船組裝機移動結構",
+    "littlecontraptions.ponder.basic_assembler.text_1": "動力駁船裝配工將附加結構安裝到經過的裝置駁船上",
+    "littlecontraptions.ponder.basic_assembler.text_2": "沒有紅石訊號，它會將經過的駁船裝置分解回方塊",
+    "littlecontraptions.ponder.basic_assembler.text_3": "與購物車裝置類似，您可以使用底盤和強力膠連接更大的裝置",
+  
+    "littlecontraptions.ponder.basic_tug.header": "關於拖船的基礎知識",
+    "littlecontraptions.ponder.basic_tug.text_1": "拖船可以放置在水上的任何地方",
+    "littlecontraptions.ponder.basic_tug.text_2": "拖船自然會找到拖船路線航點",
+    "littlecontraptions.ponder.basic_tug.text_3": "將拖船路線物品放入拖船即可開始旅程！",
+    "littlecontraptions.ponder.basic_tug.text_4": "有時拖船會卡在角落。這可以透過使用角導軌來修復",
+    "littlecontraptions.ponder.basic_tug.text_5": "如果轉角導軌方向錯誤，請使用售票員扳手將其翻轉",
+  
+    "littlecontraptions.ponder.tug_dock.header": "拖船停靠",
+    "littlecontraptions.ponder.tug_dock.text_1": "碼頭可用於裝卸時自動停止拖船",
+    "littlecontraptions.ponder.tug_dock.text_2": "每個塢站需要有一個拖船碼頭區和一排駁船碼頭區",
+    "littlecontraptions.ponder.tug_dock.text_3": "駁船碼頭可以使用指揮扳手從藍色（等待卸貨）切換到橘色（等待裝貨）",
+    "littlecontraptions.ponder.tug_dock.text_4": "要裝載船隻，請將料斗放置在碼頭頂部",
+    "littlecontraptions.ponder.tug_dock.text_5": "若要卸載容器，請將料斗放置在水塊下方",
+    "littlecontraptions.ponder.tug_dock.text_6": "拖船將自動等待，直到所有船隻都滿載/卸載",
+  
+    "littlecontraptions.ponder.loco_dock.header": "火車對接",
+    "littlecontraptions.ponder.loco_dock.text_1": "碼頭可用於裝卸時自動停止火車",
+    "littlecontraptions.ponder.loco_dock.text_2": "每個停靠站需要有一個火車停靠導軌和一條直接的汽車停靠導軌",
+    "littlecontraptions.ponder.loco_dock.text_3": "火車車廂碼頭可以使用售票員扳手從藍色（等待卸貨）切換到橘色（等待裝貨）",
+    "littlecontraptions.ponder.loco_dock.text_4": "要裝載火車，請在碼頭旁放置一個料斗",
+    "littlecontraptions.ponder.loco_dock.text_5": "要卸載火車，請將料斗放置在鐵軌下方",
+    "littlecontraptions.ponder.loco_dock.text_6": "火車將自動等待整列列車裝卸完畢",
+  
+    "littlecontraptions.ponder.loco_route.header": "火車路線",
+    "littlecontraptions.ponder.loco_route.text_1": "自動切換軌道可讓您建立共享鐵路段的火車路線",
+    "littlecontraptions.ponder.loco_route.text_2": "路線是透過右鍵單擊火車路線項目的航路點來定義的",
+    "littlecontraptions.ponder.loco_route.text_3": "火車將自動切換軌道，選擇通往航路點的分支",
+    "littlecontraptions.ponder.loco_route.text_4": "給定兩個路點，火車將選擇距離最近且尚未訪問過的路點的分支",
+    "littlecontraptions.ponder.loco_route.text_5": "當火車到達某個航點時，它會被標記為已訪問，一旦到達路線的所有航點，就會重設"
+  }
+  

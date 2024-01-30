@@ -1,0 +1,22 @@
+{
+    "block.denseores.ancient_nether_ore": "遠古地獄礦石",
+    "block.denseores.dense_coal_ore": "緻密煤礦",
+    "block.denseores.dense_copper_ore": "緻密銅礦",
+    "block.denseores.dense_deepslate_coal_ore": "緻密深板岩煤礦石",
+    "block.denseores.dense_deepslate_copper_ore": "緻密深板岩銅礦石",
+    "block.denseores.dense_deepslate_diamond_ore": "緻密深板岩鑽石礦石",
+    "block.denseores.dense_deepslate_emerald_ore": "緻密深板岩祖母綠礦石",
+    "block.denseores.dense_deepslate_gold_ore": "緻密深板岩金礦",
+    "block.denseores.dense_deepslate_iron_ore": "緻密深板岩鐵礦石",
+    "block.denseores.dense_deepslate_lapis_ore": "緻密深板岩青金石礦石",
+    "block.denseores.dense_deepslate_redstone_ore": "緻密深板岩紅石礦石",
+    "block.denseores.dense_diamond_ore": "緻密金剛石礦石",
+    "block.denseores.dense_emerald_ore": "緻密祖母綠礦石",
+    "block.denseores.dense_gold_ore": "緻密金礦",
+    "block.denseores.dense_iron_ore": "緻密鐵礦石",
+    "block.denseores.dense_lapis_ore": "緻密青金石礦石",
+    "block.denseores.dense_nether_gold_ore": "緻密的地獄金礦石",
+    "block.denseores.dense_nether_quartz_ore": "緻密地獄石英礦石",
+    "block.denseores.dense_redstone_ore": "緻密紅石礦石",
+    "itemGroup.denseores": "緻密礦石"
+  }

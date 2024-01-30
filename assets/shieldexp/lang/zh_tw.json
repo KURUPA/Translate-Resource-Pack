@@ -1,0 +1,29 @@
+{
+  "shieldexp.tooltip.instructions": "按住Shift查看說明",
+  "shieldexp.tooltip.instructions.parry": "在受到攻擊前一刻舉起盾牌以招架攻擊！",
+
+  "shieldexp.tooltip.attribute": "用作盾牌時：",
+  "shieldexp.tooltip.attribute.cooldown_ticks": " %ss 防禦冷卻",
+  "shieldexp.tooltip.attribute.speed_factor_slow": " 舉盾移速：慢",
+  "shieldexp.tooltip.attribute.speed_factor_fast": " 舉盾移速：快",
+  "shieldexp.tooltip.attribute.parry_damage": " %s 招架反傷",
+  "shieldexp.tooltip.attribute.parry_ticks": " %ss 招架判定窗口",
+  "shieldexp.tooltip.attribute.stamina": " %s 防禦耐力",
+  "shieldexp.tooltip.attribute.blast_resistance": " %s 爆炸抗性",
+
+  "item.shieldexp.wooden_shield": "木盾牌",
+  "item.shieldexp.golden_shield": "金盾牌",
+  "item.shieldexp.iron_shield": "鐵盾牌",
+  "item.shieldexp.diamond_shield": "鑽石盾牌",
+  "item.shieldexp.netherite_shield": "地獄合金盾牌",
+  "item.shieldexp.paragon_shield": "聖尊盾牌",
+  "item.shieldexp.griefer_shield": "破壞者盾牌",
+
+  "death.attack.partialblast": "%1$s的盾牌沒能在爆炸中保護好主人",
+
+  "shieldexp.advancements.get_diamond_shield.title": "不滅鑽石",
+  "shieldexp.advancements.get_diamond_shield.description": "合成一面鑽石盾牌",
+
+  "shieldexp.advancements.get_netherite_shield.title": "無法撼動的物體",
+  "shieldexp.advancements.get_netherite_shield.description": "合成一面地獄合金盾牌"
+}

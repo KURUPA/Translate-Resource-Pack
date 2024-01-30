@@ -1,0 +1,57 @@
+﻿{
+    "_comment": "------------------------------------- ShetiPhianCore zh_cn.json Localization -------------------------------------!",
+    "_comment": "Keep file encoded with UTF-8 to support chat formatting http://minecraft.gamepedia.com/Formatting_codes",
+
+    "_comment": "------------------------------------------------------ MISC ------------------------------------------------------!",
+    "info.down": "下",
+    "info.up": "上",
+    "info.north": "北",
+    "info.south": "南",
+    "info.west": "西",
+    "info.east": "東",
+    "info.bottom": "底",
+    "info.top": "頂",
+    "info.back": "後",
+    "info.front": "前",
+    "info.left": "左",
+    "info.right": "右",
+
+    "gui.side_disabled": "禁用",
+
+    "color.white": "白色",
+    "color.orange": "橙色",
+    "color.magenta": "品紅色",
+    "color.light_blue": "淡藍色",
+    "color.yellow": "黃色",
+    "color.lime": "黃綠色",
+    "color.pink": "粉紅色",
+    "color.gray": "灰色",
+    "color.light_gray": "淡灰色",
+    "color.cyan": "青色",
+    "color.purple": "紫色",
+    "color.blue": "藍色",
+    "color.brown": "棕色",
+    "color.green": "綠色",
+    "color.red": "紅色",
+    "color.black": "黑色",
+
+    "_comment": "----------------------------------------------- ERROR/INFO/NOTICE ------------------------------------------------!",
+    "info.shetiphian.holdshift": "§2按下SHIFT查看更多資訊",
+    "info.shetiphian.creativeolny": "§e創造模式專用",
+    "info.shetiphian.guide": "Fruzstrated的指導手冊",
+    "info.shetiphian.unused": "未使用的物品",
+
+    "error.shetiphian.team.noteam": "你們不是同一個team團隊",
+    "error.shetiphian.team.wrong": "對象是另一個team團隊",
+
+    "info.shetiphian.texture.missing": "材質數據遺失",
+    "info.shetiphian.texture.invalid": "材質方塊遺失",
+    "info.shetiphian.texture.defaulted": "使用預設的材質",
+
+    "_comment": "------------------------------------------------ NAME CORRECTIONS ------------------------------------------------!",
+    "fluid.tile.lava": "熔岩",
+    "fluid.tile.water": "水",
+    "item.dyePowder.green": "綠色染料",
+    "item.dyePowder.red": "紅色燃料",
+    "item.dyePowder.yellow": "黃色染料"
+}

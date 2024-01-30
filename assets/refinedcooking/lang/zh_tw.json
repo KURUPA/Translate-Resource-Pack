@@ -1,0 +1,17 @@
+{
+    "itemGroup.refinedcooking": "精緻烹飪",
+    "block.refinedcooking.kitchen_station": "廚房站",
+    "block.refinedcooking.kitchen_access_point": "廚房接入點",
+    "item.refinedcooking.kitchen_network_card": "廚房網路卡",
+    "gui.refinedcooking.kitchen_access_point": "廚房接入點",
+    "gui.refinedcooking.kitchen_access_point.distance": "%d 個區塊",
+    "gui.refinedcooking.kitchen_access_point.missing_card": "廚房卡片遺失",
+    "misc.refinedcooking.kitchen_network_card.tooltip": "連結到 %s 中的 %d、%d、%d。",
+    "tooltip.refinedcooking:kitchen_station.description": "連接精緻儲存網路的站點節點",
+    "config.jade.plugin_refinedcooking.kitchen_station": "廚房站",
+    "config.jade.plugin_refinedcooking.kitchen_access_point": "廚房接入點",
+    "jade.refinedcooking:kitchen_station": "已連接至 %s 的網路",
+    "jade.refinedcooking:online_transmitting": "連接網路 -傳輸",
+    "jade.refinedcooking:online_no_transmission": "已連接至網路 -未傳輸",
+    "jade.refinedcooking:offline": "未連接網路"
+  }
