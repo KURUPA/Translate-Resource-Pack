@@ -1,0 +1,16 @@
+{
+    "rightclickharvest.jamlibconfig.title": "右鍵收成配置",
+    "rightclickharvest.jamlibconfig.requireHoe": "需要鋤頭",
+    "rightclickharvest.jamlibconfig.requireHoe.tooltip": "只允許在玩家手持鋤頭時收成特定作物（例如小麥、胡蘿蔔）。",
+    "rightclickharvest.jamlibconfig.harvestInRadius": "半徑內收成",
+    "rightclickharvest.jamlibconfig.harvestInRadius.tooltip": "使不同階段的鋤頭在半徑內收成多個方塊。需要將 `requireHoe` 設置為 true。",
+    "rightclickharvest.jamlibconfig.useHunger": "使用飢餓",
+    "rightclickharvest.jamlibconfig.useHunger.tooltip": "在收成作物時使用飢餓值。",
+    "rightclickharvest.jamlibconfig.hungerLevel": "飢餓等級",
+    "rightclickharvest.jamlibconfig.hungerLevel.tooltip": "收成作物時的食物消耗等級。",
+    "rightclickharvest.jamlibconfig.enum.HungerLevel.NONE": "無",
+    "rightclickharvest.jamlibconfig.enum.HungerLevel.LOW": "低",
+    "rightclickharvest.jamlibconfig.enum.HungerLevel.NORMAL": "正常",
+    "rightclickharvest.jamlibconfig.enum.HungerLevel.HIGH": "高"
+  }
+  

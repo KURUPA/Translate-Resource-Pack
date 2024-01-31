@@ -1,0 +1,85 @@
+{
+    "miapi.module.arrow_head_normal": "箭頭",
+    "miapi.module.arrow_head_normal.name": "[translation.[material.translation]]箭頭",
+    "miapi.module.arrow_head_normal.description": "箭頭是箭的前部，決定箭對目標的影響。",
+    "miapi.module.arrow_head_normal.short_description": "箭頭的一部分。",
+
+    "miapi.module.arrow_head_custom": "自訂箭頭",
+    "miapi.module.arrow_head_custom.name": "[translation.[material.translation]]箭頭",
+    "miapi.module.arrow_head_custom.description": "一個自訂的箭頭，高度依賴使用的材料。",
+    "miapi.module.arrow_head_custom.short_description": "箭頭的一部分。",
+
+    "miapi.module.arrow_shaft_normal": "箭杆",
+    "miapi.module.arrow_shaft_normal.name": "[translation.[material.translation]]箭杆",
+    "miapi.module.arrow_shaft_normal.description": "箭的杆部，決定箭的重量、速度和衝擊。",
+    "miapi.module.arrow_shaft_normal.short_description": "箭的杆部。",
+
+    "miapi.module.arrow_fletching_normal": "箭羽",
+    "miapi.module.arrow_fletching_normal.name": "[translation.[material.translation]]箭羽",
+    "miapi.module.arrow_fletching_normal.description": "箭的羽毛，影響箭的飛行特性。",
+    "miapi.module.arrow_fletching_normal.short_description": "箭的羽毛部分。",
+
+    "miapi.module.arrow_fins_normal": "箭鰭",
+    "miapi.module.arrow_fins_normal.name": "[translation.[material.translation]]箭鰭",
+    "miapi.module.arrow_fins_normal.description": "箭的鰭片，使箭在水中更好地飛行。",
+    "miapi.module.arrow_fins_normal.short_description": "箭的鰭片部分。",
+
+    "miapi.modular_arrow": "[translation.[material.translation]]箭",
+
+    "miapi.module.bow_handle_normal": "箭靶支架",
+    "miapi.module.bow_handle_normal.name": "[translation.[material.translation]]弓部件",
+    "miapi.module.bow_handle_normal.description": "一個用於弓的箭靶支架。",
+    "miapi.module.bow_handle_normal.short_description": "用於弓的箭靶支架。",
+
+    "miapi.module.bow_handle_sniper": "精準箭靶支架",
+    "miapi.module.bow_handle_sniper.name": "[translation.[material.translation]]弓部件",
+    "miapi.module.bow_handle_sniper.description": "提高箭的精確度，但會增加拉弓的時間。",
+    "miapi.module.bow_handle_sniper.short_description": "以犧牲拉弓時間為代價提高箭的精確度。",
+
+    "miapi.module.bow_handle_arrow_holder": "全捕捉箭靶支架",
+    "miapi.module.bow_handle_arrow_holder.name": "[translation.[material.translation]]弓部件",
+    "miapi.module.bow_handle_arrow_holder.description": "完全固定箭，允許在拉弓時更快移動，但代價是箭的速度和精確度。",
+    "miapi.module.bow_handle_arrow_holder.short_description": "完全固定箭，允許在拉弓時更快移動，但代價是箭的速度和精確度。",
+
+    "miapi.module.bow_arms_normal": "弓臂",
+    "miapi.module.bow_arms_normal.name": "[translation.[material.translation]]弓",
+    "miapi.module.bow_arms_normal.description": "弓的臂部，影響弓的拉弓行為。",
+    "miapi.module.bow_arms_normal.short_description": "弓的臂部。",
+
+    "miapi.module.bow_arms_long": "長弓臂",
+    "miapi.module.bow_arms_long.name": "[translation.[material.translation]]長弓",
+    "miapi.module.bow_arms_long.description": "長弓，最強大的弓，為原始力量而犧牲精確度。",
+    "miapi.module.bow_arms_long.short_description": "長弓的臂部。",
+
+    "miapi.module.bow_arms_recurve": "反曲弓臂",
+    "miapi.module.bow_arms_recurve.name": "[translation.[material.translation]]反曲弓",
+    "miapi.module.bow_arms_recurve.description": "反曲弓臂，旨在在力量和精確度之間提供平衡。",
+    "miapi.module.bow_arms_recurve.short_description": "反曲弓的臂部。",
+
+    "miapi.module.bow_arms_short": "短弓臂",
+    "miapi.module.bow_arms_short.name": "[translation.[material.translation]]短弓",
+    "miapi.module.bow_arms_short.description": "短臂，拉弓時間短，但力量較弱。",
+    "miapi.module.bow_arms_short.short_description": "短弓的臂部。",
+
+    "miapi.module.bow_string_normal": "弓弦",
+    "miapi.module.bow_string_normal.name": "[translation.[material.translation]]弓弦",
+    "miapi.module.bow_string_normal.description": "弓的弦部。",
+    "miapi.module.bow_string_normal.short_description": "弓的弦部。",
+
+    "miapi.module.crossbow_stock_normal": "弩托",
+    "miapi.module.crossbow_stock_normal.name": "[translation.[material.translation]]弩托",
+    "miapi.module.crossbow_stock_normal.description": "握把和肩膀支撐，對於準確瞄準和舒適操作至關重要。",
+    "miapi.module.crossbow_stock_normal.short_description": "握把和肩膀支撐，對於準確瞄準和舒適操作至關重要。",
+
+    "miapi.module.crossbow_arms_normal": "弩桿",
+    "miapi.module.crossbow_arms_normal.name": "[translation.[material.translation]]弩桿",
+    "miapi.module.crossbow_arms_normal.description": "弩的堅固核心框架，提供發射弩矢的結構和穩定性。",
+    "miapi.module.crossbow_arms_normal.short_description": "弩的堅固核心框架，提供發射弩矢的結構和穩定性。",
+
+    "miapi.module.crossbow_string_normal": "弩弦",
+    "miapi.module.crossbow_string_normal.name": "[translation.[material.translation]]弩弦",
+    "miapi.module.crossbow_string_normal.description": "發射弩矢的高張力元件，具有力量和精確度。",
+    "miapi.module.crossbow_string_normal.short_description": "發射弩矢的高張力元件，具有力量和精確度。",
+
+    "miapi.module.crossbow.name": "[translation.[material.translation]]弩"
+}

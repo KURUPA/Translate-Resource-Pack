@@ -1,0 +1,276 @@
+{
+    "miapi.slot.helmet.name": "空頭盔槽",
+
+    "miapi.slot.frontplate.name": "空前片槽",
+    "miapi.slot.backplate.name": "空背板槽",
+    "miapi.slot.arm_left.name": "空左臂槽",
+    "miapi.slot.arm_right.name": "空右臂槽",
+
+    "miapi.slot.belt.name": "空腰帶槽",
+    "miapi.slot.leg_left.name": "空左腿槽",
+    "miapi.slot.leg_right.name": "空右腿槽",
+
+    "miapi.slot.boot_left.name": "空左靴槽",
+    "miapi.slot.boot_right.name": "空右靴槽",
+
+    "miapi.slot.chest_center.name": "胸部裝飾槽",
+    "miapi.slot.chest_back_center.name": "背部裝飾槽",
+    "miapi.slot.arm_patch.name": "臂部裝飾槽",
+    "miapi.slot.hat.name": "帽子槽",
+
+    "miapi.underboot.lore": "襪子，Modular Boots 的基礎",
+    "miapi.underchest.lore": "內衣，Modular Chestplate 的基礎",
+    "miapi.underhelmet.lore": "底下的頭盔，Modular Helmets 的基礎",
+
+    "miapi.module.boot_base": "襪子",
+    "miapi.module.boot_base.name": "襪子",
+    "miapi.module.boot_base.description": "保持鞋子的襪子",
+
+    "miapi.module.pants_base": "內褲",
+    "miapi.module.pants_base.name": "內褲",
+    "miapi.module.pants_base.description": "保持褲子的內褲",
+
+    "miapi.module.chest_base": "內衣",
+    "miapi.module.chest_base.name": "內衣",
+    "miapi.module.chest_base.description": "支撐盔甲的內衣",
+
+    "miapi.module.helmet_base": "頭盔底座",
+    "miapi.module.helmet_base.name": "頭盔底座",
+    "miapi.module.helmet_base.description": "一個小片在你的頭上，用來固定頭盔",
+
+    "miapi.module.boot_left": "左靴",
+    "miapi.module.boot_left.name": "[translation.[material.translation]]靴子",
+    "miapi.module.boot_left.description": "保護左腳的左靴",
+
+    "miapi.module.boot_right": "右靴",
+    "miapi.module.boot_right.name": "[translation.[material.translation]]靴子",
+    "miapi.module.boot_right.description": "保護右腳的右靴",
+
+    "miapi.module.leg_left": "左褲子",
+    "miapi.module.leg_left.name": "[translation.[material.translation]]左褲子",
+    "miapi.module.leg_left.description": "保護左腿的左褲子",
+
+    "miapi.module.leg_right": "右褲子",
+    "miapi.module.leg_right.name": "[translation.[material.translation]]右褲子",
+    "miapi.module.leg_right.description": "保護右腿的右褲子",
+
+    "miapi.module.belt_base": "腰帶",
+    "miapi.module.belt_base.name": "[translation.[material.translation]]護腿",
+    "miapi.module.belt_base.description": "保護腹部並保持褲子高的一塊",
+
+    "miapi.module.arm_left": "左臂肩甲",
+    "miapi.module.arm_left.name": "[translation.[material.translation]]左臂肩甲",
+    "miapi.module.arm_left.description": "保護左臂的一塊盔甲",
+
+    "miapi.module.arm_right": "右臂肩甲",
+    "miapi.module.arm_right.name": "[translation.[material.translation]]右臂肩甲",
+    "miapi.module.arm_right.description": "保護右臂的一塊盔甲",
+
+    "miapi.module.front_chestplate": "胸甲",
+    "miapi.module.front_chestplate.name": "[translation.[material.translation]]胸甲",
+    "miapi.module.front_chestplate.description": "保護胸部的一塊盔甲",
+
+    "miapi.module.back_chestplate": "背甲",
+    "miapi.module.back_chestplate.name": "[translation.[material.translation]]背甲",
+    "miapi.module.back_chestplate.description": "保護背部的一塊盔甲",
+
+    "miapi.module.helmet_plate": "頭盔",
+    "miapi.module.helmet_plate.name": "[translation.[material.translation]]頭盔",
+    "miapi.module.helmet_plate.description": "一個裝甲頭盔，保護頭部",
+
+
+    "miapi.module.boot_left_heavy": "重型左靴",
+    "miapi.module.boot_left_heavy.name": "[translation.[material.translation]]重型靴子",
+    "miapi.module.boot_left_heavy.description": "提高保護力的重型靴子，但使游泳變得更困難",
+
+    "miapi.module.boot_right_heavy": "重型右靴",
+    "miapi.module.boot_right_heavy.name": "[translation.[material.translation]]重型靴子",
+    "miapi.module.boot_right_heavy.description": "提高保護力的重型靴子，但使游泳變得更困難",
+
+    "miapi.module.leg_left_heavy": "重型左褲子",
+    "miapi.module.leg_left_heavy.name": "[translation.[material.translation]]重型左褲子",
+    "miapi.module.leg_left_heavy.description": "保護左腿的重型褲子",
+
+    "miapi.module.leg_right_heavy": "重型右褲子",
+    "miapi.module.leg_right_heavy.name": "[translation.[material.translation]]重型右褲子",
+    "miapi.module.leg_right_heavy.description": "保護右腿的重型褲子",
+
+    "miapi.module.belt_heavy": "重型腰帶",
+    "miapi.module.belt_heavy.name": "[translation.[material.translation]]重型護腿",
+    "miapi.module.belt_heavy.description": "妨礙游泳的重型腰帶",
+
+    "miapi.module.arm_left_heavy": "左重型肩甲",
+    "miapi.module.arm_left_heavy.name": "[translation.[material.translation]]左重型肩甲",
+    "miapi.module.arm_left_heavy.description": "保護左臂的重型盔甲",
+
+    "miapi.module.arm_right_heavy": "右重型肩甲",
+    "miapi.module.arm_right_heavy.name": "[translation.[material.translation]]右重型肩甲",
+    "miapi.module.arm_right_heavy.description": "保護右臂的重型盔甲",
+
+    "miapi.module.front_chestplate_heavy": "重型胸甲",
+    "miapi.module.front_chestplate_heavy.name": "[translation.[material.translation]]重型胸甲",
+    "miapi.module.front_chestplate_heavy.description": "提供增加保護力的重型胸甲",
+
+    "miapi.module.back_chestplate_heavy": "重型背甲",
+    "miapi.module.back_chestplate_heavy.name": "[translation.[material.translation]]重型背甲",
+    "miapi.module.back_chestplate_heavy.description": "提供增加保護力的重型背甲",
+
+    "miapi.module.helmet_heavy": "重型頭盔",
+    "miapi.module.helmet_heavy.name": "[translation.[material.translation]]重型頭盔",
+    "miapi.module.helmet_heavy.description": "帶有改進護甲的重型頭盔",
+
+
+
+    "miapi.module.boot_chain_left_crafted": "左鍊靴",
+    "miapi.module.boot_chain_left_crafted.name": "[translation.[material.translation]]鍊靴",
+    "miapi.module.boot_chain_left_crafted.description": "保護左腳的左靴",
+
+    "miapi.module.boot_chain_right_crafted": "右鍊靴",
+    "miapi.module.boot_chain_right_crafted.name": "[translation.[material.translation]]鍊靴",
+    "miapi.module.boot_chain_right_crafted.description": "保護右腳的右靴",
+
+    "miapi.module.leg_chain_left_crafted": "左鍊褲子",
+    "miapi.module.leg_chain_left_crafted.name": "[translation.[material.translation]]左鍊褲子",
+    "miapi.module.leg_chain_left_crafted.description": "保護左腿的左鍊褲子",
+
+    "miapi.module.leg_chain_right_crafted": "右鍊褲子",
+    "miapi.module.leg_chain_right_crafted.name": "[translation.[material.translation]]右鍊褲子",
+    "miapi.module.leg_chain_right_crafted.description": "保護右腿的右鍊褲子",
+
+    "miapi.module.belt_chain_crafted": "鍊腰帶",
+    "miapi.module.belt_chain_crafted.name": "[translation.[material.translation]]鍊護腿",
+    "miapi.module.belt_chain_crafted.description": "保護腹部並保持褲子高的一塊鍊護腿",
+
+    "miapi.module.arm_chain_left_crafted": "左鍊袖套",
+    "miapi.module.arm_chain_left_crafted.name": "[translation.[material.translation]]左鍊袖套",
+    "miapi.module.arm_chain_left_crafted.description": "保護左臂的一塊鍊袖套",
+
+    "miapi.module.arm_chain_right_crafted": "右鍊袖套",
+    "miapi.module.arm_chain_right_crafted.name": "[translation.[material.translation]]右鍊袖套",
+    "miapi.module.arm_chain_right_crafted.description": "保護右臂的一塊鍊袖套",
+
+    "miapi.module.front_chain_chestplate_crafted": "鍊胸甲",
+    "miapi.module.front_chain_chestplate_crafted.name": "[translation.[material.translation]]鍊胸甲",
+    "miapi.module.front_chain_chestplate_crafted.description": "保護胸部的一塊鍊胸甲",
+
+    "miapi.module.back_chain_chestplate_crafted": "鍊背甲",
+    "miapi.module.back_chain_chestplate_crafted.name": "[translation.[material.translation]]鍊背甲",
+    "miapi.module.back_chain_chestplate_crafted.description": "保護背部的一塊鍊背甲",
+
+    "miapi.module.helmet_chain_crafted": "鍊頭盔",
+    "miapi.module.helmet_chain_crafted.name": "[translation.[material.translation]]鍊頭盔",
+    "miapi.module.helmet_chain_crafted.description": "保護頭部的一塊鍊頭盔",
+
+
+
+    "miapi.module.boot_left_scuba": "左潛水靴",
+    "miapi.module.boot_left_scuba.name": "[translation.[material.translation]]潛水靴",
+    "miapi.module.boot_left_scuba.description": "游泳用的左潛水靴",
+
+    "miapi.module.boot_right_scuba": "右潛水靴",
+    "miapi.module.boot_right_scuba.name": "[translation.[material.translation]]潛水靴",
+    "miapi.module.boot_right_scuba.description": "游泳用的右潛水靴",
+
+    "miapi.module.leg_left_scuba": "左潛水褲",
+    "miapi.module.leg_left_scuba.name": "[translation.[material.translation]]左潛水褲",
+    "miapi.module.leg_left_scuba.description": "游泳用的左潛水褲",
+
+    "miapi.module.leg_right_scuba": "右潛水褲",
+    "miapi.module.leg_right_scuba.name": "[translation.[material.translation]]右潛水褲",
+    "miapi.module.leg_right_scuba.description": "游泳用的右潛水褲",
+
+    "miapi.module.belt_scuba": "潛水腰帶",
+    "miapi.module.belt_scuba.name": "[translation.[material.translation]]潛水護腿",
+    "miapi.module.belt_scuba.description": "允許更快游泳的潛水腰帶",
+
+    "miapi.module.arm_left_scuba": "左潛水袖套",
+    "miapi.module.arm_left_scuba.name": "[translation.[material.translation]]左潛水袖套",
+    "miapi.module.arm_left_scuba.description": "潛水用的左潛水袖套",
+
+    "miapi.module.arm_right_scuba": "右潛水袖套",
+    "miapi.module.arm_right_scuba.name": "[translation.[material.translation]]右潛水袖套",
+    "miapi.module.arm_right_scuba.description": "潛水用的右潛水袖套",
+
+    "miapi.module.front_chestplate_scuba": "潛水胸甲",
+    "miapi.module.front_chestplate_scuba.name": "[translation.[material.translation]]潛水胸甲",
+    "miapi.module.front_chestplate_scuba.description": "提高游泳速度的潛水套胸甲",
+
+    "miapi.module.back_chestplate_scuba": "潛水背甲",
+    "miapi.module.back_chestplate_scuba.name": "[translation.[material.translation]]潛水背甲",
+    "miapi.module.back_chestplate_scuba.description": "提高游泳速度的潛水套背甲",
+
+    "miapi.module.helmet_scuba": "潛水頭盔",
+    "miapi.module.helmet_scuba.name": "[translation.[material.translation]]潛水頭盔",
+    "miapi.module.helmet_scuba.description": "提高游泳速度的潛水頭盔",
+
+
+
+    "miapi.module.boot_chain_left": "舊的左鍊靴",
+    "miapi.module.boot_chain_left.name": "[translation.[material.translation]]鍊靴",
+    "miapi.module.boot_chain_left.description": "保護左腳的舊左靴",
+
+    "miapi.module.boot_chain_right": "舊的右鍊靴",
+    "miapi.module.boot_chain_right.name": "[translation.[material.translation]]鍊靴",
+    "miapi.module.boot_chain_right.description": "保護右腳的舊右靴",
+
+    "miapi.module.leg_chain_left": "舊的左鍊褲子",
+    "miapi.module.leg_chain_left.name": "[translation.[material.translation]]左鍊褲子",
+    "miapi.module.leg_chain_left.description": "保護左腿的舊左鍊褲子",
+
+    "miapi.module.leg_chain_right": "舊的右鍊褲子",
+    "miapi.module.leg_chain_right.name": "[translation.[material.translation]]右鍊褲子",
+    "miapi.module.leg_chain_right.description": "保護右腿的舊右鍊褲子",
+
+    "miapi.module.belt_chain": "舊的鍊腰帶",
+    "miapi.module.belt_chain.name": "[translation.[material.translation]]鍊護腿",
+    "miapi.module.belt_chain.description": "保護腹部並保持褲子高的一塊舊的鍊護腿",
+
+    "miapi.module.arm_chain_left": "舊的左鍊袖套",
+    "miapi.module.arm_chain_left.name": "[translation.[material.translation]]左鍊袖套",
+    "miapi.module.arm_chain_left.description": "保護左臂的一塊舊的鍊袖套",
+
+    "miapi.module.arm_chain_right": "舊的右鍊袖套",
+    "miapi.module.arm_chain_right.name": "[translation.[material.translation]]右鍊袖套",
+    "miapi.module.arm_chain_right.description": "保護右臂的一塊舊的鍊袖套",
+
+    "miapi.module.front_chain_chestplate": "舊的鍊胸甲",
+    "miapi.module.front_chain_chestplate.name": "[translation.[material.translation]]鍊胸甲",
+    "miapi.module.front_chain_chestplate.description": "保護胸部的一塊舊的鍊胸甲",
+
+    "miapi.module.back_chain_chestplate": "舊的鍊背甲",
+    "miapi.module.back_chain_chestplate.name": "[translation.[material.translation]]鍊背甲",
+    "miapi.module.back_chain_chestplate.description": "保護背部的一塊舊的鍊背甲",
+
+    "miapi.module.helmet_chain": "舊的鍊頭盔",
+    "miapi.module.helmet_chain.name": "[translation.[material.translation]]鍊頭盔",
+    "miapi.module.helmet_chain.description": "保護頭部的一塊舊的鍊頭盔",
+
+
+    "miapi.module.wing_boot_left": "左翼",
+    "miapi.module.wing_boot_left.name": "[translation.[material.translation]]翅膀",
+    "miapi.module.wing_boot_left.description": "左腳上的翅膀，可更好地轉彎",
+
+    "miapi.module.wing_boot_right": "右翼",
+    "miapi.module.wing_boot_right.name": "[translation.[material.translation]]翅膀",
+    "miapi.module.wing_boot_right.description": "右腳上的翅膀，可更好地轉彎",
+
+    "miapi.module.wing_arm_left": "左翼翼片",
+    "miapi.module.wing_arm_left.name": "[translation.[material.translation]]左翼翼片",
+    "miapi.module.wing_arm_left.description": "穩定飛行的小翼",
+
+    "miapi.module.wing_arm_right": "右翼翼片",
+    "miapi.module.wing_arm_right.name": "[translation.[material.translation]]右翼翼片",
+    "miapi.module.wing_arm_right.description": "穩定飛行的小翼",
+
+    "miapi.module.wing_belt": "翼帶",
+    "miapi.module.wing_belt.name": "[translation.[material.translation]]翼護腿",
+    "miapi.module.wing_belt.description": "穿在腰部的小翼，可使你更好地飛行",
+
+    "miapi.module.wing_chestplate": "翼甲",
+    "miapi.module.wing_chestplate.name": "[translation.[material.translation]]翼甲",
+    "miapi.module.wing_chestplate.description": "穿在胸部的小翼，可使你更好地飛行",
+
+    "miapi.module.wing_helmet": "翼盔",
+    "miapi.module.wing_helmet.name": "[translation.[material.translation]]翼盔",
+    "miapi.module.wing_helmet.description": "戴在頭上的小翼，可使你更好地飛行"
+}

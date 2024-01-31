@@ -1,0 +1,26 @@
+{
+    "enchantment.moblassos.holding": "持續時間",
+    "enchantment.moblassos.holding.desc": "增加套索能夠固定生物的時間。",
+    "item.moblassos.aqua_lasso": "水生套索",
+    "item.moblassos.aqua_lasso.desc": "固定：水中生物",
+    "item.moblassos.contract": "合約",
+    "item.moblassos.contract.accept": "%s 接受了合約",
+    "item.moblassos.contract.desc": "村民必須在使用綠寶石套索之前接受合約。升級後增加接受合約的機會。",
+    "item.moblassos.contract.reject": "%s 拒絕了合約",
+    "item.moblassos.creative_lasso": "創造套索",
+    "item.moblassos.creative_lasso.desc": "固定：任何生物",
+    "item.moblassos.diamond_lasso": "鑽石套索",
+    "item.moblassos.diamond_lasso.desc": "固定：任何動物",
+    "item.moblassos.emerald_lasso": "綠寶石套索",
+    "item.moblassos.emerald_lasso.desc": "固定：村民",
+    "item.moblassos.golden_lasso": "黃金套索",
+    "item.moblassos.golden_lasso.desc": "固定：動物",
+    "item.moblassos.hostile_lasso": "敵對套索",
+    "item.moblassos.hostile_lasso.desc": "固定：怪物",
+    "item.moblassos.hostile_lasso.hostile": "%s 必須低於 %s 的生命值（目前為 %s）",
+    "item.moblassos.lasso.remaining": "剩餘時間：%ss",
+    "itemGroup.moblassos.main": "生物套索",
+    "subtitles.item.lasso.pick_up": "生物被固定",
+    "subtitles.item.lasso.release": "生物被釋放"
+  }
+  

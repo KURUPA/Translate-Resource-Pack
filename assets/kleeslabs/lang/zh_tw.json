@@ -1,0 +1,9 @@
+{
+    "config.kleeslabs.title": "Klee半磚s",
+    "config.kleeslabs.mode": "模式",
+    "config.kleeslabs.mode.tooltip": "控制 Klee半磚s 是否應該始終觸發，只在潛行時觸發，還是只在非潛行時觸發",
+    "config.kleeslabs.disabledCompat": "禁用相容性",
+    "config.kleeslabs.disabledCompat.tooltip": "應禁用相容性的模組ID",
+    "config.kleeslabs.dump半磚s": "除錯傾卸石板",
+    "config.kleeslabs.dump半磚s.tooltip": "用於開發目的。設置為 true 以使 Klee半磚s 在世界載入時傾卸包含單字 'slab' 在其名稱中的物品列表。"
+  }

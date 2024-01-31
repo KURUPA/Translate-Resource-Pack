@@ -1,0 +1,26 @@
+{
+    "block.culinaryconstruct.culinary_station": "烹飪站",
+    "culinaryconstruct.culinary_container": "製作&命名",
+    "item.culinaryconstruct.sandwich": "三明治",
+    "item.culinaryconstruct.food_bowl": "一碗食物",
+    "item.culinaryconstruct.stew": "燉肉",
+    "tooltip.culinaryconstruct.ingredients.name": "配料",
+    "tooltip.culinaryconstruct.ingredients": "按住[Shift]查看配料",
+    "tooltip.culinaryconstruct.quality.0": "難吃",
+    "tooltip.culinaryconstruct.quality.1": "乏味",
+    "tooltip.culinaryconstruct.quality.2": "適中",
+    "tooltip.culinaryconstruct.quality.3": "可口",
+    "tooltip.culinaryconstruct.quality.4": "美味",
+    "tooltip.culinaryconstruct.count.2": "雙倍",
+    "tooltip.culinaryconstruct.count.3": "三倍",
+    "tooltip.culinaryconstruct.count.4": "四倍",
+    "tooltip.culinaryconstruct.count.5": "五倍",
+    "tooltip.culinaryconstruct.list.1": "%s",
+    "tooltip.culinaryconstruct.list.2": "%s和%s",
+    "tooltip.culinaryconstruct.list.3": "%s,%s,和%s",
+    "tooltip.culinaryconstruct.list.4": "%s,%s,%s,和%s",
+    "tooltip.culinaryconstruct.list.5": "%s,%s,%s,%s,和%s",
+    "culinaryconstruct.advancements.culinary_station.title": "廚藝",
+    "culinaryconstruct.advancements.culinary_station.description": "製作三明治或一碗食物"
+  }
+  

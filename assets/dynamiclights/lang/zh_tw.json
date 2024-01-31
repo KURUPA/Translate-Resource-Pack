@@ -1,0 +1,47 @@
+{
+    "dynamiclights.midnightconfig.title": "動態光線配置",
+    "dynamiclights.midnightconfig.configure_ingame": "§dℹ 資訊:§r§f 若要在每個世界上配置此資料包，",
+    "dynamiclights.midnightconfig.configure_ingame2": "加入一個世界，並執行指令 §o/function dynamiclights:settings§r。",
+    "dynamiclights.midnightconfig.empty": "",
+    "dynamiclights.midnightconfig.global_settings": "§n§l-=- 全域設定 -=-",
+    "dynamiclights.midnightconfig.info": "§dℹ 資訊:§r§f 這些設定將全域應用於所有世界。",
+    "dynamiclights.midnightconfig.info2": "請確保重新加入任何世界以使全域設定生效。",
+    "dynamiclights.midnightconfig.light": "§l啟用發光從...",
+    "dynamiclights.midnightconfig.empty2": "",
+    "dynamiclights.midnightconfig.additional_light": "§l啟用額外發光從...",
+    "dynamiclights.midnightconfig.empty3": "",
+    "dynamiclights.midnightconfig.other": "§l其他",
+  
+    "dynamiclights.midnightconfig.enable_on_fire": "燃燒的實體",
+    "dynamiclights.midnightconfig.enable_on_fire.tooltip": "預設: §a是§f",
+    "dynamiclights.midnightconfig.enable_glowing": "擁有發光效果的實體",
+    "dynamiclights.midnightconfig.enable_glowing.tooltip": "預設: §c否§f",
+    "dynamiclights.midnightconfig.enable_ghast": "即將發射火球的恐怖飛獸",
+    "dynamiclights.midnightconfig.enable_ghast.tooltip": "預設: §a是§f",
+    "dynamiclights.midnightconfig.enable_enchanted_items": "附魔物品",
+    "dynamiclights.midnightconfig.enable_enchanted_items.tooltip": "預設: §a是§f\n§6⚠ 注意: 這可能會降低某些生物農場的效能。",
+    "dynamiclights.midnightconfig.enable_amethyst_trimmed": "用紫晶修飾的盔甲",
+    "dynamiclights.midnightconfig.enable_amethyst_trimmed.tooltip": "預設: §a是§f\n僅適用於 Minecraft 1.20+",
+  
+    "dynamiclights.midnightconfig.enable_fire_aspect": "附魔火焰之觸的物品",
+    "dynamiclights.midnightconfig.enable_fire_aspect.tooltip": "預設: §a是§f\n§6⚠ 注意: 這可能會降低某些生物農場的效能。",
+    "dynamiclights.midnightconfig.enable_riptide": "附魔激流之軛的三叉戟在水中",
+    "dynamiclights.midnightconfig.enable_riptide.tooltip": "預設: §a是§f\n僅在啟用水敏感檢查時有效。",
+    "dynamiclights.midnightconfig.enable_channeling": "附魔引雷的三叉戟在雷暴期間",
+    "dynamiclights.midnightconfig.enable_channeling.tooltip": "預設: §a是§f",
+  
+    "dynamiclights.midnightconfig.enable_water_sensitive": "水敏感檢查",
+    "dynamiclights.midnightconfig.enable_water_sensitive.tooltip": "預設: §a是§f\n如果啟用，水敏感物品（如火把）在水中時會關閉。",
+    "dynamiclights.midnightconfig.enable_sound": " └ 聲音提示",
+    "dynamiclights.midnightconfig.enable_sound.tooltip": "預設: §a是§f\n如果啟用，當水敏感物品關閉或開啟時，會播放聲音提示。",
+    "dynamiclights.midnightconfig.enable_rain_sensitive": " └ 雨天檢查",
+    "dynamiclights.midnightconfig.enable_rain_sensitive.tooltip": "預設: §a是§f\n如果啟用，觸碰雨水將視為在水中。\n僅在啟用水敏感檢查時生效。\n僅適用於 Minecraft 1.19.4+",
+  
+    "dynamiclights.midnightconfig.enum.bool.WORLD": "§b世界特定",
+    "dynamiclights.midnightconfig.enum.bool.YES": "§a[✔] 是",
+    "dynamiclights.midnightconfig.enum.bool.NO": "§c[❌] 否",
+  
+    "modmenu.summaryTranslation.dynamiclights": "支援的實體和物品，如火把或燈籠，會發出光線！僅在伺服器端生效！",
+    "modmenu.donate": "捐款"
+  }
+  

@@ -1,0 +1,13 @@
+{
+    "Use /locate structure betterjungletemples:jungle_temple instead!": "請使用 /locate structure betterjungletemples:jungle_temple 代替！",
+    "text.autoconfig.betterjungletemples-fabric-1_20.title": "YUNG's 更好的叢林神殿",
+    "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples": "YUNG's 更好的叢林神殿",
+    "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.general": "一般",
+    "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.general.@Tooltip": "一般設定",
+    "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.compat": "模組相容性",
+    "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.compat.@Tooltip": "模組相容性設定",
+    "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.general.disableVanillaJungleTemples": "停用原版叢林神殿",
+    "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.general.disableVanillaJungleTemples.@Tooltip": "是否停用原版叢林神殿。",
+    "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.compat.pickYourPoisonEnabled": "啟用 Pick Your Poison 相容性",
+    "text.autoconfig.betterjungletemples-fabric-1_20.option.betterJungleTemples.compat.pickYourPoisonEnabled.@Tooltip": "是否在更好的叢林神殿中生成 Pick Your Poison 的毒箭。"
+}

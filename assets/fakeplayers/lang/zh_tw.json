@@ -1,0 +1,13 @@
+{
+    "item.fakeplayers.fake_player_spawn_egg": "玩家 生怪蛋",
+    "item.fakeplayers.fake_player_slim_spawn_egg": "瘦玩家 生怪蛋",
+    "item.fakeplayers.player_shell": "機器人外殼",
+    "item.fakeplayers.player_ai": "機器人 AI",
+    "itemGroup.fp_tab": "假玩家",
+    "screens.fakeplayers.done": "完成",
+    "screens.fakeplayers.stayPut": "原地待命",
+    "screens.fakeplayers.follow": "跟隨",
+    "screens.fakeplayers.wander": "四處遊蕩",
+    "screens.fakeplayers.send": "發送聊天",
+    "screens.fakeplayers.sit": "切換坐姿"
+  }

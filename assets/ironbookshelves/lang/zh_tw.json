@@ -1,0 +1,15 @@
+{
+    "block.ironbookshelves.emerald_bookshelf": "綠寶石書架",
+    "block.ironbookshelves.golden_bookshelf": "金書架",
+    "block.ironbookshelves.obsidian_bookshelf": "黑曜石書架",
+    "block.ironbookshelves.diamond_bookshelf": "鑽石書架",
+    "block.ironbookshelves.netherite_bookshelf": "地獄合金書架",
+    "block.ironbookshelves.iron_bookshelf": "鐵書架",
+    "block.ironbookshelves.copper_bookshelf": "銅書架",
+    "block.ironbookshelves.amethyst_bookshelf": "紫水晶書架",
+    "block.ironbookshelves.crying_obsidian_bookshelf": "哭泣的黑曜書架",
+    "block.ironbookshelves.enderite_bookshelf": "終界合金書架",
+    "block.ironbookshelves.steel_bookshelf": "鋼書架",
+    "block.ironbookshelves.bronze_bookshelf": "青銅書架",
+    "ironbookshelves.config.title": "鐵書架"
+  }

@@ -1,0 +1,23 @@
+{
+    "jearchaeology.recipe.brush": "刷洗",
+    "jearchaeology.recipe.sniff": "偵測",
+    "jearchaeology.brush.structure.desert_well": "沙漠井",
+    "jearchaeology.brush.structure.desert_pyramid": "沙漠金字塔",
+    "jearchaeology.brush.structure.trail_ruins": "小徑廢墟",
+    "jearchaeology.brush.structure.warm_ocean_ruin": "溫暖海洋遺跡",
+    "jearchaeology.brush.structure.cold_ocean_ruin": "寒冷海洋遺跡",
+    "jearchaeology.brush.structure.bastion": "堡壘",
+    "jearchaeology.brush.structure.ancient_city": "古老城市",
+    "jearchaeology.brush.structure.buried_ruins_or_obelist": "埋藏的廢墟和沙漠方尖碑",
+    "jearchaeology.brush.structure.archeologist_camp_sand": "考古學家營地",
+    "jearchaeology.brush.structure.archeologist_camp_redsand": "考古學家營地",
+    "jearchaeology.brush.structure.archeologist_camp_grassy": "考古學家營地",
+    "jearchaeology.brush.structure.underwater": "水下",
+    "jearchaeology.brush.structure.plains_gravel": "巨石陣",
+    "jearchaeology.brush.structure.fossil_chicken": "雞化石",
+    "jearchaeology.brush.structure.fossil_creeper": "爬行者化石",
+    "jearchaeology.brush.structure.fossil_jungle": "叢林貓化石",
+    "jearchaeology.brush.structure.fossil_sheep": "羊化石",
+    "jearchaeology.brush.structure.fossil_villager": "村民化石"
+  }
+  

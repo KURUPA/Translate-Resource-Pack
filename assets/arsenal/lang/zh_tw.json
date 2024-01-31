@@ -1,0 +1,203 @@
+{
+    "miapi.skin.name.star_wars": "",
+    "miapi.skin.name.buster": "破壞者之劍",
+    "miapi.skin.name.dragon_slayer": "屠龍者之劍",
+    "miapi.skin.name.masamune": "正宗正宗",
+    "miapi.skin.name.soul_slayer": "靈魂屠戮者",
+    "miapi.skin.name.gladius": "羅馬短劍",
+    "miapi.skin.name.master": "大師之劍",
+    "miapi.skin.name.uzui": "鬼殺隊之刀",
+    "miapi.skin.name.omens": "預兆之刃",
+    "miapi.skin.name.key_blade": "鑰匙之劍",
+    "miapi.skin.name.skyrim": "",
+    "miapi.skin.name.goldbrand": "",
+    "miapi.skin.name.guard_katana": "武士刀護手",
+
+    "miapi.create_item.sword": "劍",
+    "miapi.create_item.tool": "工具",
+
+    "miapi.slot.tool_head.name": "空工具頭槽",
+    "miapi.slot.tool_back.name": "空工具後槽",
+    "miapi.slot.sword_blade.name": "空刀片槽",
+    "miapi.slot.pommel.name" : "空鞍頭槽",
+    "miapi.slot.guard.name" : "空防護槽",
+
+    "miapi.ability.heavy_attack.title": "重攻擊",
+       "miapi.ability.heavy_attack.description": "右鍵進行重攻擊\n造成 %s 倍傷害和 %s 格的範圍\n右鍵需保持按住 %s 秒",
+       "miapi.ability.heavy_attack.lore": "右鍵進行充能攻擊",
+       "miapi.ability.block.lore": "右鍵進行格擋",
+       "miapi.ability.throw.lore": "可投擲",
+     
+       "miapi.module.blade_dagger": "匕首刀刃",
+       "miapi.module.blade_dagger.name": "[translation.[material.translation]]匕首",
+       "miapi.module.blade_dagger.description": "一個普通的刀刃，常被小偷和惡棍使用。",
+       "miapi.module.blade_dagger.short_description": "匕首刀刃頭部。",
+     
+       "miapi.module.blade_greatsword": "大劍刀刃",
+       "miapi.module.blade_greatsword.name": "[translation.[material.translation]]大劍",
+       "miapi.module.blade_greatsword.description": "一把用於猛烈打擊的龐大雙手劍。",
+       "miapi.module.blade_greatsword.short_description": "大劍刀刃頭部。",
+     
+       "miapi.module.blade_zweihaender": "重型劍刀刃",
+       "miapi.module.blade_zweihaender.name": "[translation.[material.translation]]重型劍",
+       "miapi.module.blade_zweihaender.description": "一把中世紀德國劍，非常適合招架，其細劍可穿透盔甲。",
+       "miapi.module.blade_zweihaender.short_description": "中世紀德國劍，非常適合招架，其細劍可穿透盔甲。",
+     
+       "miapi.module.blade_katana": "武士刀刀刃",
+       "miapi.module.blade_katana.name": "[translation.[material.translation]]武士刀",
+       "miapi.module.blade_katana.description": "一把以其鋒利和精準而聞名的日本傳統刀劍。",
+    "miapi.module.blade_katana.short_description": "武士刀頭部。",   
+
+    "miapi.module.blade_longsword": "長劍刀刃",
+    "miapi.module.blade_longsword.name": "[translation.[material.translation]]長劍",
+    "miapi.module.blade_longsword.description": "一把多用途且平衡的劍，提供速度和力量之間良好的平衡。",
+    "miapi.module.blade_longsword.short_description": "長劍刀刃頭部。",
+  
+    "miapi.module.blade_rapier": "短劍刀刃",
+    "miapi.module.blade_rapier.name": "[translation.[material.translation]]短劍",
+    "miapi.module.blade_rapier.description": "一把纖巧而靈活的劍，專為突刺攻擊和迅速機動而設計。",
+    "miapi.module.blade_rapier.short_description": "短劍刀刃頭部。",
+  
+    "miapi.module.blade_sword": "劍刀刃",
+    "miapi.module.blade_sword.name": "[translation.[material.translation]]劍",
+    "miapi.module.blade_sword.description": "一種經典且多用途的劍，被各種文化的戰士使用。",
+    "miapi.module.blade_sword.short_description": "基本劍刀頭部。",
+  
+    "miapi.module.blade_throwing_knife": "飛刀刀刃",
+    "miapi.module.blade_throwing_knife.name": "[translation.[material.translation]]飛刀",
+    "miapi.module.blade_throwing_knife.description": "一把小巧且輕量的刀，專為精準投擲而設計。",
+    "miapi.module.blade_throwing_knife.short_description": "飛刀刀刃頭部。",
+  
+    "miapi.module.blade_sickle": "鐮刀刀刃",
+    "miapi.module.blade_sickle.name": "[translation.[material.translation]]鐮刀",
+    "miapi.module.blade_sickle.description": "一個小巧的鐮刀頭部。可能有一些象徵意義。",
+    "miapi.module.blade_sickle.short_description": "鐮刀刀刃。",
+  
+    "miapi.module.blade_scythe": "長柄鐮刀刀刃",
+    "miapi.module.blade_scythe.name": "[translation.[material.translation]]長柄鐮刀",
+    "miapi.module.blade_scythe.description": "一個長柄的鐮刀頭部。通常用於割草或割倒人。",
+    "miapi.module.blade_scythe.short_description": "鐮刀刀刃，介於工具和武器之間。",
+
+    "miapi.module.guard_blocking": "大型護手",
+    "miapi.module.guard_blocking.name": "[translation.[material.translation]]大型護手",
+    "miapi.module.guard_blocking.description": "一個專為格擋而設計的護手。",
+    "miapi.module.guard_blocking.short_description": "一個大型翼狀護手。",
+  
+    "miapi.module.guard_katana": "武士刀護手",
+    "miapi.module.guard_katana.name": "[translation.[material.translation]]武士刀護手",
+    "miapi.module.guard_katana.description": "一個專為搭配武士刀使用而設計的護手。",
+    "miapi.module.guard_katana.short_description": "武士刀護手。",
+  
+    "miapi.module.guard_normal": "普通護手",
+    "miapi.module.guard_normal.name": "[translation.[material.translation]]普通護手",
+    "miapi.module.guard_normal.description": "一個適用於大多數劍種的標準護手。\n具有增加的耐久性。",
+    "miapi.module.guard_normal.short_description": "一個普通護手。",
+  
+    "miapi.module.guard_slim": "細長護手",
+    "miapi.module.guard_slim.name": "[translation.[material.translation]]細長護手",
+    "miapi.module.guard_slim.description": "一個細長的護手，減輕了重量並允許更快的打擊。",
+    "miapi.module.guard_slim.short_description": "一個細長護手。",
+  
+    "miapi.module.guard_winged": "翼狀護手",
+    "miapi.module.guard_winged.name": "[translation.[material.translation]]翼狀護手",
+    "miapi.module.guard_winged.description": "一個具有裝飾性翼狀延伸的護手，提供美觀和平衡。",
+    "miapi.module.guard_winged.short_description": "一個翼狀護手。",
+  
+    "miapi.module.pommel_cross": "十字柄頭",
+    "miapi.module.pommel_cross.name": "[translation.[material.translation]]十字柄頭",
+    "miapi.module.pommel_cross.description": "一個具有十字形設計的柄頭，增加握持力和美感。",
+    "miapi.module.pommel_cross.short_description": "一個十字柄頭。",
+  
+    "miapi.module.pommel_round": "圓形柄頭",
+    "miapi.module.pommel_round.name": "[translation.[material.translation]]圓形柄頭",
+    "miapi.module.pommel_round.description": "一個球形柄頭，提供平衡的重量分佈和舒適的握持感。",
+    "miapi.module.pommel_round.short_description": "一個圓形柄頭。",
+  
+    "miapi.module.pommel_spike": "尖刺柄頭",
+    "miapi.module.pommel_spike.name": "[translation.[material.translation]]尖刺柄頭",
+    "miapi.module.pommel_spike.description": "一個具有尖刺狀突起的柄頭，增加穿刺能力。",
+    "miapi.module.pommel_spike.short_description": "一個尖刺柄頭。",
+
+    "miapi.module.handle_polearm": "長柄武器柄頭",
+    "miapi.module.handle_polearm.name": "[translation.[material.translation]]長柄武器柄頭",
+    "miapi.module.handle_polearm.description": "一個適用於長柄武器的長柄，提供延伸和槓桿。",
+    "miapi.module.handle_polearm.short_description": "一個長柄武器柄頭",
+  
+    "miapi.module.handle_tool": "工具柄頭",
+    "miapi.module.handle_tool.name": "[translation.[material.translation]]工具柄頭",
+    "miapi.module.handle_tool.description": "一個堅固的柄頭，專為類似工具的武器設計，提供耐用性和功能性。",
+    "miapi.module.handle_tool.short_description": "一個工具柄頭",
+  
+    "miapi.module.handle_long": "長柄",
+    "miapi.module.handle_long.name": "[translation.[material.translation]]長柄",
+    "miapi.module.handle_long.description": "一個適合雙手劍的較長柄頭，提供增加的延伸和槓桿。",
+    "miapi.module.handle_long.short_description": "一個長柄",
+  
+    "miapi.module.handle_normal": "普通柄頭",
+    "miapi.module.handle_normal.name": "[translation.[material.translation]]普通柄頭",
+    "miapi.module.handle_normal.description": "一個適用於大多數劍種的標準尺寸柄頭。",
+    "miapi.module.handle_normal.short_description": "一個普通柄頭",
+  
+    "miapi.module.handle_short": "短柄頭",
+    "miapi.module.handle_short.name": "[translation.[material.translation]]短柄頭",
+    "miapi.module.handle_short.description": "一個適合單手劍的較短柄頭，提供更好的機動性。",
+    "miapi.module.handle_short.short_description": "一個短柄頭",
+  
+    "miapi.module.handle_twin": "雙柄頭",
+    "miapi.module.handle_twin.name": "[translation.[material.translation]]雙柄頭",
+    "miapi.module.handle_twin.description": "一個不切實際的雙柄頭，雙倍刀刃。\n看起來很酷。",
+    "miapi.module.handle_twin.short_description": "一個雙柄頭",
+
+    "miapi.module.axe_throwing": "投擲斧頭",
+    "miapi.module.axe_throwing.name": "[translation.[material.translation]]投擲斧",
+    "miapi.module.axe_throwing.description": "一把主要用於投擲的斧頭，也可用作近戰武器。",
+    "miapi.module.axe_throwing.short_description": "一個斧頭頭部",
+  
+    "miapi.module.axe_front": "斧頭頭部",
+    "miapi.module.axe_front.name": "[translation.[material.translation]]斧頭",
+    "miapi.module.axe_front.description": "斧頭的前部，用於砍伐和剝皮木材。也可用於戰鬥。",
+    "miapi.module.axe_front.short_description": "一個斧頭頭部",
+  
+    "miapi.module.axe_back": "斧頭尾部",
+    "miapi.module.axe_back.name": "[translation.[material.translation]]斧頭",
+    "miapi.module.axe_back.description": "斧頭的後部，用於砍伐和剝皮木材。也可用於戰鬥。",
+    "miapi.module.axe_back.short_description": "另一邊的斧頭頭部",
+  
+    "miapi.module.pickaxe_front": "鎬頭部",
+    "miapi.module.pickaxe_front.name": "[translation.[material.translation]]鎬",
+    "miapi.module.pickaxe_front.description": "鎬的前部，用於打破和挖掘方塊。",
+    "miapi.module.pickaxe_front.short_description": "一個鎬頭部",
+  
+    "miapi.module.pickaxe_back": "鎬尾部",
+    "miapi.module.pickaxe_back.name": "[translation.[material.translation]]鎬尾部",
+    "miapi.module.pickaxe_back.description": "鎬的後部，用於撬動和劈裂。",
+    "miapi.module.pickaxe_back.short_description": "一個鎬的尾部",
+  
+    "miapi.module.shovel": "鏟頭",
+    "miapi.module.shovel.name": "[translation.[material.translation]]鏟",
+    "miapi.module.shovel.description": "一個帶有寬闊鏟形的工具，用於挖掘和移動土壤。",
+    "miapi.module.shovel.short_description": "一把鏟",
+  
+    "miapi.module.tool_back": "工具尾部",
+    "miapi.module.tool_back.name": "[translation.[material.translation]]工具尾部",
+    "miapi.module.tool_back.description": "工具的後部，用於平衡工具頭的重量。",
+    "miapi.module.tool_back.short_description": "一個工具的尾部",
+  
+    "miapi.module.hoe_front": "鋤頭部",
+    "miapi.module.hoe_front.name": "[translation.[material.translation]]鋤",
+    "miapi.module.hoe_front.description": "鋤的前部，用於翻土。",
+    "miapi.module.hoe_front.short_description": "一個鋤頭部",
+  
+    "miapi.module.blade_spear": "矛頭",
+    "miapi.module.blade_spear.name": "[translation.[material.translation]]矛",
+    "miapi.module.blade_spear.description": "矛的前部，用於刺擊人。",
+    "miapi.module.blade_spear.short_description": "短矛頭",
+  
+    "miapi.module.blade_trident": "三叉戟頭",
+    "miapi.module.blade_trident.name": "[translation.[material.translation]]三叉戟",
+    "miapi.module.blade_trident.description": "三叉戟頭，有時也被稱為叉。",
+    "miapi.module.blade_trident.short_description": "三叉戟的刺擊部分",
+  
+    "miapi.module.mattock.name": "[translation.[material.translation]]鋤耙",
+    "miapi.module.blade_naginata.name": "[translation.[material.translation]]長柄薙刀"
+}

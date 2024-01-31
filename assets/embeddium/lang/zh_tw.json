@@ -1,0 +1,5 @@
+{
+    "embeddium.conflicting_mod": "Embeddium 檢測到已安裝的模組中有些可能會導致渲染問題或崩潰。建議卸載它們。請參考以下列表。",
+    "embeddium.conflicting_mod_list": "[{2}]"
+  }
+  

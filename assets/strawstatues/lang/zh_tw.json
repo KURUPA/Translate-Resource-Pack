@@ -1,0 +1,17 @@
+{
+    "entity.strawstatues.straw_statue": "稻草雕像",
+    "item.strawstatues.straw_statue": "稻草雕像",
+    "puzzlesapi.screen.rotations.pose.cape": "披風",
+    "puzzlesapi.screen.style.crouching": "蹲伏",
+    "puzzlesapi.screen.style.crouching.description": "使雕像顯示為蹲伏狀態。",
+    "puzzlesapi.screen.style.slimArms": "細手臂",
+    "puzzlesapi.screen.style.slimArms.description": "使雕像的手臂寬度減少幾個像素，就像 Minecraft 的 Alex 皮膚一樣。",
+    "puzzlesapi.screen.type.modelParts": "模型部分",
+    "puzzlesapi.screen.type.scale": "縮放和旋轉",
+    "strawstatues.screen.modelParts.name": "設置玩家名稱以使用雕像的皮膚。",
+    "strawstatues.screen.position.rotationX": "X 旋轉：",
+    "strawstatues.screen.position.rotationY": "Y 旋轉：",
+    "strawstatues.screen.position.rotationZ": "Z 旋轉：",
+    "strawstatues.screen.position.scale": "縮放："
+  }
+  

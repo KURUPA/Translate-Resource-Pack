@@ -1,0 +1,14 @@
+{
+    "item.packingtape.tape": "包裝膠帶",
+    "block.packingtape.packaged_block": "包裝的方塊",
+    "text.packingtape.tape.requires_paper": "需要紙張才能使用！",
+    "text.packingtape.packaged.cant_place": "無法在這裡解包內容！",
+    "text.packingtape.packaged.contains": "包含：%s",
+    "text.packingtape.packaged.missing_data": "缺少數據：%s",
+    "text.packingtape.packaged.no_nbt": "沒有NBT！",
+    "text.packingtape.packaged.no_tag": "沒有標籤！",
+    "text.packingtape.packaged.no_block": "沒有方塊資訊！",
+    "text.packingtape.packaged.unknown_block": "未知的方塊：",
+    "text.packingtape.packaged.no_item": "找不到物品："
+  }
+  
