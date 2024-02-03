@@ -1,0 +1,19 @@
+{
+    "item.miniumstone.minium_shard": "極小碎片",
+    "item.miniumstone.minium_stone": "極小石",
+    "item.miniumstone.minium_stone.changeSelection": "按下 [%s] + [%s] 切換模式",
+    "item.miniumstone.minium_stone.changedSelection": "已更改選擇模式為 %s",
+    "item.miniumstone.minium_stone.charge": "按下 [%s] 進行充能",
+    "item.miniumstone.minium_stone.crafting": "按下 [%s] 打開製作格",
+    "item.miniumstone.minium_stone.cube": "立方體",
+    "item.miniumstone.minium_stone.flat": "平面",
+    "item.miniumstone.minium_stone.line": "線條",
+    "item.miniumstone.minium_stone.selection": "選擇模式：%s",
+    "key.categories.miniumstone": "極小石",
+    "key.chargeMiniumStone": "充能極小石",
+    "key.openCraftingGrid": "打開製作格",
+    "subtitles.item.miniumstone.charge": "極小石正在充能",
+    "subtitles.item.miniumstone.transmute": "極小石轉化",
+    "subtitles.item.miniumstone.uncharge": "極小石停止充能"
+  }
+  
