@@ -1,0 +1,19 @@
+{
+  "advancements.a_little_woozy.descr": "喝點酒...",
+  "advancements.a_little_woozy.title": "微醺",
+  "item.tmted.bottle_of_wodka": "伏特加瓶",
+  "item.tmted.wheat_flour": "小麥麵粉",
+  "fluid.tmted.apple_cider": "蘋果酒",
+  "fluid_type.tmted.apple_cider": "蘋果酒",
+  "block.tmted.apple_cider": "蘋果酒",
+  "fluid.tmted.melon_juice": "甜瓜汁",
+  "fluid_type.tmted.melon_juice": "甜瓜汁",
+  "block.tmted.melon_juice": "甜瓜汁",
+  "block.tmted.tomato_sauce": "番茄醬",
+  "fluid.tmted.tomato_sauce": "番茄醬",
+  "fluid_type.tmted.tomato_sauce": "番茄醬",
+  "item.tmted.milk_bucket": "牛奶桶",
+  "block.tmted.milk": "牛奶",
+  "fluid.tmted.milk": "牛奶",
+  "fluid_type.tmted.milk": "牛奶"
+}

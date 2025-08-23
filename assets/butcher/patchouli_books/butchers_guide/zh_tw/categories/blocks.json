@@ -1,0 +1,6 @@
+﻿{
+    "name": "方塊",
+    "description": "了解有關 Butchery 模組的所有方塊。",
+    "icon": "butcher:butcherstable",
+    "sortnum": 3
+}

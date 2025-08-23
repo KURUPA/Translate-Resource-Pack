@@ -1,0 +1,20 @@
+﻿{
+    "name": "掛繩",
+  "icon": "butcher:rope",
+  "category": "butcher:blocks",
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+      {
+          "type": "patchouli:spotlight",
+          "item": "butcher:rope",
+          "link_recipe": true,
+          "title" : "掛繩",
+          "text": "掛繩是一個獨立的方塊，用於懸掛屍體和殘骸。獨立意味著它不需要像鉤子需要鎖鏈那樣的其他方塊。這是一個比鉤子更便宜的替代品，但它只能使用3次，之後就會損壞，適合早期遊戲使用。"
+      },
+      {
+          "type": "patchouli:crafting",
+          "recipe": "butcher:roperecipe"
+      }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "方塊樂器",
+    "icon": "mimi:drums",
+    "category": "mimi:2instruments",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "在 MIMI 中，方塊樂器必須以方塊形式放置於世界中，並需坐下後才能演奏。$(br2)同一時間內僅能演奏一個方塊樂器，且每個方塊樂器僅限一位玩家使用。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "演奏方式",
+            "text": "將樂器以方塊形式放置於世界中，然後右鍵點擊該方塊以坐下（類似乘船），再點擊一次以開啟樂器介面。$(br2)當你手持樂器且同時坐在另一個樂器上時，可能會不清楚點擊後開啟的是哪個介面，此時可使用快捷鍵 ($(bold)$(k:key.mimi.midi.gui.seat)$()) 直接開啟你所坐著的樂器介面。"
+        }
+    ],
+    "sortnum": 2
+}

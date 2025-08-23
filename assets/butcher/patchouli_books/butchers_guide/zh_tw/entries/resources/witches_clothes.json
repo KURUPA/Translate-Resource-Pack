@@ -1,0 +1,16 @@
+﻿{
+    "name": "女巫服",
+    "icon": "butcher:witcharmor_helmet",
+    "category": "butcher:resources",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:witcharmor_helmet",
+            "link_recipe": true,
+            "title" : "女巫服",
+            "text": "曾經想成為一名女巫嗎？現在你可以了。要獲取女巫的服飾，你需要取下她的帽子和斗篷，然後就可以留著自己穿了，太棒了！"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "發射器",
+    "description": "發射器允許 MIDI 檔案（來自你的 PC 或多人伺服器）在 MIMI 樂器上演奏音符.$(br2)MIDI 檔案是電腦可讀取的數位樂譜，包含最多 16 個部份（通道）。它們曾被廣泛應用，從卡拉 OK 機器到舊遊戲中的音樂（例如 $(l:https://www.youtube.com/watch?v=SJ0Ob4PlCDU)Doom$()、$(l:https://www.youtube.com/watch?v=60d4uGPNblo)Sonic$() 及 $(l:https://www.youtube.com/watch?v=QO6CMRg93dk)Warcraft$()）。",
+    "icon": "mimi:transmitter",
+    "sortnum": 3
+  }
+  

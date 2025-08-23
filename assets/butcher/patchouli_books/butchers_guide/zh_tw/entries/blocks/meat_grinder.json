@@ -1,0 +1,33 @@
+﻿{
+    "name": "絞肉機",
+    "icon": "butcher:empty_meat_grinder",
+    "category": "butcher:blocks",
+    "read_by_default": true,
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:empty_meat_grinder",
+            "link_recipe": true,
+            "title": "絞肉機",
+            "text": "絞肉機用於製作碎肉和香腸。絞肉機可以接受任何牛肉、任何羊肉或山羊肉以及任何豬肉（需要香腸灌裝頭）"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "絞肉機",
+            "recipe": "butcher:meatgrinderrecipe",
+            "recipe2": "butcher:sausagefillerattachmentrecipe",
+            "text": "可以手持香腸灌裝頭右鍵絞肉機來把罐裝頭裝在絞肉機上"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:sausages",
+            "title": "如何製作香腸",
+            "text": "$(li)1. 手持腸，右鍵點擊裝有香腸灌裝頭的絞肉機。$(li)2. 手持豬肉，右鍵點擊絞肉機。$(li)3. 空手右鍵點擊絞肉機。$(li)4. 手持刀，右鍵點擊絞肉機把成品切下來。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "香腸也可以放在地磚上、堆疊或掛在鉤子上，無論生熟。"
+        }
+    ]
+}

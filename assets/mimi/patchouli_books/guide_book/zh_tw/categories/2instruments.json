@@ -1,0 +1,7 @@
+{
+    "name": "樂器",
+    "description": "MIMI 提供了許多不同的樂器，你可以透過手持($(italic)手持樂器$())或者放置成方塊($(italic)方塊樂器$())的方式來演奏。",
+    "icon": "mimi:piano",
+    "sortnum": 2
+  }
+  

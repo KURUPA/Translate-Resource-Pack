@@ -1,0 +1,8 @@
+{
+    "text.easy_npc_example.hello.text": "哈囉 @initiator，我叫 @npc，很高興見到你！\n\n你想知道更多關於我的資訊嗎？",
+    "text.easy_npc_example.hello.yes_button": "是的，當然。",
+    "text.easy_npc_example.hello.no_button": "不，謝謝。",
+    "text.easy_npc_example.hello.yes_answer": "我是翻譯家，我可以幫助你理解世界的語言。",
+    "text.easy_npc_example.hello.no_answer": "好吧，祝你有美好的一天！",
+    "text.easy_npc_example.hello.name": "翻譯家"
+}

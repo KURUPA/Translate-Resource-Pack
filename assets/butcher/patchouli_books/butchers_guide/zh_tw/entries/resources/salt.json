@@ -1,0 +1,16 @@
+﻿{
+    "name": "鹽",
+    "icon": "butcher:salt",
+    "category": "butcher:resources",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:salt",
+            "link_recipe": true,
+            "title" : "鹽",
+            "text": "鹽用於鞣製皮革，將皮轉化為皮革。它還可以用於其他需要鹽的模組配方。鹽可以在海洋生物群系的水下找到，類似於黏土，也可以在大規模的結構中發現。另一種獲取鹽的方法是使用$(l:butcher:blocks/basin)曬鹽盆$(/l)，你還可以將其自動化！"
+        }
+    ]
+}

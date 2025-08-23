@@ -1,0 +1,7 @@
+{
+    "gamerule.animalMobCap": "動物數量上限",
+    "gamerule.animalMobCap.description": "當到達設定值時，動物將不再生成。",
+    "gamerule.persistentAnimals": "永久保留",
+    "gamerule.persistentAnimals.description": "動物將永久保留在世界中，並且只能透過餵食來繁衍。"
+  }
+  

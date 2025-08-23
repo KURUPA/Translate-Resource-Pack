@@ -1,0 +1,10 @@
+{
+  "item.convenientcurioscontainer.convenient_container": "飾品容器",
+  "gui.container_info": "關於容器內的物品：",
+  "gui.container_RMB": "右鍵點擊以交換或移動至第一個可用的飾品插槽。",
+  "gui.container_SRMB": "Shift+右鍵點擊以交換或移動至第二個可用的飾品插槽。",
+  "key.open_convenient_screen": "打開飾品容器界面",
+  "config.forbidden_items": "禁用物品列表",
+  "config.forbidden_items.tooltip": "黑名單物品。\n將物品名稱添加到黑名單中，格式為 modid:item_name，並用逗號分隔。\n範例：\"curios:amulet\", \"curios:ring\"。",
+  "convenientcurioscontainer.configuration.section.convenientcurioscontainer.common.toml.title": "方便的飾品容器配置"
+}

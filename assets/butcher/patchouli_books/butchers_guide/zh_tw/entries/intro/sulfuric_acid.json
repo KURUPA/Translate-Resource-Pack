@@ -1,0 +1,24 @@
+﻿{
+  "name": "硫酸",
+  "icon": "butcher:sulfuricacid",
+  "category": "butcher:intro",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "butcher:sulfuricacid",
+      "link_recipe": true,
+      "title": "硫酸",
+      "text": "硫酸可以用在屍體和殘骸上，溶解皮膚和器官，只留下骨架，骨架可以被拾取並作為裝飾方塊放置。只需手持硫酸瓶右鍵點擊屍體即可。"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "butcher:images/entries/intro/carcass_acid.png",
+        "butcher:images/entries/intro/carcass_acid_2.png"
+      ],
+      "border": true
+    }
+  ]
+}

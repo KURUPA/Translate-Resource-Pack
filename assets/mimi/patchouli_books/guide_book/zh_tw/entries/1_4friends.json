@@ -1,0 +1,16 @@
+{
+    "name": "與朋友一起演奏",
+    "icon": "minecraft:player_head",
+    "category": "mimi:1overview",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "如果你想同時演奏超過 3 個樂器，一個方法是與朋友一起演奏！$(br2)只要你將樂器連接到發射器，即使該樂器被其他玩家使用，只要他們靠近，樂器就會持續播放發射器中的音符。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "其他玩家也可在手持欲連接的樂器時，右鍵點擊你，將他們的樂器連接到你的發射器。"
+        }
+    ],
+    "sortnum": 4
+}

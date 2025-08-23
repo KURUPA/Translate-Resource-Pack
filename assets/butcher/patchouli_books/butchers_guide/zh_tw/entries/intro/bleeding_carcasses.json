@@ -1,0 +1,24 @@
+﻿{
+  "name": "屍體放血",
+  "icon": "butcher:bloodsplatter_1",
+  "category": "butcher:intro",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+      {
+          "type": "patchouli:spotlight",
+          "item": "butcher:bloodsplatter_1",
+          "link_recipe": true,
+          "title" : "屍體放血",
+          "text": "開始肢解過程的第一步是懸掛屍體並放血。你只需要三樣東西：$(li)鎖鏈$(li)鉤子$(li)屍體$(br)現在你已經準備好這三樣物品，先將鎖鏈水平放置，然後將鉤子掛在鎖鏈上（手持鉤子右鍵點擊鎖鏈）。接著將屍體掛在鉤子上，最後用切肉刀或刀右鍵點擊屍體以開始放血。"
+      },
+      {
+        "type": "patchouli:image",
+        "images": [
+          "butcher:images/entries/intro/bleeding_carcass.png"
+        ],
+        "border": true,
+        "text": "確保在屍體下方放置排血渠以收集血液。如果不這樣做，血液會灑滿地面。"
+      }
+  ]
+}

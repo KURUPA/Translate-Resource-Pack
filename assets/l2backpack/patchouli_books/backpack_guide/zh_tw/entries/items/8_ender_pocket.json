@@ -1,0 +1,13 @@
+﻿{
+  "name": "空間升級組件",
+  "icon": "l2backpack:ender_pocket",
+  "category": "l2backpack:items",
+  "sortnum": 8,
+  "pages": [
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "l2backpack:ender_pocket",
+	  "text": "在鍛造台中升級背包和水晶匣子。不需要升級模版。$(br2)$(l:items/1_backpacks)背包$(/l)每次升級增加9格，最多72格。$(br2)$(l:items/5_drawer)水晶匣子$(/l)一次升級增加64組（4096個物品）的容量，最多512組（32768個物品）"
+	}
+  ]
+}

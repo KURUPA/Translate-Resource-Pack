@@ -1,0 +1,14 @@
+﻿{
+  "name": "背包",
+  "icon": "l2backpack:backpack_white",
+  "category": "l2backpack:items",
+  "sortnum": 1,
+  "pages": [
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "tag:l2backpack:backpacks",
+	  "text": "背包類似潛影盒，可以儲存物品，但是不能放入其他背包或者潛影盒。背包有16個顏色，方便分辨。$(br2)背包一開始有18個格子，可以通過$(l:items/8_ender_pocket)空間升級組件$(/l)在鍛造台中升級，每次升級可以增加9個格子，最多72個格子。$(br2)支持物品欄快捷訪問"
+	},
+	"物品功能：$(li)背包可以放在胸甲或者背部飾品欄位，通過綁定的按鍵打開（默認B）$(li)$(l:mechanics/inv_access)物品欄快速訪問$(/l)$(li)$(l:mechanics/chest)箱子快速裝卸$(/l)$(li)$(l:mechanics/quick_insert)物品便捷插入$(/l)$(li)$(l:mechanics/exit)UI疊加$(/l)$(li)$(l:mechanics/pickup)物品自動歸類模式$(/l)$(li)按ALT以歸類模式插入"
+  ]
+}

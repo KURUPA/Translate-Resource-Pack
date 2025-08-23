@@ -1,0 +1,8 @@
+{
+  "cobblemon.ui.pokedex.region.rideable": "可騎乘",
+  "cobbleride.mount.onboard": "當 %3$s 被選中時，按 %1$s + %2$s 來解除騎乘",
+  "cobbleride.ui.mount.evolve": "你無法在騎乘 %1$s 時進行進化！請先移除它的騎乘者，再試一次。",
+  "key.cobbleride.ascend": "上升 / 飛行",
+  "key.cobbleride.descend": "下降 / 潛水",
+  "key.cobbleride.sprint": "衝刺"
+}

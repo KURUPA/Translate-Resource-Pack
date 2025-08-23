@@ -1,0 +1,22 @@
+{
+    "name": "演奏你的樂器",
+    "icon": "mimi:ocarina",
+    "category": "mimi:1overview",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "樂器介面讓你能管理樂器的 MIDI 設定（稍後介紹），並可使用鍵盤或點擊來演奏音符。$(br2)鍵盤配置可以在 MIMI 與虛擬鋼琴（VPiano）間切換，且螢幕上顯示的音符可透過平移控制調整。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "手持型",
+            "text": "在快捷欄中以主手選擇一個手持樂器，或將其放至副手（盾牌）欄位。持有樂器時右鍵點擊即可開啟樂器介面。$(br2)當你雙手各持一樂器時，右鍵點擊會開啟主手樂器的介面；也可使用快捷鍵直接開啟主手 ($(bold)$(k:key.mimi.midi.gui.main)$()) 或副手 ($(bold)$(k:key.mimi.midi.gui.off)$()) 的介面。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "方塊型",
+            "text": "將樂器以方塊形式放置於世界中，右鍵點擊該方塊即可坐下（類似乘船），再點擊一次以開啟樂器介面。$(br2)當你手持一個樂器且同時坐在另一個樂器旁時，可能不易分辨點擊後開啟的是哪個介面，此時可使用快捷鍵 ($(bold)$(k:key.mimi.midi.gui.seat)$()) 直接開啟你所坐著的樂器介面。$(br2)"
+        }
+    ],
+    "sortnum": 2
+}

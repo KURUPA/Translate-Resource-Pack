@@ -1,0 +1,20 @@
+﻿{
+    "name": "曬鹽盆",
+    "icon": "butcher:basin",
+    "category": "butcher:blocks",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:basin",
+            "link_recipe": true,
+            "title": "曬鹽盆",
+            "text": "曬鹽盆可用於自動化收集鹽。要使用這個方塊，你必須將其裝滿水，經過半個 Minecraft 天后，水會蒸發，留下鹽。你可以右鍵點擊曬鹽盆來取出鹽，或者使用漏斗將其取出。曬鹽盆必須放置在戶外陽光直射的地方才能蒸發水，夜晚或下雨時無法工作。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butcher:basinrecipe"
+        }
+    ]
+}

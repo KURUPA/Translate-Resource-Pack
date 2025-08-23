@@ -1,0 +1,15 @@
+﻿{
+  "name": "迷宮爐灶",
+  "icon": "twilightdelight:maze_stove",
+  "category": "twilightdelight:tricks",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "雙倍速度烹飪暮色森林或者暮色風味樂事的配方"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "twilightdelight:maze_stove"
+	}
+  ]
+}

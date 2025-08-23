@@ -1,0 +1,7 @@
+{
+    "name": "MIDI 全解",
+    "description": "MIMI 以 MIDI 標準為基礎設計，讓你在 Minecraft 中演奏音樂。雖然不需要瞭解 MIDI 即可使用此模組，但進階使用時瞭解 MIDI 會有所幫助.$(br2)本節主題將介紹 MIDI 的基本概念。",
+    "icon": "mimi:transmitterblock",
+    "sortnum": 7
+  }
+  

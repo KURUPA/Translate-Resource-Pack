@@ -1,0 +1,19 @@
+{
+  "block.arseng.me_source_jar": "ME 魔源罐",
+  "block.arseng.source_acceptor": "ME 魔源轉換器",
+  "item.arseng.cable_source_acceptor": "ME 魔源轉換器",
+  "item.arseng.portable_source_cell_16k": "16k 便攜魔源儲存單元",
+  "item.arseng.portable_source_cell_1k": "1k 便攜魔源儲存單元",
+  "item.arseng.portable_source_cell_256k": "256k 便攜魔源儲存單元",
+  "item.arseng.portable_source_cell_4k": "4k 便攜魔源儲存單元",
+  "item.arseng.portable_source_cell_64k": "64k 便攜魔源儲存單元",
+  "item.arseng.source_cell_housing": "ME 魔源儲存單元外殼",
+  "item.arseng.source_p2p_tunnel": "ME 魔源點對點隧道",
+  "item.arseng.source_storage_cell_16k": "16k ME 魔源儲存單元",
+  "item.arseng.source_storage_cell_1k": "1k ME 魔源儲存單元",
+  "item.arseng.source_storage_cell_256k": "256k ME 魔源儲存單元",
+  "item.arseng.source_storage_cell_4k": "4k ME 魔源儲存單元",
+  "item.arseng.source_storage_cell_64k": "64k ME 魔源儲存單元",
+  "item.arseng.spell_p2p_tunnel": "ME 法術點對點隧道",
+  "itemGroup.arseng": "Ars Énergistique"
+}

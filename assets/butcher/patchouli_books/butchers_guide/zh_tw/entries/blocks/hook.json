@@ -1,0 +1,20 @@
+﻿{
+    "name": "鉤子",
+    "icon": "butcher:hook",
+    "category": "butcher:blocks",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:hook",
+            "link_recipe": true,
+            "title": "鉤子",
+            "text": "鉤子是本mod中最為重要的方塊之一。它是能夠將屍體掛起來進行放血和屠宰的前提。鉤子必須放置在水平鎖鏈上，只需手持鉤子右鍵點擊鎖鏈即可。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butcher:hook_recipe"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+﻿{
+    "name": "散裝屠夫指南",
+    "icon": "butcher:butcherspapers",
+    "category": "butcher:items",
+    "read_by_default": true,
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:butcherspapers",
+            "link_recipe": true,
+            "title" : "散裝屠夫指南",
+            "text": "散裝屠夫指南是一種工具，可用於旋轉屍體或配置方塊。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butcher:butcherspapersrecipe"
+        }
+    ]
+}

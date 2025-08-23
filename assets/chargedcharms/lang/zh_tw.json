@@ -1,0 +1,12 @@
+{
+  "itemGroup.chargedcharms": "充能護符",
+  "item.chargedcharms.charged_regeneration_charm": "充能再生護符",
+  "item.chargedcharms.charged_absorption_charm": "充能吸收護符",
+  "item.chargedcharms.charged_glowup_charm": "充能光耀護符",
+  "item.chargedcharms.charged_totem_charm": "充能圖騰護符",
+  "item.chargedcharms.charged_enchanted_totem_charm": "充能附魔圖騰護符",
+  "item.chargedcharms.charged_speed_charm": "充能速度護符",
+  "trinkets.slot.charged_charm.charm": "充能護符",
+  "curios.identifier.charged_charm": "充能護符",
+  "tooltip.charged_charm.charges": "充能次數"
+}

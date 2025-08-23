@@ -1,0 +1,20 @@
+﻿{
+    "name": "金屬託盤",
+  "icon": "butcher:metal_tray",
+  "category": "butcher:blocks",
+  "read_by_default": true,
+  "sortnum": 8,
+  "pages": [
+      {
+          "type": "patchouli:spotlight",
+          "item": "butcher:metal_tray",
+          "link_recipe": true,
+          "title" : "金屬託盤",
+          "text": "金屬託盤用於解剖青蛙。獲得青蛙屍體後，只需將其放置在金屬託盤上即可。"
+      },
+      {
+          "type": "patchouli:crafting",
+          "recipe": "butcher:metal_tray_crafting_2"
+      }
+  ]
+}

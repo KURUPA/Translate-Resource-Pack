@@ -1,0 +1,20 @@
+﻿{
+    "name": "錘子",
+    "icon": "butcher:hammer",
+    "category": "butcher:items",
+    "read_by_default": true,
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:hammer",
+            "link_recipe": true,
+            "title" : "錘子",
+            "text": "錘子用於敲開龜殼以獲取其器官和肉。破碎的龜殼碎片可用於製作龜殼頭盔。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butcher:hammerrecipe"
+        }
+    ]
+}

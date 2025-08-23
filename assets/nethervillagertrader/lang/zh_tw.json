@@ -1,0 +1,18 @@
+{
+    "item.nethervillagertrader.nether_sickle": "地獄鐮刀",
+    "item_group.nethervillagertrader.nether_villager_trader": "地獄村民商人",
+    "item.nethervillagertrader.hell_axe": "地獄斧",
+    "item.nethervillagertrader.hell_armor_leggings": "地獄護腿",
+    "item.nethervillagertrader.hell_armor_chestplate": "地獄胸甲",
+    "item.nethervillagertrader.hell_ingot": "地獄錠",
+    "item.nethervillagertrader.hell_potion": "地獄藥水",
+    "item.nethervillagertrader.hell_armor_helmet": "地獄頭盔",
+    "item.nethervillagertrader.hell_trident": "地獄三叉戟",
+    "item.nethervillagertrader.hell_armor_boots": "地獄靴子",
+    "item.nethervillagertrader.hell_sword": "地獄劍",
+    "itemGroup.tab_nether_villager_trader": "地獄村民商人",
+    "effect.nethervillagertrader.ghasteffect": "惡魂保護",
+    "entity.minecraft.villager.nethervillagertrader.nether_trader": "地獄商人",
+    "item.nethervillagertrader.the_hell_trident": "終極地獄三叉戟"
+  }
+  

@@ -1,0 +1,8 @@
+{
+  "move.inspector.power": "威力: %d",
+  "move.inspector.accuracy": "命中: %d%%",
+  "move.inspector.effect": "效果: %d%%",
+  "move.inspector.immune": "免疫",
+  "move.inspector.effective": "x%f 效果絕佳",
+  "move.inspector.ineffective": "x%f 無效"
+}

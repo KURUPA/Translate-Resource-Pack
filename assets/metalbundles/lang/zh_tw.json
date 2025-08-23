@@ -1,0 +1,10 @@
+{
+  "item.metalbundles.copper_bundle": "銅束口袋",
+  "item.metalbundles.diamond_bundle": "鑽石束口袋",
+  "item.metalbundles.golden_bundle": "金束口袋",
+  "item.metalbundles.iron_bundle": "鐵束口袋",
+  "item.metalbundles.leather_bundle": "皮革束口袋",
+  "item.metalbundles.netherite_bundle": "獄髓束口袋",
+  "item.minecraft.bundle.capacity": "容量: %s%%",
+  "itemGroup.metalbundles.main": "金屬束口袋s"
+}

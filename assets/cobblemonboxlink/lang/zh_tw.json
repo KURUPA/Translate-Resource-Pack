@@ -1,0 +1,9 @@
+{
+	"item.cobblemonboxlink.box_link": "盒子連結",
+	"item.cobblemonboxlink.box_link.desc": "隨時隨地遠端存取你的電腦儲存系統。",
+	"item.cobblemonboxlink.box_link.desc2": "按 '%s' 開啟電腦。",
+	"key.cobblemonboxlink.category": "可攜電腦盒子連結",
+	"key.cobblemonboxlink.open_pc.desc": "開啟電腦儲存",
+	"cobblemonboxlink.key_open_pc.no_box_link": "無盒子連結",
+	"curios.identifier.box_link": "盒子連結"
+}

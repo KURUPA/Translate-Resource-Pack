@@ -1,0 +1,5 @@
+{
+  "block.netherchested.nether_chest": "地獄箱子",
+  "block.netherchested.nether_chest.description": "可以在單個槽中儲存大量(512)物品。",
+  "container.nether_chest": "地獄箱子"
+}

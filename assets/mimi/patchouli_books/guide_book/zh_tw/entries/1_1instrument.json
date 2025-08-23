@@ -1,0 +1,18 @@
+{
+    "name": "製作樂器",
+    "icon": "minecraft:crafting_table",
+    "category": "mimi:1overview",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "MIMI 提供許多不同的樂器，你可以選擇以手持 ($(italic)手持樂器$()) 或以方塊形式 ($(italic)方塊樂器$()) 演奏。$(br2)演奏樂器的第一步是製作它，以下提供陶笛（手持）和馬林巴（方塊）的製作配方。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "配方",
+            "recipe": "mimi:ocarina",
+            "recipe2": "mimi:marimba"
+        }
+    ],
+    "sortnum": 1
+}

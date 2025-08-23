@@ -1,0 +1,18 @@
+{
+    "key.categories.walljump": "牆跳",
+    "key.walljump.walljump": "牆跳 / 牆壁攀附",
+    "enchantment.walljump.wall_jump": "牆跳",
+    "enchantment.walljump.double_jump": "二段跳",
+    "enchantment.walljump.speed_boost": "速度提升",
+    "enchantment.walljump.wall_jump.desc": "可在牆壁間跳躍",
+    "enchantment.walljump.double_jump.desc": "可在空中再次跳躍",
+    "enchantment.walljump.speed_boost.desc": "衝刺時提高速度",
+    "pack.walljump.enchantments.title": "牆跳附魔",
+    "pack.walljump.enchantments.description": "啟用牆跳相關附魔",
+    "walljump.config.title": "牆跳",
+    "walljump.config.category.general": "一般",
+    "walljump.config.category.enchantments": "附魔",
+    "walljump.config.enum.BlockListMode.DISABLED": "禁用",
+    "walljump.config.enum.BlockListMode.BLACKLIST": "黑名單",
+    "walljump.config.enum.BlockListMode.WHITELIST": "白名單"
+}

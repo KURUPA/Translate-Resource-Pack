@@ -1,0 +1,16 @@
+{
+    "item.elementalmaces.withering_mace": "凋零重槌",
+    "item.elementalmaces.withering_mace.lore.line1": "吸取敵人的生命，",
+    "item.elementalmaces.withering_mace.lore.line2": "在猛擊後慢慢使他們化為灰塵",
+    "item.elementalmaces.resonating_mace": "回聲重槌",
+    "item.elementalmaces.resonating_mace.lore.line1": "以強烈聲波能量震動，",
+    "item.elementalmaces.resonating_mace.lore.line2": "在猛擊時產生衝擊波",
+    "item.elementalmaces.ender_mace": "終界重槌",
+    "item.elementalmaces.ender_mace.lore.line1": "古老的終界科技創造出懸浮效果，",
+    "item.elementalmaces.ender_mace.lore.line2": "在猛擊時將你的敵人懸浮於空中",
+    "item.elementalmaces.smouldering_mace": "熾燃重槌",
+    "item.elementalmaces.smouldering_mace.lore.line1": "以地獄之力燃燒，",
+    "item.elementalmaces.smouldering_mace.lore.line2": "在猛擊時點燃你周圍的一切",
+    "item.elementalmaces.withering_rod": "凋零微風杖",
+    "item.elementalmaces.resonating_rod": "回聲微風杖"
+}

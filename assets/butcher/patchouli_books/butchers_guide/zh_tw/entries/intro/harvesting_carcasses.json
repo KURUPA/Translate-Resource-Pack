@@ -1,0 +1,23 @@
+﻿{
+  "name": "屍體肢解",
+  "icon": "butcher:raw_tbone_steak",
+  "category": "butcher:intro",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "butcher:raw_tbone_steak",
+      "link_recipe": true,
+      "title": "屍體肢解",
+      "text": "完成屍體放血後，你可以開始肢解屍體。為此，你只需要切肉刀。你可以選擇在屍體懸掛時進行肢解（並非所有屍體都適用），或者將其取下並放置在屠宰桌上。只需用切肉刀多次右鍵點擊屍體即可完成肢解。"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "butcher:images/entries/intro/harvesting_carcass.png"
+      ],
+      "border": true
+    }
+  ]
+}

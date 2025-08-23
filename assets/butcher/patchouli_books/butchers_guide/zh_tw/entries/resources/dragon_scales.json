@@ -1,0 +1,44 @@
+﻿{
+    "name": "龍資源",
+    "icon": "butcher:dragonscale",
+    "category": "butcher:resources",
+    "read_by_default": true,
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:dragon_head",
+            "link_recipe": true,
+            "title" : "龍資源",
+            "text": "擊敗末影龍後，有機會製作一套全新的盔甲，其等級高於下界合金，但這並不便宜。要獲得足夠的資源來製作這套盔甲，你需要多次擊敗末影龍，具體次數取決於你在分解龍屍體時的運氣。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:dragonscale",
+            "link_recipe": true,
+            "title" : "龍鱗",
+            "text": "擊敗末影龍後獲得的資源之一。這些資源將用於製作龍鱗盔甲。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:dragonbone",
+            "link_recipe": true,
+            "title" : "龍骨",
+            "text": "擊敗末影龍後獲得的另一種資源。這些骨頭需要磨尖後才能用於製作配方。為此，請將它們放入切石機中。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "配方",
+            "recipe": "butcher:dragonscaleingotrecipe",
+            "recipe2": "butcher:dragonsmithingtemplaterecipe",
+            "text": "模板可以在末地城的戰利品箱中找到。材料可以通過分解末影龍屍體獲得。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:dragonscalearmor_helmet",
+            "link_recipe": true,
+            "title" : "龍鱗盔甲",
+            "text": "要製作龍鱗盔甲，你需要一個龍鱗模板、龍鱗錠和一件下界合金盔甲。將這三樣物品在鍛造台中組合，即可製作出龍鱗盔甲。"
+        }
+    ]
+}

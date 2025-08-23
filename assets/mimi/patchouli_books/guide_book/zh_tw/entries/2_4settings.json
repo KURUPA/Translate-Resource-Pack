@@ -1,0 +1,16 @@
+{
+    "name": "設定樂器",
+    "icon": "minecraft:writable_book",
+    "category": "mimi:2instruments",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "除了使用樂器介面外，還有其他方式可以設定樂器的 MIDI 參數。$(br2)要將樂器連接到玩家的發射器或伺服器發射器方塊，只需以樂器右鍵點擊該玩家或方塊。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "若要將 MIDI 設定從一個樂器複製到另一個樂器，請將兩個樂器在製作格中直接相鄰放置，右側樂器的設定將會被複製為左側樂器的參數。"
+        }
+    ],
+    "sortnum": 4
+}

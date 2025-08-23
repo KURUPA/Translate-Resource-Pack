@@ -1,0 +1,7 @@
+{
+    "name": "設定",
+    "description": "MIMI 提供了多種設定選項，既可以在遊戲內設定，也可透過 mimi-client.toml 與 mimi-common.toml 設定檔進行外部設定。",
+    "icon": "minecraft:writable_book",
+    "sortnum": 6
+  }
+  

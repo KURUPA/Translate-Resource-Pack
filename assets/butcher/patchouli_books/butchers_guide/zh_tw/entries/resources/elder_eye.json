@@ -1,0 +1,21 @@
+﻿{
+    "name": "遠古守衛者眼球",
+    "icon": "butcher:eldereye",
+    "category": "butcher:resources",
+    "read_by_default": true,
+    "sortnum": 11,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:eldereye",
+            "link_recipe": true,
+            "title" : "遠古守衛者眼球",
+            "text": "遠古守衛者眼球可以通過解剖遠古守衛者獲得。將其與皮革結合可以製作出可穿戴的遠古守衛者之眼，在水下時提供夜視效果。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "可穿戴的遠古守衛者之眼",
+            "recipe": "butcher:elderguardianeyerecipe"
+        }
+    ]
+}

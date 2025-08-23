@@ -1,0 +1,25 @@
+﻿{
+  "name": "解剖青蛙",
+  "icon": "butcher:frogpinned",
+  "category": "butcher:intro",
+  "read_by_default": true,
+  "sortnum": 4,
+  "pages": [
+      {
+          "type": "patchouli:spotlight",
+          "item": "butcher:frogpinned",
+          "link_recipe": true,
+          "title" : "解剖青蛙",
+          "text": "青蛙的解剖方式與其他生物略有不同。它們不需要放血流程，但需要放置在金屬託盤上。手持青蛙時，右鍵點擊金屬託盤即可放置，隨後可用切肉刀進行解剖操作。就像回到生物課上一樣！"
+      },
+      {
+        "type": "patchouli:image",
+        "images": [
+          "butcher:images/entries/intro/empty_metal_tray.png",
+          "butcher:images/entries/intro/frog_on_metal_tray.png",
+          "butcher:images/entries/intro/frog_on_metal_tray_2.png"
+        ],
+        "border": true
+      }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿{
+    "name": "抹布",
+    "icon": "butcher:rag",
+    "category": "butcher:items",
+    "read_by_default": true,
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:rag",
+            "link_recipe": true,
+            "title": "抹布",
+            "text": "由於海綿可能較難獲取，因此有一個更便宜的替代品——抹布。抹布可以用於與海綿相同的用途，但其耐久度要低得多。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butcher:ragrecipe",
+            "text": "要將抹布浸濕，需要手持它右鍵點擊水源方塊或裝滿水的煉藥鍋。"
+        }
+    ]
+}

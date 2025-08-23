@@ -1,0 +1,21 @@
+﻿{
+  "name": "快捷切換袋",
+  "icon": "l2backpack:arrow_bag",
+  "category": "l2backpack:items",
+  "sortnum": 4,
+  "pages": [
+	"快捷切換袋有3種：箭袋，工具切換袋，護甲切換袋。$(li)箭袋允許你在拉弓時快速預覽並選擇你要射出的箭。$(li)工具切換袋允許你不打開物品欄也能快速切換手中的工具和武器。$(li)護甲切換袋允許你不打開物品欄也能快速切換身上的護甲。",
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "l2backpack:arrow_bag,l2backpack:tool_swap,l2backpack:armor_swap",
+	  "text": "切換袋UI可以通過左Shift鍵調出，然後用上/下鍵或者滾輪切換選中的物品$(br2)對於箭袋，只要你主/副手持弓就會調出，並且你射出的箭會是箭袋中被選中的箭。$(br2)對於工具/護甲切換袋，選中後按R切換物品"
+	},
+	"切換啟用條件：$(li)箭袋UI：主副手持弓觸發$(li)工具切換袋：主手持有一個不可堆疊的物品時啟用$(li)護甲切換袋：主手不持有物品時啟用$(li)按下ALT時，即使你持有弓或者沒持有物品，也會啟用工具切換袋。這麼做允許你用工具切換袋切換弓，或者在空手時從工具切換袋中切出物品。",
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "l2backpack:ender_backpack",
+	  "text": "你也可以把切換袋放入末影背包，這個時候切換袋也能在末影背包中直接啟用。把切換袋放入末影背包的好處是死亡時不會遺失切換袋中的珍貴裝備。"
+	},
+	"物品功能：$(li)背包可以放在胸甲或者背部飾品欄位，通過綁定的按鍵打開（默認B）$(li)$(l:mechanics/inv_access)物品欄快速訪問$(/l)$(li)$(l:mechanics/chest)箱子快速裝卸$(/l)$(li)$(l:mechanics/quick_insert)物品便捷插入$(/l)$(li)$(l:mechanics/exit)UI疊加$(/l)$(li)$(l:mechanics/pickup)物品自動歸類模式$(/l)"
+  ]
+}

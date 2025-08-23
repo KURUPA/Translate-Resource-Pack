@@ -1,0 +1,14 @@
+﻿{
+  "name": "空間背包",
+  "icon": "l2backpack:dimensional_storage_white",
+  "category": "l2backpack:items",
+  "sortnum": 2,
+  "pages": [
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "tag:l2backpack:dimensional_storages",
+	  "text": "你可以把空間背包放進其他背包，也可以把其他背包放進空間背包。$(br2)所有相同顏色且綁定相同持有者的空間背包共享相同的空間。可以放置，放置的空間背包可以和漏斗等方塊交互，且和物品模式共享空間。如果已配置歸類模式，輸入物品會根據歸類/銷毀模式處理$(br2)支持任意快捷訪問。"
+	},
+	"物品功能：$(li)背包可以放在胸甲或者背部飾品欄位，通過綁定的按鍵打開（默認B）$(li)$(l:mechanics/any_access)任意快捷訪問$(/l)$(li)$(l:mechanics/quick_insert)物品便捷插入$(/l)$(li)$(l:mechanics/exit)UI疊加$(/l)$(li)$(l:mechanics/pickup)物品自動歸類模式$(/l)$(li)按ALT以歸類模式插入$(li)潛行右鍵以方塊形式放置"
+  ]
+}

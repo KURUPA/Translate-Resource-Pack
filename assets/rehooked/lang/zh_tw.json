@@ -1,0 +1,47 @@
+{
+  "item.rehooked.wood_hook": "木製勾爪",
+  "item.rehooked.iron_hook": "鐵製勾爪",
+  "item.rehooked.diamond_hook": "鑽石勾爪",
+  "item.rehooked.red_hook": "紅色勾爪",
+  "item.rehooked.blaze_hook": "烈焰勾爪",
+  "item.rehooked.ender_hook": "終界勾爪",
+  "item.rehooked.deja_vu_hook": "似曾相識勾爪",
+
+  "block.rehooked.wood_chain": "木製鏈條",
+  "block.rehooked.diamond_chain": "鑽石鏈條",
+  "block.rehooked.blaze_chain": "烈焰鏈條",
+  "block.rehooked.ender_chain": "終界鏈條",
+  "item.rehooked.wood_chain": "木製鏈條",
+  "item.rehooked.diamond_chain": "鑽石鏈條",
+  "item.rehooked.blaze_chain": "烈焰鏈條",
+  "item.rehooked.ender_chain": "終界鏈條",
+
+  "creative.tab.hooks": "勾爪",
+
+  "tooltip.rehooked:wood_hook.info": "一個簡單的工具，用於逃離深坑或攀爬樹木",
+  "tooltip.rehooked:iron_hook.info": "通過向相對的兩個點發射勾爪來實現空中懸浮",
+  "tooltip.rehooked:diamond_hook.info": "多鉤，多速度。",
+  "tooltip.rehooked:red_hook.info": "在勾爪定義的區域內實現創造模式飛行",
+  "tooltip.rehooked:blaze_hook.info": "極速飛行！（同時也極其炙熱）",
+  "tooltip.rehooked:ender_hook.info": "快速，非常非常快。",
+  "tooltip.rehooked:deja_vu_hook.info": "街上有熟悉的感覺！",
+  "tooltip.rehooked.press_shift_more_info": "<按 Shift 查看控制方式>",
+  "tooltip.rehooked.press_fire": "按 %1$s 發射",
+  "tooltip.rehooked.press_retract": "按 %1$s 對著勾爪看來收回",
+  "tooltip.rehooked.press_retract_all": "按 %1$s 收回所有勾爪",
+  "tooltip.rehooked:wood_chain.info": "不太結實，下次應該換個更好的材料…",
+  "tooltip.rehooked:diamond_chain.info": "非常閃亮，但還沒快到光速。",
+
+  "curios.identifier.hook": "勾爪",
+
+  "key.categories.rehooked": "ReHooked",
+  "key.rehooked.fire_hook_key": "發射勾爪",
+  "key.rehooked.retract_hook_key": "收回勾爪",
+  "key.rehooked.remove_all_hooks_key": "移除所有勾爪",
+
+  "sounds.rehooked.hook_hit": "勾爪擊中表面",
+  "sounds.rehooked.hook_retract": "勾爪收回",
+  "sounds.rehooked.hook_shoot": "勾爪射出",
+  "sounds.rehooked.hook_miss": "勾爪未命中",
+  "sounds.rehooked.meme.deja_vu": "播放《似曾相識》"
+}

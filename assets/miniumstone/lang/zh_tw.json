@@ -1,0 +1,21 @@
+{
+  "item.miniumstone.minium_shard": "賢者碎片",
+  "item.miniumstone.minium_stone": "賢者之石",
+  "item.miniumstone.minium_stone.changeSelection": "按下 %s + %s 切換模式",
+  "item.miniumstone.minium_stone.changedSelection": "已將選擇模式更改為 %s",
+  "item.miniumstone.minium_stone.charge": "按下 %s 進行充能",
+  "item.miniumstone.minium_stone.crafting": "按下 %s 打開合成介面",
+  "item.miniumstone.minium_stone.cube": "立方體",
+  "item.miniumstone.minium_stone.flat": "平面",
+  "item.miniumstone.minium_stone.line": "直線",
+  "item.miniumstone.minium_stone.more": "按住 %s 查看更多資訊",
+  "item.miniumstone.minium_stone.selection": "選擇模式：%s",
+  "item.miniumstone.minium_stone.shift": "Shift",
+  "key.categories.miniumstone": "賢者之石",
+  "key.charge_minium_stone": "賢者之石充能",
+  "key.open_crafting_grid": "打開合成介面",
+  "recipe_type.miniumstone.transmutation_in_world": "方塊轉化",
+  "subtitles.item.miniumstone.charge": "賢者之石充能",
+  "subtitles.item.miniumstone.transmute": "賢者之石轉化",
+  "subtitles.item.miniumstone.uncharge": "賢者之石釋放能量"
+}

@@ -1,0 +1,7 @@
+{
+  "block.permanentsponges.aqueous_sponge": "水生海綿",
+  "block.permanentsponges.magmatic_sponge": "熔岩海綿",
+  "item.permanentsponges.aqueous_sponge_on_a_stick": "水生海綿棒",
+  "item.permanentsponges.magmatic_sponge_on_a_stick": "熔岩海綿棒",
+  "itemGroup.permanentsponges.main": "永久海綿"
+}

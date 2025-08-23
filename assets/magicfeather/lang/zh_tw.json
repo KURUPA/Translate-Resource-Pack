@@ -1,0 +1,14 @@
+{
+    "item.magicfeather.magic_feather": "魔法羽毛",
+    "item.magicfeather.arcane_feather": "秘法羽毛",
+    "item.magicfeather.primeval_feather": "遠古羽毛",
+    "item.magicfeather.stygian_feather": "冥河羽毛",
+    "item.magicfeather.magic_feather.tooltip.description": "靠近烽火台時賦予飛行能力。",
+    "item.magicfeather.arcane_feather.tooltip.description": "賦予無限飛行能力。",
+    "item.magicfeather.primeval_feather.tooltip.description": "賦予飛行能力，直到耐久耗盡。",
+    "item.magicfeather.stygian_feather.tooltip.description": "賦予無限飛行能力，但有代價。",
+    "item.magicfeather.magic_feather.tooltip.requires_curios": "放入飾品槽",
+    "item.magicfeather.arcane_feather.tooltip.requires_curios": "放入飾品槽",
+    "item.magicfeather.primeval_feather.tooltip.requires_curios": "放入飾品槽",
+    "item.magicfeather.stygian_feather.tooltip.requires_curios": "放入飾品槽"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "name": "水晶匣子",
+  "icon": "l2backpack:drawer",
+  "category": "l2backpack:items",
+  "sortnum": 5,
+  "pages": [
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "l2backpack:drawer",
+	  "text": "物品欄中，用物品左鍵匣子以插入物品，右鍵匣子以提取一組或者全部物品。$(br2)匣子只能儲存1種物品，並且儲存的物品不能攜帶NBT數據，但是可以儲存64組（4096個）。使用$(l:items/8_ender_pocket)空間升級組件$(/l)在鍛造台中升級，每次升級可以增加64組容量，最多升級至512組（32768個物品）。$(br2)手持物品右鍵匣子方塊插入物品，空手右鍵匣子方塊提取物品。$(br2)你可以把匣子放入背包中，這樣背包能裝下至多兩百萬個物品。"
+	},
+	  "物品功能：$(li)潛行右鍵以方塊形式放置$(li)匣子快速收集：潛行右鍵無法放置方塊的位置可以把背包中所有相同物品全部收入匣子中$(li)匣子快速提取：手持匣子右鍵可以從匣子中取出一組物品$(li)雙擊整合可儲存的物品$(li)$(l:mechanics/chest)箱子快速裝卸$(/l)$(li)$(l:mechanics/quick_insert)物品便捷插入$(/l)$(li)$(l:mechanics/drawer_quickmove)快速內容轉移$(/l)$(li)$(l:mechanics/pickup)物品自動歸類模式$(/l)"
+  ]
+}

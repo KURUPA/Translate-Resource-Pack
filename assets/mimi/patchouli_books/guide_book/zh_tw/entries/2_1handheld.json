@@ -1,0 +1,22 @@
+{
+    "name": "手持樂器",
+    "icon": "mimi:violin",
+    "category": "mimi:2instruments",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "在 MIMI 中，手持樂器指的是可用主手或副手持有並演奏的樂器。$(br2)當樂器與發射器連接後，你可同時用雙手持有並演奏它們。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "演奏方式",
+            "text": "在快捷欄中以主手選擇一個樂器，或將其放入副手欄位，然後持有樂器時右鍵點擊以開啟樂器介面。$(br2)當你雙手各持一樂器時，右鍵點擊將會開啟主手樂器的介面；你也可使用快捷鍵直接開啟主手 ($(bold)$(k:key.mimi.midi.gui.main)$()) 或副手 ($(bold)$(k:key.mimi.midi.gui.off)$()) 的介面。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "生物",
+            "text": "某些生物也能透過以樂器右鍵點擊獲得手持樂器。當生物持有與發射器連接的樂器時，將會播放發射器中的音符。$(br2)可使用樂器的生物清單可進行設定，但預設包含：殭屍（及變種）、骷髏（及變種）以及小精靈。"
+        }
+    ],
+    "sortnum": 1
+}

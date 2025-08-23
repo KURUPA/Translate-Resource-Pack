@@ -1,0 +1,21 @@
+﻿{
+    "name": "海綿塊",
+    "icon": "butcher:sponge",
+    "category": "butcher:items",
+    "read_by_default": true,
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:sponge",
+            "link_recipe": true,
+            "title" : "海綿塊",
+            "text": "海綿塊有多種用途。其中之一是可以清潔血汙的屠宰桌。如果屍體放血時下方沒有排血渠，它還可以用於清理地面上的血跡。海綿塊也可用於在撒鹽前浸濕皮。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butcher:sponge_recipe",
+            "text": "要將海綿塊浸濕，需要手持它右鍵點擊水源方塊或裝滿水的煉藥鍋。"
+        }
+    ]
+}

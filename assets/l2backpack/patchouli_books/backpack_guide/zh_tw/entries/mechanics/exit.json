@@ -1,0 +1,8 @@
+﻿{
+  "name": "UI疊加",
+  "icon": "l2backpack:backpack_black",
+  "category": "l2backpack:mechanics",
+  "pages": [
+	"有這個功能的物品：$(li)$(l:mechanics/inv_access)物品欄快捷訪問物品$(/l)$(li)$(l:mechanics/any_access)任意快捷訪問物品$(/l)$(br2)退出容器UI時，如果容器是在上一個UI中打開的，會返回到上一個UI中。如果需要全部退出，按Shift+Esc。"
+  ]
+}

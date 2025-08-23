@@ -1,0 +1,14 @@
+﻿{
+  "name": "末影匣子",
+  "icon": "l2backpack:ender_drawer",
+  "category": "l2backpack:items",
+  "sortnum": 6,
+  "pages": [
+	"和$(l:items/5_drawer)水晶匣子$(/l)有相同的使用方法。所有綁定相同所有者和標記相同物品的末影匣子共用空間，包括方塊和物品形式。$(br2)手持物品右鍵末影匣子方塊插入物品，空手右鍵末影匣子方塊提取物品。",
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "l2backpack:ender_drawer",
+	  "text": "物品功能：$(li)潛行右鍵以方塊形式放置$(li)匣子快速收集：潛行右鍵無法放置方塊的位置可以把背包中所有相同物品全部收入匣子中$(li)匣子快速提取：手持匣子右鍵可以從匣子中取出一組物品$(l:mechanics/quick_insert)物品便捷插入$(/l)$(li)$(l:mechanics/pickup)物品自動歸類模式$(/l)"
+	}
+  ]
+}

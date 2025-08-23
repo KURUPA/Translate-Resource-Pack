@@ -1,0 +1,12 @@
+{
+    "name": "接下來？",
+    "icon": "mimi:receiver",
+    "category": "mimi:1overview",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "現在你已了解基礎，還有更多精彩內容！請查看：$(br)$(li)接收器 - 從特定音符觸發紅石！$(br)$(li)LED 立方體 - 色彩繽紛且具獨特圖案的紅石燈光，打造完美舞台！$(br)$(li)機械指揮家 - 無需玩家即可演奏樂器！"
+        }
+    ],
+    "sortnum": 6
+}

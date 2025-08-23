@@ -1,0 +1,53 @@
+{
+    "name": "播放 MIDI 檔案",
+    "icon": "mimi:transmitter",
+    "category": "mimi:1overview",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "MIMI 的一大特色是能輕鬆播放你電腦中的 MIDI 檔案。$(br2)MIDI 檔案就像電腦可讀取的數位樂譜（常用於卡拉 OK 機器），在 MIMI 中，你可以讓樂器演奏完整歌曲。$(br2)要在 MIMI 中播放 MIDI 檔案，首先必須製作一個發射器。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "配方",
+            "recipe": "mimi:transmitter"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "尋找 MIDI 檔案",
+            "text": "使用發射器前，你需先取得一些 MIDI 檔案供其播放。$(br2)MIDI 檔案不同於你在電腦上聆聽的常規音樂（例如 MP3），且 MIMI 不支援播放其他類型的音樂檔案。一般音樂檔案是樂器演奏的錄音，而 MIDI 檔案則記錄了音符及其演奏指令。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "由於 MIDI 存在已久，網上有大量歌曲可供下載，但較新的歌曲可能難以找到對應的 MIDI 檔案。以下是一些提供大量免費 MIDI 檔案的網站連結：$(br2)1. $(l:https://bitmidi.com/)BitMidi.com$()$(br)2. $(l:https://freemidi.org/)FreeMidi.org$()$(br)3. $(l:https://www.midiworld.com/files/)MidiWorld.com$()$(br)4. $(l:https://freemidis.net)FreeMidis.net$()$(br)5. $(l:https://midifind.com/)MidiFind.com$()$(br2)更多資源可經由 Google 輕鬆尋得！"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "使用發射器",
+            "text": "將發射器置於手中，並右鍵點擊以開啟發射器介面。$(br2)發射器介面可顯示並播放 MIMI 的 \"midi_files\" 資料夾中的所有 MIDI 檔案，及你所在伺服器提供的檔案（多人模式中）。$(br2)若要從電腦加入歌曲，點擊左上角的資料夾按鈕，開啟 \"midi_files\" 資料夾，將你的 MIDI 檔案放入其中。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "檔案放入資料夾後，點擊右上角的刷新按鈕，讓 MIMI 將歌曲載入發射器播放清單。$(br2)使用左下角的播放清單控制項選擇並播放歌曲（也可切換循環與隨機模式）。$(br2)右上角的按鈕可用來依據來源（你的電腦或伺服器）與喜愛狀態（以選定歌曲旁的愛心按鈕設定）篩選清單。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "連接樂器",
+            "text": "最後一步是將你的樂器連接到發射器。打開某個樂器的介面，然後點擊編輯（鉛筆圖示）按鈕以調出該樂器的 MIDI 設定。$(br2)在左下角點擊 \"ME\" 按鈕，即可將該樂器與發射器連接。$(br2)此時你應可聽到歌曲的播放！"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "當樂器開始演奏後，你可關閉樂器介面，樂器將持續演奏，前提是你仍持有它（手持樂器）或坐在樂器旁（方塊樂器）。這意味著你可同時演奏最多 3 個樂器！$(br2)發射器必須保持在你的手中或快捷欄上以持續播放；你可使用快捷鍵在任何時候打開發射器介面 ($(bold)$(k:key.mimi.midi.gui.transmitter)$())。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "切換頻道",
+            "text": "MIDI 頻道代表歌曲中不同的部分（如主唱、主吉他及鼓組）；有些 MIDI 檔案可能會使用全部 16 個頻道，而有些則僅使用 1 個，其中頻道 10 始終保留給鼓組。$(br2)查看發射器介面上某首歌曲的頻道分配，有助於你決定哪些 MIMI 樂器在演奏該歌曲時使用何種頻道效果最佳。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "試著啟用或禁用各樂器上的特定頻道，以重新混音改變歌曲的效果。$(br2)請記得，頻道 10 始終用於鼓組，因此在其他樂器上啟用該頻道可能會聽起來不佳。"
+        }
+    ],
+    "sortnum": 3
+}

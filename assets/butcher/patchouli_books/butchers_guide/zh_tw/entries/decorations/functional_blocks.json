@@ -1,0 +1,19 @@
+﻿{
+    "name": "功能性裝飾方塊",
+    "icon": "butcher:freezer",
+    "category": "butcher:decorations",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butcher:displayrecipe",
+            "text": "展示櫃可用於儲存食物。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butcher:freezercrafting",
+            "text": "冷藏箱可用於儲存食物，類似於展示櫃。你可以透過按住Shift並右鍵點擊冰櫃來保持其打開狀態。"
+        }
+    ]
+}
