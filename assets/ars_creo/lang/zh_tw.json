@@ -1,0 +1,20 @@
+{
+    "block.ars_creo.starbuncle_wheel": "星靈輪",
+    "ars_creo.page1.starbuncle_wheel": "為 Create 產生旋轉力。將金方塊放在輪子前方可提升 RPM。",
+    "ars_creo.page.behaviors": "新生創造 (Ars Creo) 為新生魔法 (Ars Nouveau) 的方塊啟用特殊機械行為，包括法術砲塔與能量瓶。基礎法術砲塔 - 與機械互動時施放法術。計時砲塔 - 依時間間隔施放法術。附魔法術砲塔 - 每經過新方塊時施放法術。能量瓶 - 可供機械上的砲塔消耗使用。",
+    "itemGroup.ars_creo.general": "新生創造",
+    "ars_creo.display_source.turret.not_enough_space": "空間不足 ",
+    "ars_creo.display_source.turret.for_turret_status": "以檢視砲塔狀態",
+    "ars_creo.display_source.turret.no_spell": "未設定法術。",
+    "ars_creo.display_source.turret.spell_name": "法術: %s",
+    "ars_creo.display_source.turret.spell": "%s",
+    "ars_creo.display_source.turret_target": "法術砲塔",
+    "ars_creo.display_source.source_count": "能量: %s",
+    "ars_creo.display_source.for_source_status": "以檢視能量狀態",
+    "ars_creo.display_source.source_jar": "能量數量",
+    "ars_creo.display_source.turret": "法術",
+    "ars_creo.page1.ars_creo.display_link": "顯示連結可綁定至能量瓶以顯示瓶內能量數量，或綁定至法術砲塔以將當前法術顯示在展示板上。",
+    "ars_creo.page1.ars_creo.fluid_tank": "藥水可儲存在 Create 的流體槽中，並透過管線與槽互相轉移。",
+    "ars_creo.display_link": "新生創造：顯示連結",
+    "ars_creo.fluid_tank": "新生創造：流體槽"
+}

@@ -158,5 +158,17 @@
     "item.minecraft.potion.effect.apothic_attributes.flying": "飛行藥水",
     "item.minecraft.splash_potion.effect.apothic_attributes.flying": "噴濺型飛行藥水",
     "item.minecraft.lingering_potion.effect.apothic_attributes.flying": "滯留型飛行藥水",
-    "item.minecraft.tipped_arrow.effect.apothic_attributes.flying": "飛行之箭"
+    "item.minecraft.tipped_arrow.effect.apothic_attributes.flying": "飛行之箭",
+    "apothic_attributes.gui.dynamic": "(動態的)",
+    "apothic_attributes.gui.formula": "修飾符公式",
+    "apothic_attributes.gui.formula.base": "基礎",
+    "apothic_attributes.gui.formula.value": "數值",
+    "apothic_attributes.gui.no_modifiers": "無修飾符",
+    "button.apothic_attributes.hide_unchanged": "隱藏未更改的屬性",
+    "text.apothic_attributes.hide_unchanged": "隱藏未更改",
+    "comment_id": "傷害來源",
+    "item.minecraft.potion.effect.minecraft.levitation": "滯留 藥水",
+    "item.minecraft.splash_potion.effect.minecraft.levitation": "滯留 飛濺藥水",
+    "item.minecraft.lingering_potion.effect.minecraft.levitation": "滯留 持續藥水",
+    "item.minecraft.tipped_arrow.effect.minecraft.levitation": "滯留 箭矢"
 }
