@@ -449,7 +449,7 @@
     "block.cobblemon.white_apricorn_sapling": "白球果樹苗",
     "block.cobblemon.yellow_apricorn_sapling": "黃球果樹苗",
     "block.cobblemon.apricorn_door": "球果木門",
-    "block.cobblemon.apricorn_trapdoor": "球果木暗門",
+    "block.cobblemon.apricorn_trapdoor": "球果木地板門",
     "block.cobblemon.healing_machine": "治療儀",
     "block.cobblemon.healing_machine.tooltip1": "放置後需等候充能才能使用。",
     "block.cobblemon.healing_machine.tooltip2": "隨時間經過自動充能。",

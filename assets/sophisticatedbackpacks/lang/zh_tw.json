@@ -224,5 +224,11 @@
     "commands.sophisticatedbackpacks.remove_non_player.success": "已刪除%s個非玩家背包",
     "chat.sophisticatedbackpacks.backpack_uuid.tooltip": "點擊獲取背包UUID：%s",
     "item.sophisticatedstorage.sawmill.sawmill_upgrade": "鋸木廠升級",
-    "item.sophisticatedstorage.sawmill.sawmill_upgrade.tooltip": "鋸子升級分頁"
+    "item.sophisticatedstorage.sawmill.sawmill_upgrade.tooltip": "鋸子升級分頁",
+    "item.sophisticatedbackpacks.alchemy_upgrade": "煉金升級",
+    "item.sophisticatedbackpacks.alchemy_upgrade.tooltip": "自動使用藥水、帶有效果的食物或奶桶",
+    "item.sophisticatedbackpacks.advanced_alchemy_upgrade": "高級煉金升級",
+    "item.sophisticatedbackpacks.advanced_alchemy_upgrade.tooltip": "自動使用藥水、帶有效果的食物或奶桶\n具有額外的效果篩選選項",
+    "item.sophisticatedbackpacks.sawmill.sawmill_upgrade": "鋸木廠升級",
+    "item.sophisticatedbackpacks.sawmill.sawmill_upgrade.tooltip": "在升級標籤頁中進行鋸切操作"
 }

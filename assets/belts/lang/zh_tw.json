@@ -1,0 +1,23 @@
+{
+    "message.belts.reset": "傳送帶已重設！",
+    "message.belts.started": "起始點已儲存！",
+    "message.belts.belt_created": "傳送帶已創建！",
+    "message.belts.midpoint_added": "中間點已儲存！",
+    "message.belts.midpoint_duplicate": "中間點已存在。",
+    "message.belts.chute_used": "滑槽已被占用！",
+    "message.belts.filter_set": "物品過濾器已設置",
+    "message.belts.filter_reset": "物品過濾器已重設",
+    "itemgroup.belts.items": "簡易傳送帶",
+    "block.belts.chute": "傳送帶物品滑槽",
+    "block.belts.chute.tooltip": "將其附著於任何庫存方塊。傳送帶將連接至此。",
+    "block.belts.chute.tooltip.1": "[右鍵單擊] 物品可將其設為過濾器。",
+    "block.belts.chute.tooltip.ftbfilters": "支持 'FTB Filters' 模組的智慧過濾器。",
+    "block.belts.conveyor_support": "傳送帶支架",
+    "block.belts.conveyor_support.tooltip": "用於引導傳送帶路徑。",
+    "item.belts.belt": "傳送帶",
+    "item.belts.belt.tooltip.0": "用於創建任意形狀和尺寸的傳送帶。自動在起點和終點放置物品滑槽。",
+    "item.belts.belt.tooltip.1": "點擊現有滑槽將其標記為起點/終點。點擊傳送帶支架可添加可選中間點。",
+    "item.belts.belt.tooltip.2": "[Shift] + [右鍵單擊] 未瞄準方塊時重設。",
+    "item.belts.belt.tooltip.3": "可使用物品點擊已連接的滑槽以啟用過濾功能。",
+    "message.belts.show_extra": "按住 [Ctrl] 顯示更多資訊。"
+}

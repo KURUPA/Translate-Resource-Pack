@@ -63,5 +63,14 @@
     "tooltip.replication.terminal.sorting_direction.state_1": "排序方向：由高到低",
     "tooltip.replication.terminal.sorting_type.state_0": "排序類型：數量",
     "tooltip.replication.terminal.sorting_type.state_1": "排序類型：名稱",
-    "tooltip.replication.terminal.workers": "工人數："
+    "tooltip.replication.terminal.workers": "工人數：",
+    "item.replication.replicator_enclosure": "複製器外殼",
+    "item.replication.replicator_motor": "複製器馬達",
+    "tooltip.replication_enclosure.energy": "複製器能耗增加 %s",
+    "tooltip.replication_enclosure.speed": "複製器速度提升 %s",
+    "tooltip.replication_motor.acceleration": "當前加速倍數：",
+    "tooltip.replication_motor.failure_chance": "當前故障機率：",
+    "tooltip.replication_motor.variable": "可變速度控制器",
+    "tooltip.titanium.facing_handler.output": "輸出",
+    "tooltip.titanium.tank.empty": "空"
 }

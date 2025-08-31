@@ -688,7 +688,7 @@
 	"book.cobblepedia.entries.apricorn_fence_gate.crafting": "該塊目前不會在世界任何地方自然生成，必須精心製作才能獲得.",
 	"book.cobblepedia.entries.apricorn_door.text": "$(l)球果門$() 是一個可以右鍵單擊並打開或用紅石啟用的構建塊，允許玩家或實體通過.",
 	"book.cobblepedia.entries.apricorn_door.crafting": "該塊目前不會在世界任何地方自然生成，必須精心製作才能獲得.",
-	"book.cobblepedia.entries.apricorn_trapdoor.text": "$(l)球果色暗門$() 是一個充當 1×1 門的構建塊。 它可以右鍵單擊並打開或用紅石啟用，允許玩家或實體通過.",
+	"book.cobblepedia.entries.apricorn_trapdoor.text": "$(l)球果色地板門$() 是一個充當 1×1 門的構建塊。 它可以右鍵單擊並打開或用紅石啟用，允許玩家或實體通過.",
 	"book.cobblepedia.entries.apricorn_trapdoor.crafting": "該塊目前不會在世界任何地方自然生成，必須精心製作才能獲得.",
 
 
