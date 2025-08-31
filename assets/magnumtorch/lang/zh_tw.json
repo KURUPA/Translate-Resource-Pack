@@ -1,0 +1,13 @@
+{
+    "block.magnumtorch.diamond_magnum_torch": "鑽石卓越火炬",
+    "block.magnumtorch.emerald_magnum_torch": "綠寶石卓越火炬",
+    "block.magnumtorch.amethyst_magnum_torch": "紫水晶卓越火炬",
+    "block.magnumtorch.magnum_torch.info": "阻止生物大範圍生成。",
+    "block.magnumtorch.magnum_torch.info.more": "長按 %s 查看更多資訊",
+    "block.magnumtorch.magnum_torch.info.mob_types": "生物種類：%s",
+    "block.magnumtorch.magnum_torch.info.blacklist": "黑名單：%s",
+    "block.magnumtorch.magnum_torch.info.whitelist": "白名單：%s",
+    "block.magnumtorch.magnum_torch.info.shape_type": "形狀種類：%s",
+    "block.magnumtorch.magnum_torch.info.horizontal_range": "水平範圍：%s",
+    "block.magnumtorch.magnum_torch.info.vertical_range": "垂直範圍：%s"
+}
