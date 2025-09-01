@@ -10,7 +10,7 @@
             "item": "butcher:butchers_knife",
             "link_recipe": true,
             "title" : "切肉刀",
-            "text": "新的切肉刀是必不可少的工具，用於放血和分解屍體以獲取資源。它有三種材質：骨頭、鐵和下界合金。骨頭和鐵切肉刀可用於非Boss生物，而下界合金切肉刀則用於處理Boss生物的屍體。"
+            "text": "新的切肉刀是必不可少的工具，用於放血和分解屍體以獲取資源。它有三種材質：骨頭、鐵和獄髓。骨頭和鐵切肉刀可用於非Boss生物，而獄髓切肉刀則用於處理Boss生物的屍體。"
         },
         {
             "type": "patchouli:crafting",
@@ -19,7 +19,7 @@
         },
         {
             "type": "patchouli:crafting",
-            "title": "下界合金切肉刀",
+            "title": "獄髓切肉刀",
             "recipe": "butcher:netherite_butchers_knife_crafting"
         }
     ]

@@ -3,8 +3,8 @@
   "icon": "l2backpack:drawer",
   "category": "l2backpack:mechanics",
   "pages": [
-	"有這個功能的物品：$(li)$(l:items/5_drawer)水晶匣子$(/l)$(li)$(l:items/6_ender_drawer)末影匣子$(/l)$(li)$(l:items/7_storage_bags)儲物袋$(/l)$(br2)支持這個功能的UI：$(li)箱子$(li)末影箱$(l:items/1_backpacks)背包$(/l)$(li)$(l:items/2_dimensional_storages)空間背包$(/l)$(li)$(l:items/3_ender_backpack)末影背包$(/l)",
+	"有這個功能的物品：$(li)$(l:items/5_drawer)水晶匣子$(/l)$(li)$(l:items/6_ender_drawer)終界匣子$(/l)$(li)$(l:items/7_storage_bags)儲物袋$(/l)$(br2)支持這個功能的UI：$(li)箱子$(li)終界箱$(l:items/1_backpacks)背包$(/l)$(li)$(l:items/2_dimensional_storages)空間背包$(/l)$(li)$(l:items/3_ender_backpack)終界背包$(/l)",
     "在支持這個功能的UI中，進行快速轉移（SHIFT+左鍵點擊物品來把物品從物品欄移動到容器內或者從容器內移動到物品欄）時，匣子/收納袋被視為一大組物品：$(br2)可以SHIFT+左鍵物品把物品轉移到對面的匣子/收納袋內，或者SHIFT+右鍵匣子把匣子內的物品轉移到對面的格子或者匣子/收納袋內。SHIFT+左鍵匣子還是會直接轉移匣子/收納袋本身。",
-    "滑鼠手勢-水晶匣子相容$(br2)滑鼠手勢讓你可以用滾輪精確控制要轉移的物品的數量。水晶匣子支持滑鼠手勢的滾輪功能：在任意UI中，你可以對水晶匣子使用滾輪來精確存取物品。因為滑鼠手勢是用戶端mod，這個功能暫不支持末影匣子。"
+    "滑鼠手勢-水晶匣子相容$(br2)滑鼠手勢讓你可以用滾輪精確控制要轉移的物品的數量。水晶匣子支持滑鼠手勢的滾輪功能：在任意UI中，你可以對水晶匣子使用滾輪來精確存取物品。因為滑鼠手勢是用戶端mod，這個功能暫不支持終界匣子。"
   ]
 }

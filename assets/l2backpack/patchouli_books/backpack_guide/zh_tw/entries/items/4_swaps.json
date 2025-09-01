@@ -14,7 +14,7 @@
 	{
 	  "type": "patchouli:spotlight",
 	  "item": "l2backpack:ender_backpack",
-	  "text": "你也可以把切換袋放入末影背包，這個時候切換袋也能在末影背包中直接啟用。把切換袋放入末影背包的好處是死亡時不會遺失切換袋中的珍貴裝備。"
+	  "text": "你也可以把切換袋放入終界背包，這個時候切換袋也能在終界背包中直接啟用。把切換袋放入終界背包的好處是死亡時不會遺失切換袋中的珍貴裝備。"
 	},
 	"物品功能：$(li)背包可以放在胸甲或者背部飾品欄位，通過綁定的按鍵打開（默認B）$(li)$(l:mechanics/inv_access)物品欄快速訪問$(/l)$(li)$(l:mechanics/chest)箱子快速裝卸$(/l)$(li)$(l:mechanics/quick_insert)物品便捷插入$(/l)$(li)$(l:mechanics/exit)UI疊加$(/l)$(li)$(l:mechanics/pickup)物品自動歸類模式$(/l)"
   ]

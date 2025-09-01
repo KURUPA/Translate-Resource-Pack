@@ -34,7 +34,7 @@
     "options.travelerscompass.tooltip.containers.info": "\n§7▶搜尋任何可能含有內容的容器.",
     "options.travelerscompass.tooltip.current_value": "\n§7當前數值：§f%s",
     "options.travelerscompass.tooltip.disabled_config": "此功能在設定中已被禁用",
-    "options.travelerscompass.tooltip.drops.info": "\n§7▶根據生物掉落表內容搜尋生物。不會搜尋掉落表中未包含的物品（例如溺屍的三叉戟或龍的龍蛋）。",
+    "options.travelerscompass.tooltip.drops.info": "\n§7▶根據生物掉落表內容搜尋生物。不會搜尋掉落表中未包含的物品（例如沉屍的三叉戟或龍的龍蛋）。",
     "options.travelerscompass.tooltip.empty": "指南針為空!",
     "options.travelerscompass.tooltip.empty_more": "\n除非你在其庫存中放入物品，否則不會進行搜尋",
     "options.travelerscompass.tooltip.enough_exp": "指南針運作，會以你的經驗作為代價",

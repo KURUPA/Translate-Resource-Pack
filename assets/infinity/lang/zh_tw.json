@@ -233,7 +233,7 @@
     "config.infinity.rootChances.biome.use_random_canyon.description": "此設定決定模組是否嘗試生成隨機峽谷挖掘工具的機率百分比。這些峽谷類似於 1.18 之前的舊版峽谷，但模組可能會生成極端數值，使世界變得支離破碎。",
     "config.infinity.rootChances.structures.full_box.description": "此設定決定是否將產生覆蓋設定應用於整個結構的邊界框，而不是僅應用於其部分。",
     "config.infinity.rootChances.structures.triangular_spread.description": "此設定決定結構位置的偏移量比通常均勻分佈的偏移量更小的機率百分比。",
-    "config.infinity.rootChances.structures.spawn_override.description": "此設定決定像地獄堡壘這類結構會生成普通怪物而非烈焰人與凋靈骷髏的機率百分比。",
+    "config.infinity.rootChances.structures.spawn_override.description": "此設定決定像地獄堡壘這類結構會生成普通怪物而非烈焰使者與凋靈骷髏的機率百分比。",
     "config.infinity.rootChances.noise_settings.randomize_blocks.description": "此設定決定原本應該是石頭的位置會隨機生成其他方塊的機率百分比。",
     "config.infinity.rootChances.noise_settings.randomize_biome_blocks.description": "此設定決定原本應該是泥土或草方塊的位置會隨機生成其他方塊的機率百分比。",
     "config.infinity.rootChances.noise_settings.solid_lakes.description": "此設定決定湖泊會由隨機實心方塊組成而不是液體的機率百分比。",

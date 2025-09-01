@@ -1,5 +1,5 @@
 ﻿{
-  "name": "末影背包",
+  "name": "終界背包",
   "icon": "l2backpack:ender_backpack",
   "category": "l2backpack:items",
   "sortnum": 3,
@@ -7,7 +7,7 @@
 	{
 	  "type": "patchouli:spotlight",
 	  "item": "l2backpack:ender_backpack",
-	  "text": "可穿戴的末影箱，並且支持物品自動歸類，任意快捷訪問。$(br2)末影背包內的快速切換袋（箭袋，工具切換袋，護甲切換袋）也會生效，等同穿戴它們。把切換袋放入末影背包可以避免死亡時遺失昂貴裝備和重要物品。"
+	  "text": "可穿戴的終界箱，並且支持物品自動歸類，任意快捷訪問。$(br2)終界背包內的快速切換袋（箭袋，工具切換袋，護甲切換袋）也會生效，等同穿戴它們。把切換袋放入終界背包可以避免死亡時遺失昂貴裝備和重要物品。"
 	},
 	"物品功能：$(li)背包可以放在胸甲或者背部飾品欄位，通過綁定的按鍵打開（默認B）$(li)$(l:mechanics/any_access)任意快捷訪問$(/l)$(li)$(l:mechanics/quick_insert)物品便捷插入$(/l)$(li)$(l:mechanics/exit)UI疊加$(/l)$(li)$(l:mechanics/pickup)物品自動歸類模式$(/l)$(li)按ALT以歸類模式插入"
   ]

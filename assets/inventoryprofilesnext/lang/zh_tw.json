@@ -232,7 +232,7 @@
     "inventoryprofiles.config.description.auto_refill_match_custom_name": "重裝方塊時，自動填充將考慮自訂名稱\n對於裝備自訂名稱被忽略。",
     "inventoryprofiles.config.description.auto_refill_match_nbt": "重裝方塊時，自動填充將考慮NBT\n對於裝備NBT被忽略。",
     "inventoryprofiles.config.description.auto_refill_match_nbt_type": "這控制如何比較NBT。\n'精準'表示NBT必須完全匹配。\n'允許附加'表示只比較相同的標籤。",
-    "inventoryprofiles.config.description.auto_refill_ignore_nbt_for_buckets": "如果將其設置為關魚和美西螈桶只有在它們包含相同類型的魚/美西螈時才會重裝",
+    "inventoryprofiles.config.description.auto_refill_ignore_nbt_for_buckets": "如果將其設置為關魚和墨西哥蠑螈桶只有在它們包含相同類型的魚/墨西哥蠑螈時才會重裝",
     "inventoryprofiles.config.description.auto_refill_match_any_food": "當此值設置為開時，當一組食物耗盡時，可以使用任何其他食物來補充它。\n\n注意：\n這將按飽和度對食物物品進行排序，即附魔金蘋果將是首選。等等...",
     "inventoryprofiles.config.description.auto_refill_match_harmful_food": "當此值和上面的選項設定為開時，有害食物，如“河豚”，也將被用來補充耗盡的一組食物。",
     "inventoryprofiles.config.description.autorefill_blacklist": "將被自動重裝忽略的物品種類列表，以逗號進行分隔。\n例如：'minecraft:golden_axe,minecraft:stone'\n警告：\n為了避免性能下降，不要在列表中添加過多的物品種類！",

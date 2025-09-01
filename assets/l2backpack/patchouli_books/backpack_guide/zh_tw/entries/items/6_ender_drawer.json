@@ -1,10 +1,10 @@
 ﻿{
-  "name": "末影匣子",
+  "name": "終界匣子",
   "icon": "l2backpack:ender_drawer",
   "category": "l2backpack:items",
   "sortnum": 6,
   "pages": [
-	"和$(l:items/5_drawer)水晶匣子$(/l)有相同的使用方法。所有綁定相同所有者和標記相同物品的末影匣子共用空間，包括方塊和物品形式。$(br2)手持物品右鍵末影匣子方塊插入物品，空手右鍵末影匣子方塊提取物品。",
+	"和$(l:items/5_drawer)水晶匣子$(/l)有相同的使用方法。所有綁定相同所有者和標記相同物品的終界匣子共用空間，包括方塊和物品形式。$(br2)手持物品右鍵終界匣子方塊插入物品，空手右鍵終界匣子方塊提取物品。",
 	{
 	  "type": "patchouli:spotlight",
 	  "item": "l2backpack:ender_drawer",
