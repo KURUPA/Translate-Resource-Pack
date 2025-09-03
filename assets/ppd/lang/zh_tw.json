@@ -1,0 +1,21 @@
+{
+    "tile.worldhub.name": "世界樞紐",
+    "block.ppd.worldhub": "世界樞紐",
+    "ppdmod.worldhub.title": "世界樞紐",
+    "ppd_creative_tab": "個人玩家維度",
+    "ppdmod.worldhub.add": "添加條目",
+    "ppdmod.worldhub.go": "前往！",
+    "ppdmod.worldhub.close": "關閉",
+    "ppdmod.worldhub.select": "選擇",
+    "ppdmod.worldhub.delete": "刪除",
+    "ppdmod.hearthbracelet.tooltip": " hearth手鐲（返回家園）",
+    "ppdmod.reforge.title": "重鑄維度",
+    "ppdmod.reforge.tooltip": "重鑄",
+    "ppdmod.reforge.confirmbutton": "確認",
+    "ppdmod.reforge.cancelbutton": "取消",
+    "ppdmod.reforge.confirmmessage": "確定要重鑄你的維度嗎？（%s）這將完全摧毀該維度中的所有方塊和進度。",
+    "ppdmod.reforge.regeneratebutton": "重新生成",
+    "ppdmod.reforge.voidbutton": "虛空",
+    "ppdmod.reforge.regeneratedescription": "使用正常設置重新生成你的維度，使其恢復到未開發狀態。",
+    "ppdmod.reforge.voiddescription": "完全清空你的維度，除世界原點的一個平台外不留任何方塊。"
+}
