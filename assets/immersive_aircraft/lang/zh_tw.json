@@ -118,6 +118,10 @@
     "immersive_aircraft.upgrade.fuel": "%s%% 燃料消耗",
     "immersive_aircraft.upgrade.wind": "%s%% 風的影響",
     "immersive_aircraft.upgrade.stabilizer": "%s%%穩定",
-    "immersive_aircraft.tooltip.inventory": "包含 %s 件物品。"
-  }
-  
+    "immersive_aircraft.tooltip.inventory": "包含 %s 件物品。",
+    "entity.immersive_aircraft.bamboo_hopper": "竹製旋翼機",
+    "item.immersive_aircraft.gyroscope_dials": "高級陀螺儀",
+    "item.immersive_aircraft.gyroscope_hud": "電子陀螺儀",
+    "item.immersive_aircraft.bamboo_hopper": "竹製旋翼機",
+    "item.immersive_aircraft.bamboo_hopper.description": "一種厚重的飛行器，擁有三個座位和浮筒，可在水上安全著陸。"
+}
