@@ -1,0 +1,16 @@
+{
+    "item.knightlib.great_essence": "偉大精華",
+    "item.knightlib.small_essence": "小精華",
+    "item.knightlib.empty_grail": "空聖杯",
+    "item.knightlib.filled_grail": "注滿聖杯",
+    "item.knightlib.homunculus": "人造人",
+    "block.knightlib.great_chalice": "偉大聖杯",
+    "tooltip.item.knightlib.great_essence": "§8§o最終連王者也會成為燃料。",
+    "tooltip.item.knightlib.small_essence": "§8§o改變不了任何事的生命最後的嘆息。",
+    "tooltip.item.knightlib.homunculus": "§8§o畸形的奇蹟，被煉金術的代價所束縛。",
+    "tooltip.item.knightlib.empty_grail": "§8§o用精華填滿它。",
+    "tooltip.item.knightlib.filled_grail": "§8§o飲用它就是與死亡共舞。",
+    "tooltip.item.knightlib.great_chalice": "§8§o低語著你從未聽過的名字……卻以某種方式記得。",
+    "jei.knightlib.great_chalice_grail_interaction.title": "偉大聖杯",
+    "jei.knightlib.great_chalice_fill_interaction.title": "偉大聖杯填充"
+}
