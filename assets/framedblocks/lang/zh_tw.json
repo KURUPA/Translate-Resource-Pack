@@ -417,10 +417,10 @@
     "block.framedblocks.framed_vertical_sliced_sloped_stairs_panel": "框架垂直切片斜樓梯（板）",
     "block.framedblocks.framed_vertical_sliced_sloped_stairs_slope": "框架垂直切片斜樓梯（斜面）",
     "block.framedblocks.framed_vertical_sloped_double_stairs": "框架垂直斜雙樓梯",
-    "config.framedblocks.client.trapdoorTextureRotationMode": "暗門紋理旋轉覆蓋：顯示模式",
+    "config.framedblocks.client.trapdoorTextureRotationMode": "地板門紋理旋轉覆蓋：顯示模式",
     "desc.framedblocks.slope_slab.place_upside_down": "按住潛行鍵可倒置放置",
     "title.framedblocks.framed_hopper": "框架物品漏斗",
-    "tooltip.framedblocks.trapdoor_texture_rotation.false": "打開暗門時偽裝紋理不會旋轉",
+    "tooltip.framedblocks.trapdoor_texture_rotation.false": "打開地板門時偽裝紋理不會旋轉",
     "tooltip.framedblocks.trapdoor_texture_rotation.toggle": "使用框架錘點擊可切換紋理旋轉",
-    "tooltip.framedblocks.trapdoor_texture_rotation.true": "打開暗門時偽裝紋理會旋轉"
+    "tooltip.framedblocks.trapdoor_texture_rotation.true": "打開地板門時偽裝紋理會旋轉"
 }

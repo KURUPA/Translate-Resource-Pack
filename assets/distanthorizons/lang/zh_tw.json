@@ -53,7 +53,7 @@
     "distanthorizons.config.client.advanced.graphics.quality.blocksToIgnore": "忽略的方塊",
     "distanthorizons.config.client.advanced.graphics.quality.blocksToIgnore.@tooltip": "定義生成 LOD 時要忽略的方塊類型。",
     "distanthorizons.config.client.advanced.graphics.quality.tintWithAvoidedBlocks": "以被避開方塊染色",
-    "distanthorizons.config.client.advanced.graphics.quality.tintWithAvoidedBlocks.@tooltip": "§4注意：會使雪、地毯和活板門看起來很糟糕§r\n當避開的方塊位於其他方塊之上時，是否要讓下方方塊獲得避開方塊的顏色？\n§6True:§r 紅色花朵會使下方的草地被染成紅色\n§6False:§r 被跳過的方塊不會改變下方表面的顏色",
+    "distanthorizons.config.client.advanced.graphics.quality.tintWithAvoidedBlocks.@tooltip": "§4注意：會使雪、地毯和地板門看起來很糟糕§r\n當避開的方塊位於其他方塊之上時，是否要讓下方方塊獲得避開方塊的顏色？\n§6True:§r 紅色花朵會使下方的草地被染成紅色\n§6False:§r 被跳過的方塊不會改變下方表面的顏色",
     "distanthorizons.config.client.advanced.graphics.quality.lodBias": "LOD 偏差 §6(影響原生地形)§r",
     "distanthorizons.config.client.advanced.graphics.quality.lodBias.@tooltip": "設置原生遊戲的 LOD 偏差值\n更改此值後請按 F3+T 重新載入材質包以套用變更。",
     "distanthorizons.config.client.advanced.graphics.quality.lodShading": "LOD 著色",
