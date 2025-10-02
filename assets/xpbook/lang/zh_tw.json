@@ -1,0 +1,10 @@
+{
+    "item.xpbook.xp_tome": "經驗寶典",
+    "xpbook.tooltip.store.max": "潛行 + 右鍵以儲存盡可能多的經驗",
+    "xpbook.tooltip.retrieve.max": "右鍵取出所有經驗",
+    "xpbook.tooltip.stored_xp": "%1$s/%2$s 經驗儲量",
+    "item.xpbook.xp_book": "舊版 - 右鍵點擊轉換",
+    "xpbook.tooltip.store.previous": "潛行 + 右鍵可儲存最多一級經驗",
+    "xpbook.tooltip.retrieve.next": "右鍵可取出最多一級經驗",
+    "xpbook.tooltip.retrieve.orb": "產生經驗球"
+}
