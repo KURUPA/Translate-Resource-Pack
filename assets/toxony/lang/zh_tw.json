@@ -287,7 +287,7 @@
     "toxony.networking.sync_affinity_map.failed": "同步親和性地圖到玩家失敗：%s",
     "attribute.toxony.generic.effect_reduction": "效果減免",
     "item.minecraft.potion.effect.toxin": "毒素藥水",
-    "item.minecraft.splash_potion.effect.toxin": "噴濺型毒素藥水",
+    "item.minecraft.splash_potion.effect.toxin": "飛濺 毒素藥水",
     "item.minecraft.lingering_potion.effect.toxin": "滯留型毒素藥水",
     "item.toxony.tox_vial": "毒素小瓶",
     "item.toxony.tox_vial.effect.awkward": "奇異小瓶",
