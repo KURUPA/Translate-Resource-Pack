@@ -1,0 +1,19 @@
+{
+    "block.spikyspikes.diamond_spike": "鑽石尖刺",
+    "block.spikyspikes.diamond_spike.description": "造成大量傷害，生物會掉落所有戰利品，就像被玩家殺死一樣。可以使用大多數劍類魔咒，通過鐵砧賦予。",
+    "block.spikyspikes.golden_spike": "金製尖刺",
+    "block.spikyspikes.golden_spike.description": "傷害並殺死生物，只會掉落經驗而沒有任何戰利品。",
+    "block.spikyspikes.iron_spike": "鐵製尖刺",
+    "block.spikyspikes.iron_spike.description": "傷害並殺死生物，不會掉落經驗，只會掉落戰利品。",
+    "block.spikyspikes.netherite_spike": "獄髓尖刺",
+    "block.spikyspikes.netherite_spike.description": "造成大量傷害，生物會掉落所有戰利品，就像被玩家殺死一樣。可以使用大多數劍類魔咒，通過鐵砧賦予。耐爆炸，不會被凋靈摧毀。不會對玩家造成傷害。",
+    "block.spikyspikes.stone_spike": "石製尖刺",
+    "block.spikyspikes.stone_spike.description": "傷害並殺死生物，但不會掉落任何戰利品或經驗。",
+    "block.spikyspikes.wooden_spike": "木製尖刺",
+    "block.spikyspikes.wooden_spike.description": "緩慢傷害生物，但不會殺死生物。",
+    "death.attack.spike": "%1$s現在轉生到了不那麼尖銳的世界",
+    "death.attack.spike.player": "%1$s在試圖逃離%2$s時與尖刺來了個親密接觸",
+    "item.spikyspikes.spike.tooltip.damage": "傷害：%s",
+    "item.spikyspikes.spike.tooltip.hearts": "%s心",
+    "item.spikyspikes.spike.tooltip.more": "按住%s以獲取更多資訊"
+}
