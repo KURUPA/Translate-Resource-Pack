@@ -257,7 +257,7 @@
     "config.framedblocks.client.oneWayWindowMode": "單向窗戶覆蓋：顯示模式",
     "config.framedblocks.client.prismOffsetMode": "稜鏡偏移覆蓋：顯示模式",
     "config.framedblocks.client.reinforcedMode": "強化覆蓋：顯示模式",
-    "config.framedblocks.client.renderCamoInJade": "在翡翠覆蓋中渲染偽裝",
+    "config.framedblocks.client.renderCamoInJade": "在綠寶石覆蓋中渲染偽裝",
     "config.framedblocks.client.renderItemModelsWithCamo": "渲染帶偽裝的物品模型",
     "config.framedblocks.client.showAllRecipePermutationsInEmi": "在 EMI 中顯示所有框架鋸的食譜排列",
     "config.framedblocks.client.showButtonPlateTypeOverlay": "顯示按鈕和壓力板類型覆蓋",

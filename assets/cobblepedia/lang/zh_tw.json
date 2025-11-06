@@ -79,7 +79,7 @@
 	"book.cobblepedia.entries.vivichoke.obtaining.text": "活力蕾通過收穫$(l:vivichoke_seeds)活力蕾種子$()種植的活力蕾作物的最終階段獲得，每次產出一個活力蕾。",
 	"book.cobblepedia.entries.vivichoke_seeds.text": "$(l)活力蕾種子$()是一種$(l:items)物品$()，可以用來種植通過流浪商人、農民村民交易、村莊房屋和某些結構物的箱子找到的$(l:vivichoke)活力蕾$()作物。",
 	"book.cobblepedia.entries.vivichoke_seeds.loot.text": "$(l:https://minecraft.wiki/w/Monster_Room)怪物房間$()、$(l:https://minecraft.wiki/w/Mineshaft)礦井$()、$(l:https://minecraft.wiki/w/Jungle_pyramid)叢林金字塔$()、$(l:https://minecraft.wiki/w/Village)村莊$()房屋和$(l:https://minecraft.wiki/w/Shipwreck)沉船$()供應箱中可能含有1-3個活力蕾種子。",
-	"book.cobblepedia.entries.vivichoke_seeds.trading.text": "活力蕾種子由$(l:https://minecraft.wiki/w/Wandering_Trader)流浪商人$()和熟練農民$(l:https://minecraft.wiki/w/Villager)村民$()以24個翡翠出售。",
+	"book.cobblepedia.entries.vivichoke_seeds.trading.text": "活力蕾種子由$(l:https://minecraft.wiki/w/Wandering_Trader)流浪商人$()和熟練農民$(l:https://minecraft.wiki/w/Villager)村民$()以24個綠寶石出售。",
 	"book.cobblepedia.entries.vivichoke_seeds.farming.text": "活力蕾種子可以放置在耕地上。放置後，它會經歷八個生長階段。$(br)當在活力蕾作物上使用骨粉時，其生長階段將增加一級。$(br)在最後階段打破會產生一個$(l:vivichoke)活力蕾$()。如果提前收穫，它們會掉落一個種子，沒有任何活力蕾。",
 	"book.cobblepedia.entries.vivichoke_seeds.composting.text": "將活力蕾種子放入$(l:https://minecraft.wiki/w/Composter)堆肥桶$()中，有65%%的機率提升堆肥等級1級。",
 	"book.cobblepedia.entries.braised_vivichoke.text": "$(l)燉煮活力蕾$()是一種$(l:food)食物$()，玩家可以食用以恢復6個飢餓點和7點飽和度。",
