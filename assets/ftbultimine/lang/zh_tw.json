@@ -25,7 +25,7 @@
     "ftbultimine.server_settings": "服務端設置",
     "ftbultimine.server_settings.features.right_click_axe": "斧：右鍵單擊多個方塊",
     "ftbultimine.server_settings.features.right_click_hoe": "鋤：右鍵單擊多個方塊",
-    "ftbultimine.server_settings.features.right_click_shovel": "鍬：右鍵點擊多個方塊",
+    "ftbultimine.server_settings.features.right_click_shovel": "鏟：右鍵點擊多個方塊",
     "ftbultimine.server_settings.features.right_click_harvesting": "允許連鎖收穫農作物",
     "ftbultimine.server_settings.costs_limits.max_blocks": "每次操作的最大方塊數量",
     "ftbultimine.server_settings.costs_limits.exhaustion_per_block": "每個採掘方塊的飢餓值乘數",

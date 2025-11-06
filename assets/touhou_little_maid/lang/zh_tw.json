@@ -690,7 +690,7 @@
     "task.touhou_little_maid.honey.condition.has_bottle": "背包內有玻璃瓶（用以收集蜂蜜）",
     "task.touhou_little_maid.honey.condition.has_shears": "主手持有剪刀（用以收集蜜脾）",
     "task.touhou_little_maid.grass.desc": "女僕會主動清理周圍的花草",
-    "task.touhou_little_maid.snow.desc": "女僕會主動清理周圍的雪，持有鍬會掉落雪球",
+    "task.touhou_little_maid.snow.desc": "女僕會主動清理周圍的雪，持有鏟會掉落雪球",
     "task.touhou_little_maid.feed.desc": "女僕會主動投餵周圍飢餓的主人",
     "task.touhou_little_maid.shears.desc": "女僕會主動“剪”周圍的生物",
     "task.touhou_little_maid.milk.desc": "女僕會主動用鐵桶收集周圍牛的奶",
