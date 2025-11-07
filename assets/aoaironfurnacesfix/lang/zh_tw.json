@@ -1,0 +1,5 @@
+{
+    "aoaironfurnacesfix.configgui.xpMulCount.desc": "燒煉獲得的精煉技能經驗會乘以產物數量",
+    "aoaironfurnacesfix.configgui.xpMulCount.name": "經驗乘以數量",
+    "fml.menu.mods.info.description.aoaironfurnacesfix": "- 讓更多熔爐能享受到精煉技能的加成。\n- 燒煉獲得的精煉技能經驗會乘以產物數量（默認關閉）。\n"
+}
