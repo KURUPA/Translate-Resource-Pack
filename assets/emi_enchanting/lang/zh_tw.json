@@ -1,0 +1,16 @@
+{
+    "emi.category.emi_enchanting.enchantments": "附魔資訊",
+    "emi_enchanting.yes_good": "§0是",
+    "emi_enchanting.no_good": "§4否",
+    "emi_enchanting.yes_bad": "§4是",
+    "emi_enchanting.no_bad": "§0否",
+    "emi_enchanting.treasure": "寶藏：%s",
+    "emi_enchanting.curse": "詛咒：%s",
+    "emi_enchanting.tradeable": "村民交易：%s",
+    "emi_enchanting.random": "隨機可選：%s",
+    "emi_enchanting.maxLvl": "最大等級：%s",
+    "emi_enchanting.valid_items": "有效物品",
+    "emi_enchanting.description": "附魔描述",
+    "emi_enchanting.exclusions": "不共存附魔",
+    "enchantment.emi_enchanting.unknown.desc": "未知的附魔"
+}
