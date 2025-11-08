@@ -130,7 +130,6 @@
     "tooltip.ironfurnaces.for_details": " 查看詳細資訊。",
     "tooltip.ironfurnaces.augment_slot": "套件欄位",
     "tooltip.ironfurnaces.rainbow_gen1": "當所有種類的熔爐處於發電狀態時，將產生",
-    "tooltip.ironfurnaces.rainbow_gen2": "RF/tick",
     "tooltip.ironfurnaces.rainbow_gen3": "為了讓每個等級的熔爐都處於發電狀態，其內部能量暫存區不得是滿的",
     "tooltip.ironfurnaces.rainbow_gen4": "熔爐會朝設定為「輸出」的任何一側輸出能量，這時將不會向內部暫存區增加能量",
     "tooltip.ironfurnaces.rainbow_gen5": "你只能擁有一台彩虹發電機",
@@ -139,5 +138,7 @@
     "ironfurnaces.update.buttons": "[{\"text\":\"[\"},{\"text\":\"點擊查看更新日誌\",\"color\":\"green\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"%s\"}},{\"text\":\"] [\",\"color\":\"none\"},{\"text\":\"點擊下載\",\"color\":\"green\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"%s\"}},{\"text\":\"]\",\"color\":\"none\"}]",
     "ironfurnaces.update.buttonOptions": "點擊：更新日誌，Shift 點擊：下載（在瀏覽器）",
     "ironfurnaces.update.failed": "[{\"text\":\"《鐵熔爐》\"},{\"text\":\"檢查更新\",\"color\":\"dark_green\"},{\"text\":\"失敗！ 查看 Logs 以獲得更多資訊！\",\"color\":\"none\"}]",
-    "tooltip.ironfurnaces.rainbow_blowup": "有些東西告訴我要炸毀它..."
+    "tooltip.ironfurnaces.rainbow_blowup": "有些東西告訴我要炸毀它...",
+    "tooltip.ironfurnaces.cooktime": "燒煉時間",
+    "tooltip.ironfurnaces.rainbow_gen2": "RF/tick 如果所有其他熔爐都在發電"
 }
