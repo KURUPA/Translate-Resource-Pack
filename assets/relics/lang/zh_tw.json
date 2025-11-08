@@ -28,7 +28,7 @@
     "tooltip.relics.researching.research.hint.cost": "成本: %1$s 經驗等級 %2$s。",
     "tooltip.relics.researching.research.hint.quick": "按住 [Shift] 進行全自動能力研究。",
     "tooltip.relics.researching.research.hint.locked": "該能力已被研究！",
-    "tooltip.relics.researching.badge.ability.cast_type.hint": "在任何界面外使用 [%1$s] 鍵調出活動能力菜單！",
+    "tooltip.relics.researching.badge.ability.cast_type.hint": "在任何界面外使用 [%1$s] 鍵調出活動能力介面！",
     "tooltip.relics.researching.general.leveling_point.title": "升級點數:",
     "tooltip.relics.researching.general.leveling_point.extra_info": "在升級遺物時獲得，用於升級能力。",
     "tooltip.relics.researching.general.player_experience.title": "經驗等級:",

@@ -7,7 +7,7 @@
 	"more_cobblemon_tweaks.config.option.open_box_history": "開啟箱子歷史紀錄",
 	"more_cobblemon_tweaks.config.option.open_box_history.tooltip": "PC 是否記住並開啟你最後打開的箱子？",
 	"more_cobblemon_tweaks.config.option.pc_iv_display": "IV 顯示",
-	"more_cobblemon_tweaks.config.option.pc_iv_display.tooltip": "在 PC 菜單中新增一個小部件，顯示預覽寶可夢的 IV 值。",
+	"more_cobblemon_tweaks.config.option.pc_iv_display.tooltip": "在 PC 介面中新增一個小部件，顯示預覽寶可夢的 IV 值。",
 	"more_cobblemon_tweaks.config.option.custom_pc_box_names": "自訂箱子名稱",
 	"more_cobblemon_tweaks.config.option.custom_pc_box_names.tooltip": "允許玩家更改 PC 箱子名稱。",
 	"more_cobblemon_tweaks.config.option.custom_pc_wallpapers": "箱子牆紙",

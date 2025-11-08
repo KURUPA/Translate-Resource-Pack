@@ -1,0 +1,5 @@
+{
+    "merchantmarkers.general.optifine_workaround_warning": "Optifine 在使用著色器且未啟用快速渲染時會破壞商人標記。商人標記啟用了快速渲染選項。",
+    "merchantmarkers.key.showMarkers": "顯示村民標記",
+    "merchantmarkers.key.categories.merchantMarkers": "商人標記"
+}

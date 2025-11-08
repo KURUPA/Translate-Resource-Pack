@@ -889,7 +889,7 @@
     "tombstone.command.tbrequestteleport.usage": "向其他玩家發送傳送許可請求\n/tbrequestteleport <玩家>",
     "tombstone.command.tbteleport.death.usage": "傳送到你上次死亡的位置\n/tbteleport 死亡",
     "tombstone.command.tbbind.usage": "將您當前的位置或傳送到 5 個可能的位置之一\n/tbbind <show|set [1-5]|teleport [1-5]>",
-    "tombstone.compendium.intro": "The Compendium 是一份與 Tombstone 相關的信息彙編,可幫助新玩家。\n每條信息都鏈接到右側菜單中的其他幾個信息,以便一致閱讀。",
+    "tombstone.compendium.intro": "The Compendium 是一份與 Tombstone 相關的信息彙編,可幫助新玩家。\n每條信息都鏈接到右側介面中的其他幾個信息,以便一致閱讀。",
     "tombstone.compendium.alignment.desc": "陣營取決於玩家執行的操作。\n陣營增加：\n- 通過在墳墓上使用靈魂容器來釋放它\n- 通過在村莊圍攻期間殺死掠奪者和殭屍\n- 通過用十字章驅除殭屍村民祈禱\n- 通過用十字章祈禱保護村民\n減少陣營：\n- 通過殺死村民\n- 通過使用貪婪石碑\n- 通過搶劫沒有鑰匙的廢棄玩家墳墓\nMinecolonies 中的公民和襲擊者是分別被視為村民和掠奪者。\n它可以解鎖某些特權或允許使用某些魔法物品。\n每個級別的 d 陣營還可以根據陣營的一方減少活/不死生物造成的傷害。\n減傷不影響其他玩家造成的傷害。",
     "tombstone.compendium.ankh_of_prayer.desc": "祈禱十字章是一種可以讓你獲得死亡知識點數但有冷卻時間的物品。\n當十字章可用時，它可以用來在裝飾墓穴附近祈禱，或者根據你的陣營對某些生物祈禱。\n它也可以用於重置在墳墓靈魂上使用它所獲得的恩賜。",
     "tombstone.compendium.bone_needle.desc": "骨針是一種工具，用於通過捕獲生物精華的一小部分來與生物建立魔法紐帶。\n注入精華後的針可以修改被注入的鑽石，然後再將其用於更複雜的配方，例如熟悉的容器。",

@@ -257,7 +257,7 @@
     "message.stellaris.speed": "%s 速度",
     "category.stellaris.default": "Stellaris 金鑰",
     "key.stellaris.rocket_start": "火箭啟動",
-    "key.stellaris.freeze_planet_menu": "在選區菜單中凍結行星",
+    "key.stellaris.freeze_planet_menu": "在選區介面中凍結行星",
     "screen.stellaris.gauge": "容量：%1$s / %2$s",
     "gauge_text.stellaris.stored": "儲存: %s",
     "gauge_text.stellaris.capacity": "容量：%s",

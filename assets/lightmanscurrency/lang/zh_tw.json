@@ -857,7 +857,7 @@
     "tooltip.lightmanscurrency.button.notification": "開啟通知管理員",
     "tooltip.lightmanscurrency.button.team_manager": "開放團隊經理",
     "tooltip.lightmanscurrency.cannot_afford": "買不起",
-    "tooltip.lightmanscurrency.cash_register.1": "可用於從同一菜單與多個本地售貨機進行連結和互動",
+    "tooltip.lightmanscurrency.cash_register.1": "可用於從同一介面與多個本地售貨機進行連結和互動",
     "tooltip.lightmanscurrency.cash_register.details": "販賣機 %1$s 在 %2$s %3$s %4$s",
     "tooltip.lightmanscurrency.cash_register.holdshift": "按住 SHIFT 鍵查看詳細資訊",
     "tooltip.lightmanscurrency.cash_register.info": "與%s個售貨機關聯",

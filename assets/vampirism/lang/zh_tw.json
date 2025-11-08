@@ -1443,7 +1443,7 @@
     "vampirism.configuration.screenOverlay": "畫面疊加層",
     "vampirism.configuration.disableFovChange": "禁止改變FOV",
     "vampirism.configuration.gui-rendering": "GUI渲染",
-    "vampirism.configuration.minionTaskOrder": "隨從任務菜單",
+    "vampirism.configuration.minionTaskOrder": "隨從任務介面",
     "vampirism.configuration.disableBloodVisionRendering": "禁用血液視覺渲染",
     "vampirism.configuration.levelOffsetY": "水平偏移 Y",
     "vampirism.configuration.levelOffsetX": "水平偏移 X",
