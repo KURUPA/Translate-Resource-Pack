@@ -77,5 +77,9 @@
     "ftbultimine.server_settings.costs_limits.experience_per_block.tooltip": "此值可為小數\n若安裝 FTB Ranks，則（若存在）優先使用 'ftbultimine.experience_per_block' 節點",
     "ftbultimine.server_settings.costs_limits.ultimine_cooldown": "Ultimine 冷卻（刻）",
     "ftbultimine.server_settings.costs_limits.ultimine_cooldown.tooltip": "使用 Ultimine 功能之間所需的間隔（以刻計）\n20 刻 = 1 秒\n若安裝 FTB Ranks，則（若存在）優先使用 'ftbultimine.ultimine_cooldown' 節點",
-    "ftbultimine.server_settings.misc": "其他"
+    "ftbultimine.server_settings.misc": "其他",
+    "ftbultimine.client_settings.general.shape_feedback_hotbar_message": "形狀變更時的快捷列訊息",
+    "ftbultimine.client_settings.general.shape_feedback_hotbar_message.tooltip": "若為 true，當 Ultimining 的形狀變更時，在快捷列上顯示包含新形狀的回饋訊息",
+    "ftbultimine.server_settings.costs_limits.require_valid_tool_for_block": "要求有效工具才能進行 Ultimine",
+    "ftbultimine.server_settings.costs_limits.require_valid_tool_for_block.tooltip": "若為 true，所裝備的工具必須能夠對正在被 Ultimine 的方塊有效，\n亦即必須能夠撿取掉落物\n另見 'Require Tool to Ultimine'"
 }
