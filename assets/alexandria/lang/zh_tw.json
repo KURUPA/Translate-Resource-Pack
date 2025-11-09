@@ -1,0 +1,9 @@
+{
+    "item.alexandria.icon": "亞歷山卓",
+    "category.alexandria.mod": "亞歷山卓",
+    "itemGroup.alexandria.tab": "亞歷山卓",
+    "tooltip.alexandria.empty": "無效或舊的物品。嘗試放置以刷新。",
+    "tooltip.alexandria.old": "舊物品。移至另一個背包以更新。",
+    "tooltip.alexandria.borked": "快取出現問題。請放下並再次撿起。",
+    "tooltip.alexandria.report": "如果這持續發生，請報告。"
+}

@@ -692,5 +692,6 @@
     "tag.worldgen.supplementaries.biome.has_way_signs": "會生成路標",
     "tag.worldgen.supplementaries.biome.has_wild_flax": "會生成野生亞麻",
     "tag.worldgen.supplementaries.structure.adventure_map_destinations": "冒險地圖可指向",
-    "tag.worldgen.supplementaries.structure.way_sign_destinations": "路標可指向"
+    "tag.worldgen.supplementaries.structure.way_sign_destinations": "路標可指向",
+    "message.supplementaries.cannon.maneuver": "按 %1$s 下馬，按 %2$s 發射"
 }

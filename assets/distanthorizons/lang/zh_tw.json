@@ -442,5 +442,16 @@
     "distanthorizons.config.enum.EDhApiUpdateBranch.AUTO": "自動",
     "distanthorizons.config.enum.EDhApiGrassSideRendering.AS_GRASS": "如草地",
     "distanthorizons.config.enum.EDhApiGrassSideRendering.FADE_TO_DIRT": "淡化為泥土",
-    "distanthorizons.config.enum.EDhApiGrassSideRendering.AS_DIRT": "如泥土"
+    "distanthorizons.config.enum.EDhApiGrassSideRendering.AS_DIRT": "如泥土",
+    "distanthorizons.general.apiOverride": "API 鎖定",
+    "distanthorizons.general.disabledByApi.@tooltip": "此選項由另一個模組通過 DH 的 API 控制，因此無法通過 UI 或配置文件更改。",
+    "distanthorizons.config.client.advanced.graphics.genericRendering.enableUnexploredFogRendering": "啟用未探索霧渲染",
+    "distanthorizons.config.client.advanced.graphics.genericRendering.enableUnexploredFogRendering.@tooltip": "如果為真，未探索/未生成的 LOD 將顯示為大型深灰色方塊。",
+    "distanthorizons.config.common.worldGenerator.generationProgressIncludeChunksPerSecond": "顯示生成速度（區塊/秒）",
+    "distanthorizons.config.common.worldGenerator.generationProgressIncludeChunksPerSecond.@tooltip": "在記錄生成進度時，還包括區塊生成的速度。\n這對於故障排除性能非常有用。",
+    "distanthorizons.config.server.playerBandwidthLimit": "每位玩家帶寬限制，KB/s",
+    "distanthorizons.config.server.playerBandwidthLimit.@tooltip": "上傳 LOD 到客戶端的每位玩家的最大速度，單位為 KB/s。\n值為 0 將禁用限制。",
+    "distanthorizons.config.server.globalBandwidthLimit": "全局帶寬限制，KB/s",
+    "distanthorizons.config.server.globalBandwidthLimit.@tooltip": "上傳 LOD 到客戶端的全局最大速度，單位為 KB/s。\n值為 0 將禁用限制。",
+    "distanthorizons.config.enum.EDhApiLoggerMode.LOG_ERROR_TO_CHAT_AND_WARNING_TO_FILE": "文件：警告，聊天：錯誤"
 }
