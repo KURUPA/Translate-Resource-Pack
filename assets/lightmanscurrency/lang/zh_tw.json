@@ -887,7 +887,7 @@
     "tooltip.lightmanscurrency.disabled": "停用",
     "tooltip.lightmanscurrency.ejection_menu.split.generic": "將對象拆解為內部內容",
     "tooltip.lightmanscurrency.ejection_menu.split.trader": "將 %s 拆解到其存放的物品中",
-    "tooltip.lightmanscurrency.healing": "治癒%s的健康。",
+    "tooltip.lightmanscurrency.healing": "治癒%s的生命。",
     "tooltip.lightmanscurrency.info_blurb": "按住 SHIFT 鍵可取得更多資訊。",
     "tooltip.lightmanscurrency.interface.info": "地位",
     "tooltip.lightmanscurrency.interface.info.acceptchanges": "接受貿易變更",

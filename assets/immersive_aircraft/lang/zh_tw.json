@@ -101,7 +101,7 @@
     "option.immersive_aircraft.weaponsAreDestructive": "允許某些武器摧毀方塊。",
     "option.immersive_aircraft.dropInventory": "載具摧毀時，掉落物品欄物品，而非保存在載具中",
     "option.immersive_aircraft.dropUpgrades": "載具摧毀時，掉落載具裝備，而非保存在載具中",
-    "option.immersive_aircraft.regenerateHealthEveryNTicks": "模擬原版行為，每隔一定時間自動恢復健康。",
+    "option.immersive_aircraft.regenerateHealthEveryNTicks": "模擬原版行為，每隔一定時間自動恢復生命。",
     "option.immersive_aircraft.requireShiftForRepair": "只有在換檔時才能進行維修，否則只需進入車輛即可。",
     "immersive_aircraft.tooltip.no_target": "需要在地板上組裝！",
     "immersive_aircraft.tooltip.no_space": "空間不夠",

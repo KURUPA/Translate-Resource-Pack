@@ -2,7 +2,7 @@
     "message.pickablepets.blacklist": "寵物已被黑名單。",
     "message.pickablepets.inventory_full": "背包中的寵物數量已達上限。",
     "message.pickablepets.dead": "寵物已死亡。",
-    "message.pickablepets.passenger": "寵物有騎乘者。",
+    "message.pickablepets.passenger": "寵物正在騎乘狀態。",
     "message.pickablepets.baby": "只能撿起成年寵物。",
     "message.pickablepets.sleep": "寵物正在睡覺。",
     "message.pickablepets.far": "寵物太遠了。",

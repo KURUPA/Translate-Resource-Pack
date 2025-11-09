@@ -218,7 +218,7 @@
     "geneticsresequenced.configuration.slimyDeathCooldown": "黏性死亡冷卻時間",
     "geneticsresequenced.configuration.slimyDeathDespawnCheckTimer": "黏性死亡消失檢查計時器",
     "geneticsresequenced.configuration.slimyDeathDespawnTime": "黏性死亡消失時間",
-    "geneticsresequenced.configuration.slimyDeathHealthMultiplier": "黏性死亡健康倍數",
+    "geneticsresequenced.configuration.slimyDeathHealthMultiplier": "黏性死亡生命倍數",
     "geneticsresequenced.configuration.supportSlimeRenderDebug": "支援史萊姆渲染除錯",
     "geneticsresequenced.configuration.teleportCooldown": "傳送冷卻時間",
     "geneticsresequenced.configuration.teleportDistance": "傳送距離",

@@ -248,7 +248,7 @@
     "tooltip.relics.horse_flute.ability.paddock.stat.slots.title": "槽位:",
     "tooltip.relics.horse_flute.ability.paddock.stat.slots.value": "%1$s。",
     "tooltip.relics.horse_flute.ability.heal": "愈療",
-    "tooltip.relics.horse_flute.ability.heal.description": "儲存於遺物中的小馬會慢慢恢復健康。",
+    "tooltip.relics.horse_flute.ability.heal.description": "儲存於遺物中的馬會慢慢恢復生命。",
     "tooltip.relics.horse_flute.ability.heal.stat.amount.title": "治療:",
     "tooltip.relics.horse_flute.ability.heal.stat.amount.value": "每秒 %1$s 生命值單位。",
     "item.relics.magma_walker": "熔岩漫步者",
