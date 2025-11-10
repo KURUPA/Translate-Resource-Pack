@@ -516,5 +516,10 @@
     "inventoryprofiles.config.description.auto_refill_game_toggle_for_slot": "可利用此快速鍵切換目前快捷列格子的自動補滿。\n僅當無其他介面開啟時有效。",
     "inventoryprofiles.tooltip.sort_button.current_order": "§5排序順序: §o%s§r\n",
     "inventoryprofiles.tooltip.sort_button.key_help": "\n§6 - 在此按鈕上滾動滑鼠滾輪\n§6以改變排序順序。",
-    "inventoryprofiles.tooltip.fast_rename": "批量重新命名"
+    "inventoryprofiles.tooltip.fast_rename": "批量重新命名",
+    "inventoryprofiles.config.category.scroll.general": "滾輪一般設定",
+    "inventoryprofiles.config.name.direction_absolute": "滾輪方向絕對",
+    "inventoryprofiles.config.description.direction_absolute": "啟用時，「滑鼠滾輪向上」將永遠把物品從玩家物品欄移動到箱子\n而「滑鼠滾輪向下」將永遠把物品從箱子移動到玩家物品欄。\n\n停用時，「滑鼠滾輪向上」將把物品從游標下方的物品欄移動到另一個物品欄\n而「滑鼠滾輪向下」將把物品從另一個物品欄移動到游標下方的物品欄。",
+    "inventoryprofiles.config.name.disable_for_non_empty_bundles": "停用非空捆包功能",
+    "inventoryprofiles.config.description.disable_for_non_empty_bundles": "啟用時，滾輪將不會移動非空的捆包，並允許原版處理。\n停用時，滾輪將會移動非空的捆包"
 }
