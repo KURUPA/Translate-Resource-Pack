@@ -1,0 +1,18 @@
+{
+    "commands.hordes.SpawnHordeWave.usage": "/hordes spawnWave <生成多少殭屍>",
+    "commands.hordes.SpawnHordeWave.success": "成功召喚了屍潮。",
+    "commands.hordes.SpawnHordeWave.invalidValue": "對於 <生成多少殭屍> 來說，%1$s 不是一個有效的量。",
+    "commands.hordes.SpawnHordeWave.wrongArgCount": "為 /spawnHordeWave 輸入的參數是錯誤的。",
+    "commands.hordes.StartHorde.usage": "/hordes start <有效時長>",
+    "commands.hordes.StartHorde.success": "已成功召喚一個時長為 %1$s 遊戲刻的屍潮。",
+    "commands.hordes.StartHorde.invalidValue": "對於 <持續時間> 來說，%1$s 不是一個有效的量。",
+    "commands.hordes.StartHorde.wrongArgCount": "對於 /startHordeEvent 來說，這不是一個有效的量。",
+    "commands.hordes.StopHorde.success": "成功停止了屍潮。",
+    "commands.hordes.HordeDebug.success": "輸出 The Hordes 模組的日誌到 %1$s",
+    "commands.hordes.HordeClean.success": "已清除該世界中所有 The Hordes 模組的數據。",
+    "commands.hordes.HordeReset.success": "重設了 %1$s 所有 The Hordes 的數據。",
+    "commands.hordes.ListEntities.success": "已將所有實體列表輸出到 %1$s",
+    "commands.hordes.SpawnZombie.usage": "/hordes spawnZombie <是誰的變異體> <位置> <類型>",
+    "message.hordes.DataError": "當前載入的數據存在錯誤，請檢查文件 %1$s 以獲取更多資訊。",
+    "jei.category.hordes.InfectionCures": "治癒感染"
+}
