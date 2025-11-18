@@ -1,0 +1,23 @@
+{
+    "name": "氯",
+    "icon": "butcher:bottleofchlorine",
+    "category": "butcher:resources",
+    "read_by_default": true,
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:bottleofchlorine",
+            "link_recipe": true,
+            "title" : "氯",
+            "text": "氯可用於清潔大釜中的血水，使其回復為水。氯是透過讓電流通過充滿鹽水溶液的盆來生成的。為此，將鹽水盆裝滿鹽水溶液並在雷雨時放置於室外。最終它會被雷擊中，轉化為氯。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:brinesolution_bucket",
+            "link_recipe": true,
+            "title" : "鹽水溶液",
+            "text": "要製作鹽水溶液，您需要2個物品：鹽和水桶。一隻手拿著桶，另一隻手拿著鹽。然後只需右鍵單擊即可。將消耗1個鹽，並且一桶水將轉化為鹽水溶液。"
+        }
+    ]
+}

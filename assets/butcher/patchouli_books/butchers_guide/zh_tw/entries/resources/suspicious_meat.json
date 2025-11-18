@@ -1,0 +1,20 @@
+{
+    "name": "可疑肉塊",
+    "icon": "butcher:suspiciousmeat",
+    "category": "butcher:resources",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:suspiciousmeat",
+            "link_recipe": true,
+            "title" : "可疑肉塊",
+              "text": "可疑的肉塊，就像可疑的燉菜一樣，在食用時會產生隨機的藥水效果。"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "butcher:scrapmeatrecipe_1"
+        }
+    ]
+}

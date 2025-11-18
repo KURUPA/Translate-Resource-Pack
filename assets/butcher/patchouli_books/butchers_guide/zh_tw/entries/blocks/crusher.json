@@ -1,0 +1,20 @@
+{
+    "name": "粉碎機",
+    "icon": "butcher:crusher",
+    "category": "butcher:blocks",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:crusher",
+            "link_recipe": true,
+            "title": "粉碎機",
+            "text": "粉碎機是一種簡單的機器。它可以用來壓碎多餘的肉或頭變成肉屑，用於其他合成。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butcher:crusherrecipe"
+        }
+    ]
+}

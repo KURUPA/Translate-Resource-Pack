@@ -1,0 +1,16 @@
+{
+    "name": "喚魔者偽裝",
+    "icon": "butcher:evokerdisguise_helmet",
+    "category": "butcher:resources",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:evokerdisguise_helmet",
+            "link_recipe": true,
+            "title" : "喚魔者偽裝",
+            "text": "喚魔者偽裝可以通過收穫喚魔者來獲得。這種偽裝可以讓你躲避掠奪者，但對喚魔者不起作用，因為他們的魔法能力可以直接看穿偽裝。"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+      "name": "剝製工作檯",
+    "icon": "butcher:taxidermystation",
+    "category": "butcher:blocks",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:taxidermystation",
+            "link_recipe": true,
+            "title" : "剝製工作檯",
+            "text": "剝制工作台是一種製作頭顱展示座的新方法。只需將小麥放在左側欄位中，將頭顱放在中間欄位中，並將空白頭部安裝在右側欄位中即可。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butcher:taxidermystationrecipe"
+        }
+    ]
+}
