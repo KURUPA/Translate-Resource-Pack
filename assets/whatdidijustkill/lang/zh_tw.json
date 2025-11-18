@@ -1,0 +1,8 @@
+{
+    "screen.whatdidijustkill.killed": "殺死了 %s",
+    "screen.whatdidijustkill.killed.distance": "殺死了 %s (%sm)",
+    "screen.whatdidijustkill.distance": "距離: %sm",
+    "key.whatdidijustkill.toggle_toasts": "[WDIJK] 切換提示可見性",
+    "key.whatdidijustkill.toggle_toasts.enabled": "所有提示現已啟用",
+    "key.whatdidijustkill.toggle_toasts.disabled": "所有提示現已停用"
+}
