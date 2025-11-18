@@ -37,5 +37,10 @@
     "config.camerapture.option.ms_per_picture": "每張照片之間的延遲（毫秒）",
     "config.camerapture.option.can_rotate_pictures": "右鍵點擊時旋轉照片",
     "config.camerapture.option.check_frame_position": "檢查相框位置是否有效",
-    "config.camerapture.set_by_server": "注意：此選項由伺服器決定，\n並在加入時與用戶端同步。"
+    "config.camerapture.set_by_server": "注意：此選項由伺服器決定，\n並在加入時與用戶端同步。",
+    "config.camerapture.category.permission_levels": "權限等級",
+    "config.camerapture.option.simple_camera_hud": "簡易相機HUD",
+    "config.camerapture.option.zoom_mouse_sensitivity": "滑鼠靈敏度縮放",
+    "config.camerapture.option.permission_level.take_picture": "拍照",
+    "config.camerapture.option.permission_level.upload": "上傳圖片"
 }
