@@ -1,20 +1,20 @@
 ﻿{
-  "name": "屠夫工作臺",
-  "icon": "butcher:butcherstable",
-  "category": "butcher:blocks",
-  "read_by_default": true,
-  "sortnum": 1,
-  "pages": [
-    {
-      "type": "patchouli:spotlight",
-      "item": "butcher:butcherstable",
-      "link_recipe": true,
-      "title": "屠夫工作臺",
-      "text": "屠夫工作臺可用於放置屍體以進行屠宰。當在工作臺上屠宰屍體時，屍體會被鮮血覆蓋。使用濕海綿並右鍵點擊工作臺以清除血跡。在完成一具屍體的屠宰過程後，若未清潔就直接放置並屠宰另一具屍體，將會產生腐爛肉。請保持你的工作臺清潔！"
-    },
-    {
-      "type": "patchouli:crafting",
-      "recipe": "butcher:butchers_table_recipe"
-    }
-  ]
+    "name": "屠宰桌",
+    "icon": "butcher:butcherstable",
+    "category": "butcher:blocks",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:butcherstable",
+            "link_recipe": true,
+            "title": "屠宰桌",
+            "text": "屠宰桌可用於放置屍體進行屠宰處理。在桌上屠宰屍體時，桌面會被血液覆蓋。要清潔血跡，請使用濕海綿或濕抹布右鍵點擊桌子。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butcher:butchers_table_recipe"
+        }
+    ]
 }

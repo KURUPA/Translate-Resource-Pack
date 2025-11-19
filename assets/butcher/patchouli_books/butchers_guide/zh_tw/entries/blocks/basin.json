@@ -10,11 +10,25 @@
             "item": "butcher:basin",
             "link_recipe": true,
             "title": "曬鹽盆",
-            "text": "曬鹽盆可用於自動化收集鹽。要使用這個方塊，你必須將其裝滿水，經過半個 Minecraft 天后，水會蒸發，留下鹽。你可以右鍵點擊曬鹽盆來取出鹽，或者使用漏斗將其取出。曬鹽盆必須放置在戶外陽光直射的地方才能蒸發水，夜晚或下雨時無法工作。"
+            "text": "曬鹽盆可用於自動化收集鹽。使用此方塊時，你必須將其注滿水，經過半個Minecraft天后，水分會蒸發留下鹽，可以右鍵點擊取出或用漏斗導出。曬鹽盆必須放置在戶外陽光直射下才能蒸發水分，在夜晚或下雨時無法工作。"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "butcher:basinrecipe"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "butcher:brinebasin",
+            "link_recipe": true,
+            "title": "滷水盆",
+            "text": "滷水盆可用於將滷水溶液轉化為氯氣。將其注滿滷水溶液後等待雷雨天氣，最終閃電會擊中滷水盆，使滷水溶液轉化為氯氣。"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "butcher:images/entries/blocks/brine_basin.png"
+            ],
+            "text": "要製作滷水盆，只需手持避雷針右鍵點擊曬鹽盆即可。"
         }
     ]
 }
