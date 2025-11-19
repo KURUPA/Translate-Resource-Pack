@@ -1,5 +1,4 @@
 {
-    "itemGroup.gag.gag": "GAG — Gadgets Against Grind",
     "info.gag.repelling_item": "應用時給予玩家一個效果，阻止附近的敵對生物生成。",
     "info.gag.supports_unbreaking": "（可被附魔耐久和經驗修補）",
     "info.gag.time_sand_tooltip_mult": "該區塊已被加速到%s倍！",
@@ -55,5 +54,14 @@
     "item.gag.fishing_dynamite": "釣魚炸藥",
     "item.gag.fishing_dynamite.info": "只在水下有效的可投擲爆炸物，對魚類造成額外傷害。如果你不喜歡釣魚，這是完美的！",
     "subtitles.gag.entity.dynamite.throw": "炸藥被投擲",
-    "subtitles.gag.item.repelling.apply": "排斥物品已應用"
+    "subtitles.gag.item.repelling.apply": "排斥物品已應用",
+    "block.gag.fluid_proxy": "流體代理器",
+    "block.gag.item_proxy": "物品代理器",
+    "features.gag.capability_proxy": "能力代理器 (GAG)",
+    "info.gag.lightning_crafting_hint": "用閃電擊中",
+    "item.gag.hearthstone.target.hidden": "[隱藏目標]",
+    "item.gag.time_sand_pouch.info": "在玩家物品欄中時會緩慢積累時間。對正在運作的方塊使用可加速其進程，同時消耗砂囊中儲存的部分時間。",
+    "itemGroup.gag.gag": "GAG — 反繁瑣小工具",
+    "subtitles.gag.item.time_sand_pouch.ding": "方塊運作加速",
+    "subtitles.gag.item.time_sand_pouch.dong": "方塊運作加速至超高速"
 }
