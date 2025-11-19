@@ -1,5 +1,5 @@
 {
-  "description": "$(aoa) comes fully loaded with hundreds of new weapons of several different types, each with their own unique effects and abilities.$(br2)Each weapon group has its own strengths and weaknesses, and no single weapon type will work for every situation.",
-  "icon": "minecraft:diamond_sword",
-  "name": "Weapons"
+    "description": "$(aoa) 完整包含了數百種不同類型的新武器，每種都有其獨特的效果和能力。$(br2)每個武器類別都有其自身的優缺點，沒有任何單一武器類型能適用於所有情況。",
+    "icon": "minecraft:diamond_sword",
+    "name": "武器"
 }

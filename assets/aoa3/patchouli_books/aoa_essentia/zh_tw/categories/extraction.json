@@ -1,6 +1,6 @@
 {
   "parent": "aoa3:skills",
-  "description": "$(thing)Extraction$() is a skill about extracting and utilising materials.$(br2)Levelling the skill will grant you bonus loot, faster harvesting speeds, and some other useful abilities.$(br2)$(l)NOTE:$() this guide is based on the mod defaults. Modpack/datapack changes may affect the accuracy of the following information",
+  "description": "$(thing)精煉$()是一項關於提取和利用材料的技能。$(br2)提升該技能等級將為你提供額外戰利品、更快的採集速度以及其他一些有用的能力。$(br2)$(l)注意：$()本指南基於模組默認設置。整合包/封包的更改可能會影響以下資訊的準確性",
   "icon": "aoa3:textures/gui/aoaskill/extraction.png",
-  "name": "Extraction"
+  "name": "精煉"
 }

@@ -1,6 +1,6 @@
 {
   "parent": "aoa3:skills",
-  "description": "$(thing)Alchemy$() is a skill based around alchemical concoctions and ingredients.$(br2)Levelling up the skill gives access to more advanced and powerful concoctions, and more ways to utilise them.",
+  "description": "$(thing)鍊金$()是一項基於煉金配方和材料的技能。$(br2)提升該技能等級可以解鎖更先進和強大的配方，以及更多使用它們的方法。",
   "icon": "aoa3:textures/gui/aoaskill/alchemy.png",
-  "name": "Alchemy"
+  "name": "鍊金"
 }
