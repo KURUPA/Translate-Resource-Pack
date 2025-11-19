@@ -1,0 +1,18 @@
+{
+  "category": "aoa3:advent_gui",
+  "icon": "minecraft:filled_map",
+  "name": "主窗口",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "advent_gui",
+      "text": "作為$(aoa)的主要GUI，$(thing)Advent GUI$()是你可以在其中找到該模組大部分遊戲內資訊和實用功能的地方。",
+      "title": "主窗口"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "在窗口頂部，模組的當前版本顯示在徽標的左下角。如果模組檢測到有可用更新，它也會在同一位置顯示閃爍的通知。$(br2)沿著螢幕左側是可用標籤頁——點擊其中一個將把GUI的最大部分更改為該標籤頁的內容。"
+    }
+  ],
+  "sortnum": 0
+}

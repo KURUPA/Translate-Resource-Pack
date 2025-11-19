@@ -1,0 +1,31 @@
+{
+  "category": "aoa3:weapons",
+  "icon": "aoa3:slice_star",
+  "name": "投擲武器",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "throwables",
+      "text": "有時候你不想用任何花俏的武器，而真的只想朝敵人扔點東西。$(br)這正是$(thing)投擲武器$()旨在解決的難題。$(br2)$(thing)投擲武器$()是最簡單的遠程武器類型。只需手持一個，然後右鍵點擊即可將其高速投向你的目標。",
+      "title": "投擲武器"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "每種$(thing)投擲武器$()都有其獨特的特性，能提供其他武器可能不具備的情境優勢。$(br2)即便不考慮這些，它們也提供了一個極其快速便捷的傷害來源，並且通常獲取成本相當低廉。$(br)需要快速又粗暴地解決問題？$(thing)投擲武器$()正是你的選擇。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:grenade",
+      "text": "口袋沙子！嗨呀！",
+      "title": "投擲武器"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "AoA 維基",
+      "text": "在$(aoa)的$(thing)官方維基$()上尋找所有$(thing)投擲武器$()的資訊。",
+      "title": "了解更多",
+      "url": "https://adventofascension.fandom.com/wiki/Thrown_Weapons"
+    }
+  ],
+  "sortnum": 10
+}

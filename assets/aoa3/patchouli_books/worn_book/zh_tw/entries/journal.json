@@ -1,0 +1,30 @@
+{
+    "category": "aoa3:journal",
+    "icon": "aoa3:worn_book",
+    "name": "日誌",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "它們無處不在！$(br)那-那些臉，為什麼有這麼多眼睛？$(br2)四個$(thing)雕符石$()：$(br)一個代表$(thing)現實$()。$(br)一個代表$(thing)穿越$()。$(br)一個代表$(thing)空間$()。$(br)一個代表$(thing)方位$()。$(br)用$(thing)遠古岩石$()建造一個框架，六個方塊高。",
+            "title": "日誌條目"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "要包含$(thing)雕符石$()。$(br)在框架底部的中心，插入一個$(thing)能量雕符石$()。這是焦點。它負責接納鑰匙。$(br)共需13個$(thing)遠古岩石$()，5個$(thing)雕符石$()。$(br2)我所開啟的，已無法關閉。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "我已將最初的四個符文散佈在各處的地牢和神殿中，以阻止任何人再次釋放其中的恐怖。$(br2)我將把這個符文砸成碎片，讓它永無再用之日。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "aoa3:crafting_shaped_carved_rune_of_power",
+            "text": "第五個關鍵符文必須手工製作，由數個$(thing)未充能符文$()和一顆$(thing)終界之眼$()組合而成，將其力量注入中央的遠古岩石中。類似這樣："
+        },
+        {
+            "type": "patchouli:text",
+            "text": "願$(thing)卡爾頌$()保佑你，因為你的靈魂將從此不再如初。"
+        }
+    ],
+    "sortnum": 0
+}

@@ -1,0 +1,62 @@
+{
+  "category": "aoa3:hauling",
+  "icon": "aoa3:hauling_rod",
+  "name": "垂釣工具",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "在垂釣過程中會使用幾種主要工具。讓我們簡要地逐一介紹它們。",
+      "title": "垂釣工具"
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:fishing_rod",
+      "text": "標準釣魚竿。它的工作方式與以往完全相同。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "將魚線拋到水面上方，等待氣泡到達你的魚餌，然後在看到魚餌下沉時收線。$(br)這會讓你獲得一些$(thing)垂釣$()經驗值，但只有一點點。你很快就會想要升級到合適的魚竿。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:hauling_rod",
+      "text": "標準垂釣竿。這是你進入AoA引入的替代釣魚方法的第一步。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "使用$(thing)垂釣竿$()與標準魚竿沒有太大區別。關鍵區別在於，魚不再是氣泡流並立即捲上來；而是魚本身實際上咬住魚餌，並試圖驚慌地遊走。$(br)你需要透過快速點擊持續將實體拉向你才能成功釣起。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:thermally_insulated_rod",
+      "text": "垂釣竿的下一階段進化！"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "這是標準垂釣竿的升級版，這個增強版本使用更重的魚餌和耐熱材料，讓你終於能夠從熔岩深處拉起一些生物。$(br)在熔岩中釣魚會提供替代的生物和戰利品。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:light_rod",
+      "text": "一種更靈活的魚竿，以犧牲一些耐久度為代價提供更強的拉力"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:golden_rod",
+      "text": "標準垂釣竿的稀有金色變體，這個工具似乎能增加釣魚時的運氣"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:fishing_cage",
+      "text": "一種被動釣魚裝置，適用於當你沒有時間親自持竿時"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)捕魚籠$()是一種用於被動釣魚的工具。它不會找到任何更有價值的獎勵，但由於你可以把它扔進水裡讓它自己捕魚，這是一個時間效率很高的工具$(br)它在流動的水中效果更好！"
+    }
+  ],
+  "sortnum": 1
+}

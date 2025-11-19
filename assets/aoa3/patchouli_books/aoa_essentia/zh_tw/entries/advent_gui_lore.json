@@ -1,0 +1,18 @@
+{
+  "category": "aoa3:advent_gui",
+  "icon": "minecraft:written_book",
+  "name": "背景知識標籤頁",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "lore_tab",
+      "text": "只有在安裝了$(thing)Patchouli$()時才可訪問，$(thing)背景知識標籤頁$()提供了對任何之前已打開過的$(aoa) $(thing)Patchouli$()書籍的訪問權限。",
+      "title": "背景知識標籤頁"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "默認情況下，該標籤頁應始終提供$(thing)AoA Essentia$()書籍，隨著你找到更多書籍，會有更多書籍變得可用。$(br2)你可以透過點擊打開任何可用的書籍，即使你的物品欄中沒有該書。如果你還沒有某本書，你還可以將其從GUI中拖出，給自己一個全新的副本！"
+    }
+  ],
+  "sortnum": 3
+}

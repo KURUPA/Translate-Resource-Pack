@@ -1,0 +1,101 @@
+{
+  "category": "aoa3:guides",
+  "extra_recipe_mappings": {
+    "aoa3:carved_rune_of_power": 4
+  },
+  "icon": "aoa3:abyss_portal",
+  "name": "傳送門",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "要前往其他$(aoa)維度，你需要建造自己的傳送門。$(br2)$(aoa)傳送門由$(thing)遠古岩石$()和$(thing)雕符石$()製成，並且必須按照特定的形狀建造。$(br2)要製作傳送門框架，先用$(thing)遠古岩石$()建造一個垂直的中空矩形框，然後將底部中心的方塊替換為$(l:aoa3:the_portal#carved_rune_of_power)能量雕符石$(/l)。",
+      "title": "傳送門"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "接著，你必須將以下四種$(thing)雕符石$()各$(l)一個$()插入框架的任意位置：$(br2)$(thing)現實雕符石$()$(br2)$(thing)旅行雕符石$()$(br2)$(thing)空間雕符石$()$(br2)$(thing)方向雕符石$()"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "anchor": "portal_frame",
+      "multiblock": {
+        "mapping": {
+          "0": "aoa3:carved_rune_of_power",
+          "A": "aoa3:carved_rune_of_space",
+          "B": "aoa3:carved_rune_of_direction",
+          "C": "aoa3:carved_rune_of_reality",
+          "D": "aoa3:carved_rune_of_travel",
+          "a": "aoa3:ancient_rock"
+        },
+        "pattern": [
+          [
+            "a",
+            "a",
+            "a",
+            "a",
+            "a"
+          ],
+          [
+            "C",
+            " ",
+            " ",
+            " ",
+            "D"
+          ],
+          [
+            "a",
+            " ",
+            " ",
+            " ",
+            "a"
+          ],
+          [
+            "a",
+            " ",
+            " ",
+            " ",
+            "a"
+          ],
+          [
+            "A",
+            " ",
+            " ",
+            " ",
+            "B"
+          ],
+          [
+            "a",
+            "a",
+            "0",
+            "a",
+            "a"
+          ]
+        ]
+      },
+      "name": "傳送門框架",
+      "text": "傳送門必須包含5個符文和13個岩石。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "四種雕符石可以在主世界各處找到，它們可能藏匿於戰利品箱中、由各種生物掉落，或通過不同的行動獲得。$(br2)第五個符文，即$(l:aoa3:the_portal#carved_rune_of_power)能量雕符石$(/l)，則需要由你親手合成。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "anchor": "carved_rune_of_power",
+      "recipe": "aoa3:crafting_shaped_carved_rune_of_power",
+      "text": "",
+      "title": "能量雕符石"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "一旦傳送門框架建造完成，你可以透過對其使用某種$(thing)領域石$()來啟用它。一個傳送門可以用於前往多個世界。"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "AoA 維基",
+      "text": "更多資訊可以在$(thing)官方維基$()上找到。",
+      "url": "https://adventofascension.fandom.com/wiki/Ancient_Teleportation#Creating_the_portal_frame"
+    }
+  ],
+  "sortnum": 2
+}

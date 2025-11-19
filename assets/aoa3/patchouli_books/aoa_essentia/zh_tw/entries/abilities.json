@@ -1,0 +1,17 @@
+{
+  "category": "aoa3:skills",
+  "icon": "minecraft:potion",
+  "name": "能力",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "所有$(aoa)的$(thing)技能$()都帶有一系列可解鎖的$(thing)能力$()，隨著你等級提升會提供各種加成和效果。$(br)每個$(thing)技能$()在不同等級都有不同的可用$(thing)能力$()。",
+      "title": "技能能力"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "每個單獨的$(thing)能力$()都可以在$(l:aoa3:advent_gui_base#advent_gui)Advent GUI$(/l)中禁用和重新啟用，所以如果你不喜歡某個特定能力，或者只是暫時不想使用它，你可以將其關閉。"
+    }
+  ],
+  "sortnum": 1
+}

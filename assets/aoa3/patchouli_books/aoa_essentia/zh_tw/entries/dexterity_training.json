@@ -1,0 +1,17 @@
+{
+  "category": "aoa3:dexterity",
+  "icon": "aoa3:small_skill_crystal",
+  "name": "靈巧訓練方法",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "作為衡量你身體能力的指標，$(thing)靈巧$()的訓練方式相當明顯：移動！$(br)保持移動、四處奔跑和跳躍將逐漸提升該技能，這意味著你無需過多關注其訓練。$(br)在戰鬥中使用暴擊也會給予一些$(thing)靈巧$()經驗值。",
+      "title": "靈巧訓練方法"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "你還可以透過運用$(thing)靈巧$()賦予你的各種能力獲得一些額外的經驗值，所以繼續保持活躍和移動吧！"
+    }
+  ],
+  "sortnum": 0
+}

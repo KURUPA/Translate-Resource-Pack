@@ -1,0 +1,26 @@
+{
+  "category": "aoa3:imbuing",
+  "icon": "aoa3:imbuing_chamber",
+  "name": "注魔倉",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:imbuing_chamber",
+      "text": "作為所有注能操作的基礎。將$(thing)能量石$()的能量通過各種$(thing)聚能透鏡$()聚焦，從而為物品灌注效果",
+      "title": "注魔倉"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "aoa3:crafting_shaped_imbuing_chamber",
+      "text": "",
+      "title": "合成配方"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:damage_focus",
+      "text": "這些構造的框架包含一個透鏡，允許你將$(thing)能量石$()的能量通過它們聚焦，從而將特定特性注入能量流中。$(br)疊加不同組合的聚焦器會導致對室內目標物品產生不同的注能應用",
+      "title": "聚能透鏡"
+    }
+  ],
+  "sortnum": 2
+}

@@ -1,0 +1,21 @@
+{
+  "category": "aoa3:interfaces",
+  "icon": "aoa3:patchouli/images/icons/resources_icon.png",
+  "name": "資源HUD",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "resources_hud",
+      "text": "$(thing)資源HUD$()是遊戲內界面，用於顯示你當前的可消耗資源數值。$(br2)首次加入遊戲時，此界面是隱藏的，可以通過按下$(k:aoa3.resources)按鍵來切換顯示或隱藏。",
+      "title": "資源HUD"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "默認情況下，此$(thing)界面$()出現在螢幕的右上角，呈水平方向渲染。$(br)可以通過$(thing)hudResourcesHorizontal$()配置選項切換到垂直渲染布局，或者使用$(thing)hudResourcesPosition$()配置選項將其移動到螢幕的其他角落。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "如果$(thing)界面$()留在螢幕右上角，並且$(thing)disableHudPotionOffset$()配置選項保持為$(thing)true$()，則當藥水效果顯示在同一位置時，HUD會自動向下滑動。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "category": "aoa3:advent_gui",
+  "icon": "minecraft:structure_block",
+  "name": "幫助標籤頁",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "help_tab",
+      "text": "$(thing)幫助標籤頁$()是$(thing)Advent GUI$()列表中的最後一個標籤頁，透過左側面板菜單底部的按鈕訪問。",
+      "title": "幫助標籤頁"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "該標籤頁包含一個簡短的文本部分，提供有關該模組的一些有用資訊，一些指向該模組相關網站的重要連結，一個主題選擇器，以及一個每次打開標籤頁時都會變化的隨機提示。$(br2)通過主題選擇器更改主題會改變整個GUI的主題，並且會在遊戲重啟後保存。"
+    }
+  ],
+  "sortnum": 5
+}

@@ -1,0 +1,20 @@
+{
+  "category": "aoa3:journal",
+  "icon": "aoa3:corrupted_traveller_spawn_egg",
+  "name": "飢餓的旅行家",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "link_text": "AoA Wiki",
+      "text": "訪問$(aoa) wiki 以詳細了解$(thing)飢餓的旅行家$()",
+      "title": "Wiki Link",
+      "url": ""
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "aoa3:corrupted_traveller",
+      "text": ""
+    }
+  ],
+  "sortnum": 1
+}

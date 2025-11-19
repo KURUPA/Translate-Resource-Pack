@@ -1,0 +1,31 @@
+{
+  "category": "aoa3:weapons",
+  "icon": "aoa3:blue_barrel",
+  "name": "霰彈槍",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "shotguns",
+      "text": "作為$(l:aoa3:guns#guns)槍械$(/l)的一個子類，$(thing)霰彈槍$()的工作方式類似。$(br)然而，$(thing)霰彈槍$()的顯著區別在於它們發射更大的彈丸，能同時擊中一個小範圍內的所有目標，或對同一目標造成多次命中。",
+      "title": "霰彈槍"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)霰彈槍$()的射速比普通$(thing)槍械$()慢得多，但用射速換來了更高的單發傷害輸出，以及同時擊中多個目標的能力。$(br)請注意，$(thing)霰彈槍$()的射程相當短，因為彈丸在遠距會變得無效，所以這些武器必須在近距離使用。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:long_shot",
+      "text": "用重型的$(thing)霰彈槍$()爆破取代快速射擊的$(l:aoa3:guns#guns)槍械$(/l)單發。",
+      "title": "一把霰彈槍"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "AoA 維基",
+      "text": "在$(aoa)的$(thing)官方維基$()上尋找所有$(thing)霰彈槍$()的資訊。",
+      "title": "了解更多",
+      "url": "https://adventofascension.fandom.com/wiki/Shotguns"
+    }
+  ],
+  "sortnum": 6
+}

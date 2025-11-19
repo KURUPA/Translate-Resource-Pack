@@ -1,0 +1,24 @@
+{
+  "category": "aoa3:resources",
+  "icon": "aoa3:patchouli/images/icons/energy_icon.png",
+  "name": "能量",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "energy",
+      "text": "$(thing)能量$()是你身體的自然資源，負責控制移動和行動。$(br)每當你嘗試執行特殊移動或攻擊時，都會消耗$(thing)能量$()，即使你的能量不足也是如此。$(br2)你的$(thing)能量$()會隨時間自然恢復，速度相當快。",
+      "title": "能量"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "完全耗盡你的$(thing)能量$()儲備或受到傷害會暫時停止你的$(thing)能量$()恢復，因此在野外使用時要小心。$(br)特別是完全耗盡能量會明顯停止恢復一段時間，所以盡量不要完全耗盡自己。"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "官方維基",
+      "text": "訪問$(aoa)官方維基頁面以獲取更多資訊。",
+      "title": "AoA 維基",
+      "url": "https://adventofascension.fandom.com/wiki/Energy"
+    }
+  ]
+}

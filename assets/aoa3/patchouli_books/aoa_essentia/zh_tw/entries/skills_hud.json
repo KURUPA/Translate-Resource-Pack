@@ -1,0 +1,17 @@
+{
+  "category": "aoa3:interfaces",
+  "icon": "aoa3:textures/gui/aoaskill/innervation.png",
+  "name": "技能HUD",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "skills_hud",
+      "text": "$(thing)技能HUD$()是遊戲內界面，用於顯示你當前的技能等級和升級進度。$(br2)此界面預設是禁用的，但可以在選項菜單中將其按鍵綁定設置為任意按鍵來啟用。",
+      "title": "技能HUD"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "與$(l:aoa3:resources_hud)資源HUD$(/l)界面不同，此HUD將始終渲染在螢幕的右上角，並且無法通過配置選項移動。$(br)但是，它會受到$(thing)disableHudPotionOffset$()配置選項的影響。"
+    }
+  ]
+}

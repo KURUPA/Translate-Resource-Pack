@@ -1,0 +1,24 @@
+{
+  "category": "aoa3:resources",
+  "icon": "aoa3:patchouli/images/icons/spirit_icon.png",
+  "name": "精神力",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "spirit",
+      "text": "$(thing)精神力$()是一種自然資源，代表身體的$(o)精神能量$()。$(br)你的$(thing)精神力$()會隨時間自然恢復，並在攻擊敵人時也會恢復。$(br)你的生命值越低，精神力恢復速度就越快，包括在攻擊時也是如此。",
+      "title": "精神力"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)精神力$()被$(l:aoa3:blasters#blasters)能量武器$(/l)用於發射攻擊，也被少數其他武器使用。$(br)一些生物在接觸時會吸取你的$(thing)精神力$()，因此如果你打算使用它，請密切關注你的$(thing)精神力$()水準。"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "官方維基",
+      "text": "訪問$(aoa)官方維基頁面以獲取更多資訊。",
+      "title": "AoA 維基",
+      "url": "https://adventofascension.fandom.com/wiki/Spirit"
+    }
+  ]
+}

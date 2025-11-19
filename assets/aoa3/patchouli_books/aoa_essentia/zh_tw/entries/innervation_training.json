@@ -1,0 +1,17 @@
+{
+  "category": "aoa3:innervation",
+  "icon": "aoa3:small_skill_crystal",
+  "name": "支配訓練方法",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "訓練$(thing)激勵$()技能實際上只有一種方式：擊殺生物。$(br)每次你成功殺死一個怪物或生物，你都會從戰鬥中獲得一些經驗值。獲得的經驗值數量取決於被殺的生物，以及你殺死它的難易程度。",
+      "title": "支配訓練方法"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "你還可以透過運用$(thing)激勵$()技能賦予你的各種能力來獲得經驗值，所以請務必熟悉你的新能力並加以運用！"
+    }
+  ],
+  "sortnum": 0
+}

@@ -1,0 +1,31 @@
+{
+  "category": "aoa3:weapons",
+  "icon": "aoa3:bloodlurker",
+  "name": "巨劍",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "greatblades",
+      "text": "作為$(l:aoa3:swords#swords)劍$(/l)的兄長，$(thing)巨劍$()是一種相似但略有不同的武器類型。$(br)使用巨劍攻擊的方式與劍相同，但$(thing)巨劍$()揮動時間更長、傷害更高、攻擊距離更遠。",
+      "title": "巨劍"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "使用巨劍的最佳方法是利用其更長的攻擊距離，在盡可能遠的範圍內揮擊敵人以保持距離。$(br)雖然使用巨劍時你仍然需要相當靠近敵人，但額外的距離比最初看起來要寶貴得多。$(br2)這些武器對於你不想靠近的較強大的單個敵人最為有用。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:bloodlurker",
+      "text": "$(thing)巨劍$()是$(l:aoa3:swords#swords)劍$(/l)的兄長，並且表現也是如此！",
+      "title": "一把巨劍"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "AoA 維基",
+      "text": "在$(aoa)的$(thing)官方維基$()上尋找所有$(thing)巨劍$()的資訊。",
+      "title": "了解更多",
+      "url": "https://adventofascension.fandom.com/wiki/Greatblades"
+    }
+  ],
+  "sortnum": 1
+}

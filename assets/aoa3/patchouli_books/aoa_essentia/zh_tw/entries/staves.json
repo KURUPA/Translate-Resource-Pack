@@ -1,0 +1,31 @@
+{
+  "category": "aoa3:weapons",
+  "icon": "aoa3:fire_staff",
+  "name": "法杖",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "staves",
+      "text": "經典的$(thing)法杖$()，是有志者法師的武器。$(thing)法杖$()是一種多用途的武器類型，既可作為實用工具，也可作為功能性武器。$(br2)$(thing)法杖$()造成魔法傷害，其產生的任何射彈都是能量基礎的，類似於$(l:aoa3:blasters#blasters)能量武器$(/l)。",
+      "title": "法杖"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "每把$(thing)法杖$()都有其獨特的能力和力量，需要單獨考量，而不是與同類中的其他法杖進行比較。$(br)那些確實造成傷害的$(thing)法杖$()將以$(o)魔法$()方式實現，能夠穿透護甲並造成沉重打擊。$(br2)$(thing)法杖$()消耗$(thing)符文$()來為施法充能，這意味著使用它們需要付出一定且較為明顯的代價。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:underworld_staff",
+      "text": "挺立在你的家園入口，向你的敵人高喊：「You shall not pass!」",
+      "title": "一把法杖"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "AoA 維基",
+      "text": "在$(aoa)的$(thing)官方維基$()上尋找所有$(thing)法杖$()的資訊。",
+      "title": "了解更多",
+      "url": "https://adventofascension.fandom.com/wiki/Staves"
+    }
+  ],
+  "sortnum": 12
+}

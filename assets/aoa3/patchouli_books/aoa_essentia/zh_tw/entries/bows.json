@@ -1,0 +1,31 @@
+{
+    "category": "aoa3:weapons",
+    "icon": "minecraft:bow",
+    "name": "弓",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "anchor": "bows",
+            "text": "在$(thing)Minecraft$()中，$(thing)弓$()是增加戰鬥靈活性的最簡單方法。$(br)通過短到中等的拉弓時間，你可以高速向空中發射$(thing)箭矢$()以擊中遠處的目標。$(br2)請注意，不同的弓有不同的拉弓時間。",
+            "title": "弓"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "雖然所有$(thing)弓$()的功能大致相同，但需要注意的是每把弓都有略微不同的特性。$(br2)有些$(thing)弓$()搭$(thing)箭$()的時間或多或少，有些射出的$(thing)箭矢$()距離較短或較遠。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "aoa3:alacrity_bow",
+            "text": "$(thing)弓$()提供了遠程戰鬥的多功能性，只需付出低成本的彈藥代價。",
+            "title": "一把弓"
+        },
+        {
+            "type": "patchouli:link",
+            "link_text": "AoA 維基",
+            "text": "在$(aoa)的$(thing)官方維基$()上尋找所有$(thing)弓$()的資訊。",
+            "title": "了解更多",
+            "url": "https://adventofascension.fandom.com/wiki/Bows"
+        }
+    ],
+    "sortnum": 3
+}

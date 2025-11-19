@@ -1,0 +1,17 @@
+{
+  "category": "aoa3:skills",
+  "icon": "minecraft:totem_of_undying",
+  "name": "循環",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)技能循環$()是$(aoa)中的一項功能，允許你將$(thing)技能$()的進度'重設'到1級，以換取未來獲取經驗值的大幅提升。",
+      "title": "技能循環"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "當你在某個$(thing)技能$()中達到100級時，你將解鎖'$(thing)循環$()'該技能的能力。$(br)這樣做會將你當前的經驗值重設為0，等級重設為1，但會增加你的總$(thing)循環$()計數。每個計數都會顯著提升該技能的經驗值獲取速度，完成的$(thing)循環$()次數越多，獲得的加成就越多。"
+    }
+  ],
+  "sortnum": 2
+}

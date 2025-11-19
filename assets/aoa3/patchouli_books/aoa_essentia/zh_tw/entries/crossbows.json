@@ -1,0 +1,31 @@
+{
+  "category": "aoa3:weapons",
+  "icon": "minecraft:crossbow",
+  "name": "弩",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "crossbows",
+      "text": "與$(l:aoa3:bows#bows)弓$(/l)類似，弩發射$(thing)箭矢$()以造成遠程傷害。$(thing)弩$()透過預裝填箭矢來運作，需要短暫的裝填時間，之後$(thing)箭矢$()就位待發。$(br2)當你準備好發射時，$(thing)弩$()會立即釋放其$(thing)箭矢$()，以類似於標準$(l:aoa3:bows#bows)弓$(/l)的方式射出。",
+      "title": "弩"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "關於$(thing)弩$()沒有太多可說的。它們造成與$(l:aoa3:bows#bows)弓$(/l)相同類型的傷害，使用相同的彈藥，並且使用方式類似。$(br2)主要區別在於弩允許你在需要射擊之前準備好箭矢，讓你能夠快速應對任何威脅。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:trolls_crossbow",
+      "text": "憑藉$(thing)弩$()的力量在身邊，感受真正神射手的感覺。",
+      "title": "一把弩"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "AoA 維基",
+      "text": "在$(aoa)的$(thing)官方維基$()上尋找所有$(thing)弩$()的資訊。",
+      "title": "了解更多",
+      "url": "https://adventofascension.fandom.com/wiki/Crossbows"
+    }
+  ],
+  "sortnum": 4
+}

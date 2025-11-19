@@ -1,0 +1,13 @@
+{
+  "category": "aoa3:dexterity",
+  "icon": "aoa3:helm_of_the_dextrous",
+  "name": "靈巧頭盔",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "將$(thing)靈巧$()技能提升至100級後，你將獲得佩戴$(thing)靈巧頭盔$()的能力。$(br)該頭盔無法被破壞，提供不錯的屬性，並且在佩戴時使獲得的所有$(thing)靈巧$()經驗值增加50%。$(br2)在1000級時，它會獲得一個精美的改進外觀。",
+      "title": "靈巧頭盔"
+    }
+  ],
+  "sortnum": 2
+}

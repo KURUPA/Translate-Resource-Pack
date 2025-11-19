@@ -1,0 +1,31 @@
+{
+    "category": "aoa3:weapons",
+    "icon": "aoa3:horizon_maul",
+    "name": "巨錘",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "anchor": "mauls",
+            "text": "是否曾想過用$(l:aoa3:swords#swords)劍$(/l)攻擊某物，但又想讓敵人被打飛向夕陽？$(br)嗯，現在你可以了！$(thing)巨錘$()提供了$(l:aoa3:greatblades#greatblades)巨劍$(/l)的延伸攻擊距離，同時在命中時提供強力的擊退效果，但代價是較低的傷害輸出。",
+            "title": "巨錘"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "總的來說，$(thing)巨錘$()旨在用於與危險敵人保持距離，或快速清除過於接近的敵人。$(br2)雖然不提供劍那種較高的$(t:Damage Per Second)每秒傷害$(/t)，但巨錘確實提供了顯著的擊退因素，最適合用於對付具有強大攻擊力的單個大型生物。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "aoa3:electron_maul",
+            "text": "$(thing)巨錘$()提供了$(l:aoa3:greatblades#greatblades)巨劍$(/l)的攻擊距離，並附帶一些額外的力量，非常適合用來玩'高爾夫'。",
+            "title": "一把巨錘"
+        },
+        {
+            "type": "patchouli:link",
+            "link_text": "AoA 維基",
+            "text": "在$(aoa)的$(thing)官方維基$()上尋找所有$(thing)巨錘$()的資訊。",
+            "title": "了解更多",
+            "url": "https://adventofascension.fandom.com/wiki/Mauls"
+        }
+    ],
+    "sortnum": 2
+}

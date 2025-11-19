@@ -1,0 +1,24 @@
+{
+  "category": "aoa3:resources",
+  "icon": "aoa3:patchouli/images/icons/rage_icon.png",
+  "name": "怒火",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "rage",
+      "text": "$(thing)怒火$()是一種自然資源，代表身體自然積累的激憤情緒。$(br)當你受到實體傷害時，它會在你體內積聚，不斷增長直至達到上限。$(br2)$(thing)怒火$()會隨時間自然消退，最終重設為零。",
+      "title": "怒火"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l:aoa3:vulcanes#vulcanes)濁流之杖$(/l)透過汲取身體的$(thing)怒火$()來為自己提供能量。"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "官方維基",
+      "text": "訪問$(aoa)官方維基頁面以獲取更多資訊。",
+      "title": "AoA 維基",
+      "url": "https://adventofascension.fandom.com/wiki/Rage"
+    }
+  ]
+}

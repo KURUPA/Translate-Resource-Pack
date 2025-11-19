@@ -1,0 +1,31 @@
+{
+  "category": "aoa3:weapons",
+  "icon": "aoa3:squad_gun",
+  "name": "槍械",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "guns",
+      "text": "$(thing)槍械$()是$(thing)Minecraft$()中$(l:aoa3:bows#bows)弓$(/l)的更現代化版本。$(br)提供更高的射速和中等傷害，但代價是更高的彈藥成本。$(br2)每把$(thing)槍械$()都有自己的彈藥要求，因此在使用前請務必檢查。",
+      "title": "槍械"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "要使用$(thing)槍械$()，請確保你至少擁有它所需的一種彈藥（在工具提示中顯示），然後將其持於主手並右鍵點擊。$(br2)每把$(thing)槍械$()都有自己的射速、後坐力和其他特性，因此在使用前進行幾次試射可能是值得的。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:squad_gun",
+      "text": "$(thing)槍械$()發射快速移動、精準的射彈，以消耗彈藥為代價造成快速傷害。",
+      "title": "一把槍"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "AoA 維基",
+      "text": "在$(aoa)的$(thing)官方維基$()上尋找所有$(thing)槍械$()的資訊。",
+      "title": "了解更多",
+      "url": "https://adventofascension.fandom.com/wiki/Guns"
+    }
+  ],
+  "sortnum": 5
+}

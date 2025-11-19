@@ -1,0 +1,17 @@
+{
+  "category": "aoa3:imbuing",
+  "icon": "aoa3:glistening_energy_stone",
+  "name": "能量石",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "能量石是世界自然能量突破地表時形成的物理顯化。",
+      "title": "能量石"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "你可以使用$(thing)共鳴之碗$()收集噴湧的能量來'收穫'它們，這些能量會結晶成$(thing)能量石$()或$(thing)聚能石$()。$(br2)世界的自然能量越強大，你見到更高能量$(thing)能量石$()的可能性就越大。"
+    }
+  ],
+  "sortnum": 1
+}

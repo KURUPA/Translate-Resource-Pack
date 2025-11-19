@@ -1,0 +1,40 @@
+{
+  "category": "aoa3:guides",
+  "icon": "minecraft:wooden_sword",
+  "name": "入門指南",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "歡迎來到$(aoa)！$(br2)這個模組內容非常豐富，涵蓋了Minecraft的許多方面——所以有點容易讓人不知所措。但別擔心！我們可以從一些基礎開始，幫你做好準備！",
+      "title": "入門指南"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "首先，你需要找到或建造一個庇護所。主世界可能會變得危險，因此擁有一個可以撤退、恢復和療傷的地方非常重要。$(br)你最好的選擇是快速拿一把鎬子，挖進山裡或地下。挖一個小洞並在外面做標記，以便之後能找到它。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "之後，你需要花時間積累資源以免挨餓，並為自己配備一些基本的護甲和武器。最重要的是要記住小心行事！$(br2)當你準備好後，你需要深入地底，開始挖掘尋找一個$(l:aoa3:getting_started#ruined_teleporter_frame)破損的傳送門框架$(/l)，它由一名$(l:aoa3:getting_started#corrupted_traveller)飢餓的旅行家$(/l)守衛著。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "幫助他，他會給你一些東西讓你繼續前進。$(br2)當你在那裡時，搜刮一些$(thing)遠古岩石$()以備後用。"
+    },
+    {
+      "type": "patchouli:image",
+      "anchor": "ruined_teleporter_frame",
+      "images": [
+        "aoa3:patchouli/images/structures/ruined_teleporter_frame.png"
+      ],
+      "text": "破損的傳送門框架生成於地底深處，靠近世界底部。",
+      "title": "破損的傳送門框架"
+    },
+    {
+      "type": "patchouli:entity",
+      "anchor": "corrupted_traveller",
+      "entity": "aoa3:corrupted_traveller",
+      "text": "飢餓的旅行家可以被發現束縛在他們的$(l:aoa3:getting_started#ruined_teleporter_frame)破損的傳送門框架$(/l)旁，無法離開。"
+    }
+  ],
+  "sortnum": 1
+}

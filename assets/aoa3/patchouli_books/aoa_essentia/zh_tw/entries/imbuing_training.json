@@ -1,0 +1,21 @@
+{
+  "category": "aoa3:imbuing",
+  "icon": "aoa3:small_skill_crystal",
+  "name": "注魔訓練方法",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)注魔$()是一個多方面的技能，主要圍繞兩個核心功能：$(br)1. 收穫靈湧$(br)2. 灌注物品$(br2)在注魔的早期階段，你可能會發現提升注魔等級的最佳方法是留意並收穫靈湧。",
+      "title": "注魔訓練方法"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "然而，隨著你的$(thing)注魔$()專業知識增加，你會發現需要開始利用這些濃縮的能量。$(br)通常這可以通過在$(l:aoa3:imbuing_chamber)注魔室$(/l)中灌注物品來完成，能量需求越高的操作通常給予的經驗也越多。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "此外，使用任何注魔專屬的能力通常也會提供可觀的注魔經驗，具體取決於該能力所需的能量。"
+    }
+  ],
+  "sortnum": 0
+}

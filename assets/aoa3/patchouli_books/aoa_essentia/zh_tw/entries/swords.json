@@ -1,0 +1,31 @@
+{
+  "category": "aoa3:weapons",
+  "icon": "aoa3:limonite_sword",
+  "name": "劍",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "swords",
+      "text": "$(thing)劍$()是所有武器類型中最基礎的，但同時也是最多功能的。$(br)正因如此，它們很可能是你在遊戲中最先使用的武器類型。然而，這也有代價，因為$(thing)劍$()在防護方面提供的幫助不多。",
+      "title": "劍"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "使用劍時，意味著你將置身於戰鬥的最前線，與敵人近在咫尺。$(br)這可能會讓你自己面臨遭受攻擊的風險，但也因此擁有了所有武器類型中最高之一的傷害潛力。$(br2)通常建議你隨時隨身攜帶一把劍，以備在情況變得緊急或需要快速脫身時使用。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:bloodfury",
+      "text": "$(thing)劍$()是遊戲中最全能的武器類型。",
+      "title": "一把劍"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "AoA 維基",
+      "text": "在$(aoa)的$(thing)官方維基$()上尋找所有$(thing)劍$()的資訊。",
+      "title": "了解更多",
+      "url": "https://adventofascension.fandom.com/wiki/Swords"
+    }
+  ],
+  "sortnum": 0
+}

@@ -1,0 +1,31 @@
+{
+  "category": "aoa3:weapons",
+  "icon": "aoa3:big_blast",
+  "name": "巨炮",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "cannons",
+      "text": "$(thing)巨炮$()是$(l:aoa3:guns#guns)槍械$(/l)的第三種子類，提供更強的火力，但代價是更昂貴的彈藥和更慢的射速。$(br)$(thing)巨炮$()還對裝甲目標造成額外傷害，如果目標正在使用盾牌格擋則會使其失效，並在擊中時擊退目標。",
+      "title": "巨炮"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "將$(thing)巨炮$()視為$(l:aoa3:guns#guns)槍械$(/l)的兄長，工作方式相同但每發子彈造成更多傷害，並且對防禦性目標打擊$(o)極重$()。$(br2)在$(thing)槍械$()可能用於多個較弱目標或快速造成傷害的地方，$(thing)巨炮$()則充當$(l:aoa3:mauls#mauls)巨錘$(/l)的遠程等效物，將目標轟飛。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:missile_maker",
+      "text": "用這些超大號的射擊棍棒把你的敵人轟飛。",
+      "title": "一門巨炮"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "AoA 維基",
+      "text": "在$(aoa)的$(thing)官方維基$()上尋找所有$(thing)巨炮$()的資訊。",
+      "title": "了解更多",
+      "url": "https://adventofascension.fandom.com/wiki/Cannons"
+    }
+  ],
+  "sortnum": 8
+}

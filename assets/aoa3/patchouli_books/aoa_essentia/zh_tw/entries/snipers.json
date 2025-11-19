@@ -1,0 +1,31 @@
+{
+  "category": "aoa3:weapons",
+  "icon": "aoa3:bolt_rifle",
+  "name": "狙擊槍",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "snipers",
+      "text": "與$(l:aoa3:shotguns#shotguns)霰彈槍$(/l)類似，$(thing)狙擊槍$()是$(l:aoa3:guns#guns)槍械$(/l)的一個子類，並且工作方式相似。$(br2)$(thing)霰彈槍$()專注於近距離火力，而$(thing)狙擊槍$()則擅長遠距離作戰。在射程方面，沒有任何$(thing)槍械$()或$(l:aoa3:bows#bows)弓$(/l)能與$(thing)狙擊槍$()相媲美。",
+      "title": "狙擊槍"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "儘管相似，但$(thing)狙擊槍$()與$(l:aoa3:guns#guns)槍械$(/l)有一個非常重要的功能區別。$(br)要正確發射$(thing)狙擊槍$()，你必須潛行，這將打開瞄準鏡並提供更好的遠距離視野。不開啟瞄準鏡會導致射擊精度極差，因此建議每次射擊都開啟瞄準鏡。$(br2)$(thing)狙擊槍$()的子彈飛行速度極快，擊中目標的速度遠超任何其他遠程武器。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:terminator",
+      "text": "使用$(thing)狙擊槍$()在遠距離目標還沒反應過來時就將其消滅！",
+      "title": "一把狙擊槍"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "AoA 維基",
+      "text": "在$(aoa)的$(thing)官方維基$()上尋找所有$(thing)狙擊槍$()的資訊。",
+      "title": "了解更多",
+      "url": "https://adventofascension.fandom.com/wiki/Snipers"
+    }
+  ],
+  "sortnum": 7
+}

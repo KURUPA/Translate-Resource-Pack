@@ -1,0 +1,31 @@
+{
+  "category": "aoa3:weapons",
+  "icon": "aoa3:vulcane",
+  "name": "濁流之杖",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "vulcanes",
+      "text": "$(thing)濁流之杖$()是一種獨特的武器，其使用方式與傳統武器不同。$(br)並非直接用$(thing)濁流之杖$()攻擊敵人，而是讓它汲取你在受傷時積累的$(thing)憤怒$()。$(br2)一旦積攢了足夠的憤怒，使用你的$(thing)濁流之杖$()即可施以純粹、原始、$(l)毀滅性的報復$()。",
+      "title": "濁流之杖"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "本質上，$(thing)濁流之杖$()在你的物品欄中大部分時間處於非活躍狀態。當你積累了足夠的$(thing)怒氣$()後，下一個攻擊你的目標將在短時間內被標記為潛在目標。$(br)在擁有足夠的$(l:aoa3:rage#rage)怒氣$(/l)且目標被標記的情況下，使用$(thing)濁流之杖$()將立即對目標造成純粹傷害，直接穿透他們可能擁有的任何護甲。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:battle_vulcane",
+      "text": "復仇這道菜，最好以最殘酷的方式，當面奉上。",
+      "title": "濁流之杖"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "AoA 維基",
+      "text": "在$(aoa)的$(thing)官方維基$()上尋找所有$(thing)濁流之杖$()的資訊。",
+      "title": "了解更多",
+      "url": "https://adventofascension.fandom.com/wiki/Vulcanes"
+    }
+  ],
+  "sortnum": 11
+}

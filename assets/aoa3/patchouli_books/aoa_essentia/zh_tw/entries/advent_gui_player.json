@@ -1,0 +1,22 @@
+{
+  "category": "aoa3:advent_gui",
+  "icon": "minecraft:bone",
+  "name": "玩家標籤頁",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "player_tab",
+      "text": "$(thing)玩家標籤頁$()是每當打開$(l:aoa3:advent_gui_base)Advent GUI$(/l)時默認打開的標籤頁。$(br)它包含玩家當前$(l:aoa3:skills_overview)技能$(/l)的概覽。",
+      "title": "玩家標籤頁"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "點擊任何技能會打開一個專用窗口，提供所選技能的更詳細資訊。$(br)在專用窗口中，你會找到該技能的當前經驗值、升級進度、當前循環次數，以及適用於該技能的$(l:aoa3:abilities)能力$(/l)列表。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "點擊能力面板中列出的任何能力，如果它當前處於啟用狀態則會禁用它，如果之前被你禁用則會啟用它。$(br)禁用能力會移除它當前賦予你的任何加成，或者在你遊戲時阻止它對遊戲產生任何影響。$(br2)如果你已達到100級，將會提供一個用於$(l:aoa3:cycles)循環$(/l)該技能的按鈕。"
+    }
+  ],
+  "sortnum": 1
+}

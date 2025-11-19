@@ -1,0 +1,31 @@
+{
+  "category": "aoa3:weapons",
+  "icon": "aoa3:death_ray",
+  "name": "能量武器",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "blasters",
+      "text": "想要射擊東西，但又不想製作或攜帶任何彈藥？$(thing)能量武器$()是你的朋友！$(br)$(thing)能量武器$()利用你自然的$(thing)精神力$()來充能射擊，讓你能夠在遠距離造成快速傷害，但缺點是你只能進行短時間連射。",
+      "title": "能量武器"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "要發射$(thing)能量武器$()，請將其持在手中並按住右鍵。經過短暫的充能時間後，能量武器將開始射擊，對目標造成能量傷害。$(br2)基於能量的射彈沒有$(thing)箭矢$()或$(thing)子彈$()那樣穿透樹葉所需的質量，並且會在水中迅速消散。$(br2)$(thing)能量武器$()將能夠持續射擊，直到你的$(l:aoa3:spirit#spirit)精神力$(/l)耗盡。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:beamer",
+      "text": "無需彈藥的$(l:aoa3:guns#guns)槍械$(/l)？$(thing)能量武器$()為你而來！",
+      "title": "一把能量武器"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "AoA 維基",
+      "text": "在$(aoa)的$(thing)官方維基$()上尋找所有$(thing)能量武器$()的資訊。",
+      "title": "了解更多",
+      "url": "https://adventofascension.fandom.com/wiki/Blasters"
+    }
+  ],
+  "sortnum": 9
+}

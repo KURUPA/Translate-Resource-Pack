@@ -1,0 +1,44 @@
+{
+  "category": "aoa3:farming",
+  "icon": "aoa3:green_manure_seeds",
+  "name": "農業實用物品",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "有一些與農業相關的實用物品值得了解。在你$(thing)農業$()之旅的開始時，你可能還無法利用它們，但隨著時間的推移，它們會變得相當有用。",
+      "title": "農業實用物品"
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:bone_meal",
+      "text": "骨粉有助於提高你的收成潛力！"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "一旦你經驗更豐富一些，你將能夠在你的耕地上使用$(thing)骨粉$()來施肥，使下一次在其上收穫的作物產量翻倍！$(br)然而，這只是短期效果，所以你下次種植時需要重新施肥。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aoa3:green_manure_seeds",
+      "text": "終極施肥方法"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "最終你將能夠利用$(thing)綠肥$()。這是一種更高級的耕地施肥方法，需要將這種作物種植到完全成熟，然後收穫它。你不會獲得任何特殊產物，但你會發現下方的耕地變得非常肥沃。$(br)這是比骨粉更強大的效果，而且持續時間更長！"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:golden_hoe",
+      "text": "用於農業的工具？當然，為什麼不呢",
+      "title": "鋤頭"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "經驗豐富的農民將能夠使用$(thing)鋤頭$()一次性收穫大片區域。這使得收穫任務更加快速和簡單，一旦可用將變得非常寶貴。"
+    }
+  ],
+  "sortnum": 1
+}

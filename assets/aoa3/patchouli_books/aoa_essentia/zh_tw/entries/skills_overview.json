@@ -1,0 +1,28 @@
+{
+  "category": "aoa3:skills",
+  "icon": "aoa3:large_skill_crystal",
+  "name": "概述",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)技能$()是$(aoa)的一項功能，圍繞訓練你的能力、獲取$(thing)經驗值$()和提升$(thing)等級$()以獲得更多能力或增強你的遊戲體驗而設計。$(br)$(aoa)默認內建了10種技能。",
+      "title": "技能概述"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "在任何給定的世界中，所有玩家都可以使用相同的$(thing)技能$()，每位玩家的所有技能都從1級開始。$(br)每種$(thing)技能$()都有不同的$(l:aoa3:abilities)能力$(/l)、收益和訓練方法——因此要了解更多資訊，請查閱各個$(thing)技能$()分類。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "每種$(thing)技能$()的加成在100級時達到上限，但你可以繼續提升等級直至1000級，只是為了向你的朋友展示誰才是最厲害的。$(br2)但要注意，一路升級到頂需要花費大量的時間和精力，並且你可能需要將你的$(thing)技能$()進行數次$(l:aoa3:cycles)輪迴$(/l)才能達到頂峰。"
+    },
+    {
+      "type": "patchouli:link",
+      "link_text": "AoA 維基",
+      "text": "在$(aoa)的$(thing)官方維基$()上尋找所有$(thing)技能$()的更多資訊。",
+      "title": "了解更多",
+      "url": "https://adventofascension.fandom.com/wiki/Skills"
+    }
+  ],
+  "sortnum": 0
+}
