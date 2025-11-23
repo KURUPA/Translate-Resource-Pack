@@ -1,5 +1,4 @@
 {
-    "item_group.cobblefurnies.tab": "CobbleFurnies",
     "gui.cobblefurnies.hold_shift_for_details": "按 SHIFT 查看詳情。",
     "entity.cobblefurnies.seat": "座椅",
     "block.cobblefurnies.furnicrafter": "家具工作檯",
@@ -280,5 +279,9 @@
     "block.cobblefurnies.statue_pikachu": "皮卡丘雕像",
     "block.cobblefurnies.tv": "電視",
     "block.cobblefurnies.ces": "CES（Cobble 娛樂系統）",
-    "container.cobblefurnies.fridge": "冰箱"
+    "container.cobblefurnies.fridge": "冰箱",
+    "item_group.cobblefurnies.tab": "寶可夢 Furnies",
+    "block.cobblefurnies.acacia_chair": "相思木椅子",
+    "block.cobblefurnies.acacia_table": "相思木桌子",
+    "block.cobblefurnies.acacia_cabinet": "相思木櫥櫃"
 }
