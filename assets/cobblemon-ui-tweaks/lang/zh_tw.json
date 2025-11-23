@@ -1,0 +1,13 @@
+{
+  "cobblemon_ui_tweaks.portrait.pokemon.form": "形態：%1$s",
+  "cobblemon_ui_tweaks.portrait.pokemon.trainer": "訓練家：%1$s",
+  "cobblemon_ui_tweaks.portrait.pokemon.trainer.not_applicable": "訓練家：不適用",
+  "cobblemon_ui_tweaks.move.base_power": "基礎威力：%1$s",
+  "cobblemon_ui_tweaks.move.base_power.not_applicable": "基礎威力：不適用",
+  "cobblemon_ui_tweaks.move.accuracy": "命中率：%1$s",
+  "cobblemon_ui_tweaks.move.accuracy.cant_miss": "命中率：必中",
+  "cobblemon_ui_tweaks.move.effectiveness.immune": "效果：無效",
+  "cobblemon_ui_tweaks.move.effectiveness.not_very_effective": "效果：效果不佳（%1$s）",
+  "cobblemon_ui_tweaks.move.effectiveness.super_effective": "效果：效果絕佳（%1$s）",
+  "cobblemon_ui_tweaks.move.effectiveness.neutral": "效果：一般"
+}
