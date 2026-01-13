@@ -1,0 +1,12 @@
+﻿{
+    "name": "重力",
+    "icon": "l2hostility:gravity",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:gravity",
+            "text": "持有這個詞條的怪物會增加周圍的重力，幅度取決於等級。受到空中生物攻擊時使攻擊者向下墜落"
+        }
+    ]
+}

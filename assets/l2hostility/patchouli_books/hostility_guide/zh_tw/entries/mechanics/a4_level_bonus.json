@@ -1,0 +1,17 @@
+﻿{
+    "name": "玩家難度值",
+    "icon": "l2hostility:hostility_orb",
+    "category": "l2hostility:mechanics",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "當你的難度值達到一定程度時，你可以在殺死下一個怪物時獲得獎勵（包括惡意吸收寶珠），你可以查看您獲得了多少獎勵。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:hostility_orb",
+            "text": "擊殺怪物的掉落獎勵是惡意吸收寶珠的的唯一獲取方式，它可以防止在一個區塊中生成的怪物具有惡意等級，可以達到和清除惡意生怪磚同樣的效果。"
+        }
+    ]
+}

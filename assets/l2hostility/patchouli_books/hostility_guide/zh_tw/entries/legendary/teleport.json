@@ -1,0 +1,16 @@
+﻿{
+    "name": "傳送",
+    "icon": "l2hostility:teleport",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:teleport",
+            "text": "具有此詞條的怪物可以透過傳送來躲避非魔法傷害。縱使傳送失敗，它仍然可以彈開彈射物。$(br2)這個詞條也可以使怪物直接傳送到他們的攻擊目標旁。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "你需要用可以造成魔法傷害的武器來對抗擁有該詞條的怪物, 想辦法繞開它的保護或阻止它使用傳送。"
+        }
+    ]
+}

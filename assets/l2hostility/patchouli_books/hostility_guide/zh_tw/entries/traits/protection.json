@@ -1,0 +1,16 @@
+﻿{
+    "name": "保護",
+    "icon": "l2hostility:protection",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:protection",
+            "text": "這個詞條讓怪物獲得傷害抗性，級別等同於詞條等級。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "為了對付具有保護特性的生物，無視抗性的武器或淨化藥水會有所幫助。"
+        }
+    ]
+}

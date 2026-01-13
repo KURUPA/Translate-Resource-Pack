@@ -1,0 +1,12 @@
+﻿{
+    "name": "影印",
+    "icon": "l2hostility:reprint",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:reprint",
+            "text": "擁有這個詞條的怪物會根據目標裝備的附魔點數增加傷害，並且近戰擊中敵人時能複製所有附魔。$(br2)根據目標身上所有裝備的總附魔點數提供增傷。x級附魔提供2^x附魔點數。"
+        }
+    ]
+}

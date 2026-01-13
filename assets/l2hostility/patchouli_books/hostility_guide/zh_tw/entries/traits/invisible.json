@@ -1,0 +1,16 @@
+﻿{
+    "name": "隱身",
+    "icon": "l2hostility:invisible",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:invisible",
+            "text": "隱形詞條可以讓怪物本身和它們身上的裝備通過透明附魔完全隱形。如果你不直視它們，他們甚至連詞條標誌都能隱去。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "使用淨化藥水或發光效果可以幫助你看到隱形的生物。"
+        }
+    ]
+}

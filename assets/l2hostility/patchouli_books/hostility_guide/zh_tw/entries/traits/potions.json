@@ -1,0 +1,46 @@
+﻿{
+    "name": "藥水效果詞條",
+    "icon": "l2hostility:blindness",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "以下的7個詞條可以讓怪物對目標施加藥水效果。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:blindness",
+            "text": "這個詞條可以讓怪物施加致盲效果，減少目標的有效視野。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:nausea",
+            "text": "這個詞條可以讓怪物施加反胃效果，扭曲目標視野。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:levitation",
+            "text": "這個詞條可以讓怪物施加漂浮效果。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:slowness",
+            "text": "這個詞條可以讓怪物施加減速效果。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:weakness",
+            "text": "這個詞條可以讓怪物施加虛弱效果。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:poison",
+            "text": "這個詞條可以讓怪物施加中毒效果。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:wither",
+            "text": "這個詞條可以讓怪物施加凋零效果。"
+        }
+    ]
+}

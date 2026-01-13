@@ -1,0 +1,16 @@
+﻿{
+    "name": "攝魂",
+    "icon": "l2hostility:dementor",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:dementor",
+            "text": "擁有這個詞條的怪物免疫物理攻擊，並且攻擊目標會無視護甲造成魔法傷害。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "與擁有此詞條的怪物戰鬥時需要選取能夠造成魔法傷害的武器或想辦法無視他的保護。 除此之外，裝備擁有強大保護附魔的防具也至關重要。"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+﻿{
+    "name": "Mod配置",
+    "icon": "minecraft:paper",
+    "category": "l2hostility:mechanics",
+    "sortnum": 101,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "你可以在配置中調整難度算法：有一些配置值可以讓距離出生點更遠的小怪擁有更高的等級獎勵，也可以讓你遇到的怪物隨著你探索的維度數量而額外提升等級。$(br2)你也可以設定擁有惡意等級和特殊詞條的怪物的生成方式。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "你還可以自由配置怪物的增益數量和詞條等級。$(br2)更高級的配置需要配合封包使用。"
+        }
+    ]
+}

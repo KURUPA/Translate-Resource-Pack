@@ -1,0 +1,16 @@
+﻿{
+    "name": "嗜魔",
+    "icon": "l2hostility:drain",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:drain",
+            "text": "怪物擊中目標時，隨機消除正面效果，並提升所有負面效果的時間。傷害根據負面效果的數量上升。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "於擁有這個詞條的怪物戰鬥時，需要找到免疫藥水效果的方法。聖光守護之戒，詛咒扭曲之戒，暴怒詛咒，或者幽匿盔甲都很有幫助。"
+        }
+    ]
+}

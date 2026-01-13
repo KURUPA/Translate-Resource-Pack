@@ -1,0 +1,12 @@
+﻿{
+    "name": "反擊",
+    "icon": "l2hostility:counter_strike",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:counter_strike",
+            "text": "持有這個詞條的怪物被攻擊時會試圖衝刺反擊。"
+        }
+    ]
+}

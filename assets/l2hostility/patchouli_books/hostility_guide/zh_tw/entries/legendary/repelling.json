@@ -1,0 +1,16 @@
+﻿{
+    "name": "排斥",
+    "icon": "l2hostility:repelling",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:repelling",
+            "text": "具有此詞條的怪物可以不斷推開身邊的玩家和敵對生物，並且不受彈射物影響。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "你可以使用魔法傷害、爆炸或可以繞過彈射物免疫的彈射物來殺死具有此詞條的怪物。"
+        }
+    ]
+}

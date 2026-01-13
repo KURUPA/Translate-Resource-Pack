@@ -1,0 +1,12 @@
+﻿{
+    "name": "神速",
+    "icon": "l2hostility:speedy",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:speedy",
+            "text": "擁有此詞條的怪物將獲得驚人的移動速度。"
+        }
+    ]
+}

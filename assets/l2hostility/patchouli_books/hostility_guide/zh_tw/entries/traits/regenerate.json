@@ -1,0 +1,16 @@
+﻿{
+    "name": "再生",
+    "icon": "l2hostility:regenerate",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:regenerate",
+            "text": "擁有該詞條的怪物每秒會恢復生命值。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "對付此類怪物你可以快速將其擊殺或者使用帶有詛咒效果的藥水或者武器來阻止怪物自我癒合。"
+        }
+    ]
+}

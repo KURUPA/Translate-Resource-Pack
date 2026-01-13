@@ -1,0 +1,26 @@
+﻿{
+    "name": "萊特蘭擴展效果詞條",
+    "icon": "l2hostility:freezing",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "萊特蘭擴展中還有三個強力的怪物詞條效果：詛咒、業火和寒流"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:cursed",
+            "text": "這個詞條可以讓怪物的攻擊獲得詛咒效果，攻擊時令目標無法恢復生命值。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:soul_burner",
+            "text": "這個詞條可以讓怪物的攻擊附帶高傷害的魂火效果。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:freezing",
+            "text": "這個詞條可以讓怪物施加減速並且干擾視野的寒流效果。"
+        }
+    ]
+}

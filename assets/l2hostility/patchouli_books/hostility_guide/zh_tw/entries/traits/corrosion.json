@@ -1,0 +1,16 @@
+﻿{
+    "name": "腐蝕",
+    "icon": "l2hostility:corrosion",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:corrosion",
+            "text": "有這個詞條的怪物可以大幅消耗攻擊目標的裝備耐久，特別是裝備耐久不高的時候$(br2)非常高等級的怪物才會有這個詞條，前期別太擔心"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "對付有這個詞條的怪物時，最好確保你的裝備耐久足夠高。$(br2)你也可以用生命修補或者硬化附魔來保證裝備耐久足夠"
+        }
+    ]
+}

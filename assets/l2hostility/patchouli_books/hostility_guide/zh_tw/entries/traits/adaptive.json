@@ -1,0 +1,16 @@
+﻿{
+    "name": "適應",
+    "icon": "l2hostility:adaptive",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:adaptive",
+            "text": "擁有此詞條的怪物可以記憶最近受到傷害的種類並以此減免受到的該類傷害，可同時記憶的傷害種類數量取決於詞條等級。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "對付具有適應詞條的怪物時，你需要使用不同種類的傷害來不斷重設它的記憶，近戰、三叉戟、弓箭的攻擊都頗有效果。$(br2)如果詞條等級過高的話，藥水、岩漿、火焰、仙人掌、掉落傷害等可以幫助清除適應記憶。"
+        }
+    ]
+}

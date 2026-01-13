@@ -1,0 +1,16 @@
+﻿{
+    "name": "生長",
+    "icon": "l2hostility:growth",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:growth",
+            "text": "只對史萊姆類怪物有效。史萊姆會自動獲得相同等級的再生詞條。滿血時，史萊姆會長大一點，詞條等級決定了最大體積。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "被殺死時，只有一隻史萊姆會繼承此詞條，並且詞條等級-1"
+        }
+    ]
+}

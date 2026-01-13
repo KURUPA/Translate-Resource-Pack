@@ -1,0 +1,17 @@
+﻿{
+    "name": "惡意生怪磚",
+    "icon": "l2hostility:hostility_spawner",
+    "category": "l2hostility:mechanics",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:hostility_spawner",
+            "text": "這個物品和可以幫助你解決一個區塊的困難度問題。你要將其放置在所需的區塊中並右鍵單擊它來啟用。它會召喚一群敵人並將他們全部殺死以清除區塊難度。如果任何怪物因可疑原因而死亡則惡意生怪磚將會失敗，你可以單擊它來恢復。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "當一個區塊被清理後，你可以放置一個惡意生怪磚或者在難度選項卡中檢查它，而已生怪磚在已清理的區域會自動變綠。"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+﻿{
+    "name": "風蝕",
+    "icon": "l2hostility:erosion",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:erosion",
+            "text": "有這個詞條的怪物可以大幅消耗攻擊目標的裝備耐久，特別是裝備耐久高的時候$(br2)非常高等級的怪物才會有這個詞條，前期別太擔心"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "對付有這個詞條的怪物時，最好確保你有恢復或者維持裝備耐久的方法，例如硬化附魔。$(br2)你也可以使用生命修補+保險附魔的組合來保證裝備不會輕易損壞"
+        }
+    ]
+}

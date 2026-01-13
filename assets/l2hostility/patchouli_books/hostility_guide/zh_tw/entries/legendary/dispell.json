@@ -1,0 +1,16 @@
+﻿{
+    "name": "破魔",
+    "icon": "l2hostility:dispell",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:dispell",
+            "text": "擁有此詞條的怪物將無視目標的魔法保護, 並會在一段時間內會短暫消除你身上隨機一件裝備的附魔，除此之外怪物還將免疫魔法傷害。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "你需要盾牌來對抗這些殘暴的傢伙，否則你可能會一命嗚呼。"
+        }
+    ]
+}

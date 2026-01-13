@@ -1,0 +1,16 @@
+﻿{
+    "name": "不死",
+    "icon": "l2hostility:undying",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:undying",
+            "text": "擁有此詞條的怪物死亡時會立刻滿血復活，除非在死亡前他們處於無法恢復的狀態或受到虛空傷害。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "使用可以讓敵人無法恢復的詛咒效果來對抗擁有此詞條的敵人是最佳對策。$(br2)具有詛咒詞條的小怪凋落物可以製造具有詛咒效果的武器。"
+        }
+    ]
+}

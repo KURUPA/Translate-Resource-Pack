@@ -1,0 +1,16 @@
+﻿{
+    "name": "諸神黃昏",
+    "icon": "l2hostility:ragnarok",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:ragnarok",
+            "text": "持有者個詞條的怪物在擊中玩家時可以封印玩家身上的裝備武器和飾品。解鎖它們需要拿在手上啃幾秒。$(br2)只在非常高等級的怪物身上出現，前期別擔心。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "對付持有這個詞條的怪物沒有什麼特別好的方法，只能盡量遠程無傷擊殺。"
+        }
+    ]
+}

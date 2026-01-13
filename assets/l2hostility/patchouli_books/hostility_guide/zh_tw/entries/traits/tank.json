@@ -1,0 +1,16 @@
+﻿{
+    "name": "重裝",
+    "icon": "l2hostility:tank",
+    "category": "l2hostility:traits",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:tank",
+            "text": "擁有該詞條的怪物獲得額外的生命值與護甲。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "可以無視護甲的武器或者魔法傷害可以有效地對付這類怪物。"
+        }
+    ]
+}
