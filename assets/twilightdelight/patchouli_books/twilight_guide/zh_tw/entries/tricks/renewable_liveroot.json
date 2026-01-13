@@ -1,12 +1,12 @@
 ﻿{
-  "name": "獲得活根",
-  "icon": "twilightforest:liveroot",
-  "category": "twilightdelight:tricks",
-  "pages": [
-	{
-	  "type": "patchouli:spotlight",
-	  "item": "twilightforest:liveroot_block",
-	  "text": "與沃土和活根方塊相鄰的根方塊會緩慢變成活根方塊。"
-	}
-  ]
+    "name": "獲得活根",
+    "icon": "twilightforest:liveroot",
+    "category": "twilightdelight:tricks",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "twilightforest:liveroot_block",
+            "text": "與沃土和活根方塊相鄰的根方塊會緩慢變成活根方塊。"
+        }
+    ]
 }

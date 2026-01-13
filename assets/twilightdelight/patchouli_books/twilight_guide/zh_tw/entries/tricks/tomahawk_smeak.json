@@ -1,16 +1,16 @@
 ﻿{
-  "name": "獲取戰斧牛頭人肋排",
-  "icon": "twilightdelight:raw_tomahawk_smeak",
-  "category": "twilightdelight:tricks",
-  "pages": [
-	{
-	  "type": "patchouli:text",
-	  "text": "用鑽石米諾陶戰斧擊殺米諾陶和米諾菇有機率掉落戰斧牛頭人肋排。"
-	},
-	{
-	  "type": "patchouli:spotlight",
-	  "item": "twilightdelight:raw_tomahawk_smeak",
-	  "text": "戰斧牛頭人排能用來做牛頭人沙拉醬肉"
-	}
-  ]
+    "name": "獲取戰斧牛頭人肋排",
+    "icon": "twilightdelight:raw_tomahawk_smeak",
+    "category": "twilightdelight:tricks",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "用鑽石米諾陶戰斧擊殺米諾陶和米諾菇有機率掉落戰斧牛頭人肋排。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "twilightdelight:raw_tomahawk_smeak",
+            "text": "戰斧牛頭人排能用來做牛頭人沙拉醬肉"
+        }
+    ]
 }

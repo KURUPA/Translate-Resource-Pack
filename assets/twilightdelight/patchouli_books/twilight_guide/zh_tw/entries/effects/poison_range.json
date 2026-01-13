@@ -1,16 +1,16 @@
 ﻿{
-  "name": "範圍劇毒",
-  "icon": "twilightforest:steeleaf_ingot",
-  "category": "twilightdelight:effects",
-  "pages": [
-	{
-	  "type": "patchouli:text",
-	  "text": "這個效果會讓你免疫中毒效果，並且對你周圍的敵人施加中毒，且傷害速度遠高於普通的中毒。$(br2)效果範圍通過綠色粒子標註"
-	},
-	{
-	  "type": "patchouli:spotlight",
-	  "item": "twilightforest:steeleaf_ingot",
-	  "text": "透過使用剛葉製作的甜點和飲品獲得"
-	}
-  ]
+    "name": "範圍劇毒",
+    "icon": "twilightforest:steeleaf_ingot",
+    "category": "twilightdelight:effects",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "這個效果會讓你免疫中毒效果，並且對你周圍的敵人施加中毒，且傷害速度遠高於普通的中毒。$(br2)效果範圍通過綠色粒子標註"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "twilightforest:steeleaf_ingot",
+            "text": "透過使用剛葉製作的甜點和飲品獲得"
+        }
+    ]
 }

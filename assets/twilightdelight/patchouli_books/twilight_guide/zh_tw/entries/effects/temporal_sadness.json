@@ -1,16 +1,16 @@
 ﻿{
-  "name": "莫名的悲傷",
-  "icon": "twilightdelight:teardrop_sword",
-  "category": "twilightdelight:effects",
-  "pages": [
-	{
-	  "type": "patchouli:text",
-	  "text": "這個效果會降低10點攻擊傷害並減半移動速度。"
-	},
-	{
-	  "type": "patchouli:spotlight",
-	  "item": "twilightdelight:teardrop_sword",
-	  "text": "通過盈淚之劍對敵人施加效果"
-	}
-  ]
+    "name": "莫名的悲傷",
+    "icon": "twilightdelight:teardrop_sword",
+    "category": "twilightdelight:effects",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "這個效果會降低10點攻擊傷害並減半移動速度。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "twilightdelight:teardrop_sword",
+            "text": "通過盈淚之劍對敵人施加效果"
+        }
+    ]
 }

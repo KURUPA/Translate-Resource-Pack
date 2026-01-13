@@ -1,15 +1,15 @@
 ﻿{
-  "name": "熾鐵鍋",
-  "icon": "twilightdelight:fiery_cooking_pot",
-  "category": "twilightdelight:tricks",
-  "pages": [
-	{
-	  "type": "patchouli:text",
-	  "text": "無需熱源。烹飪暮色森林或者暮色風味樂事的配方時，對於需要10秒以上的配方，只需要10秒完成。在迷宮爐灶上時，那些配方只需要5秒。"
-	},
-	{
-	  "type": "patchouli:crafting",
-	  "recipe": "twilightdelight:fiery_cooking_pot"
-	}
-  ]
+    "name": "熾鐵鍋",
+    "icon": "twilightdelight:fiery_cooking_pot",
+    "category": "twilightdelight:tricks",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "無需熱源。烹飪暮色森林或者暮色風味樂事的配方時，對於需要10秒以上的配方，只需要10秒完成。在迷宮爐灶上時，那些配方只需要5秒。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "twilightdelight:fiery_cooking_pot"
+        }
+    ]
 }

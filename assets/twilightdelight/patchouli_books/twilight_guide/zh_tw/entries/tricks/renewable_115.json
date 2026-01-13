@@ -1,16 +1,16 @@
 ﻿{
-  "name": "獲得實驗物品115",
-  "icon": "twilightforest:experiment_115",
-  "category": "twilightdelight:tricks",
-  "pages": [
-	{
-	  "type": "patchouli:text",
-	  "text": "你可以從各種地獄幽靈身上用小刀砍下實驗物品115，但機率各不相同"
-	},
-	{
-	  "type": "patchouli:spotlight",
-	  "item": "twilightforest:experiment_115",
-	  "text": "精準採集的小刀能從實驗115方塊上切下一小片。"
-	}
-  ]
+    "name": "獲得實驗物品115",
+    "icon": "twilightforest:experiment_115",
+    "category": "twilightdelight:tricks",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "你可以從各種地獄幽靈身上用小刀砍下實驗物品115，但機率各不相同"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "twilightforest:experiment_115",
+            "text": "絲綢之觸的小刀能從實驗115方塊上切下一小片。"
+        }
+    ]
 }

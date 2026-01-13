@@ -1,16 +1,16 @@
 ﻿{
-  "name": "範圍霜凍",
-  "icon": "twilightforest:ice_bomb",
-  "category": "twilightdelight:effects",
-  "pages": [
-	{
-	  "type": "patchouli:text",
-	  "text": "這個效果會讓你免疫霜凍效果，並且對你周圍的敵人施加霜凍V。$(br2)效果範圍通過雪花粒子標註"
-	},
-	{
-	  "type": "patchouli:spotlight",
-	  "item": "twilightforest:ice_bomb",
-	  "text": "透過使用冰霜炸彈製作的甜點和飲品獲得$(br2)如果你有這個效果，你周圍地上的物品會緩慢被冰凍。查看冰川冰茶的JEI獲取詳細資訊"
-	}
-  ]
+    "name": "範圍霜凍",
+    "icon": "twilightforest:ice_bomb",
+    "category": "twilightdelight:effects",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "這個效果會讓你免疫霜凍效果，並且對你周圍的敵人施加霜凍V。$(br2)效果範圍通過雪花粒子標註"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "twilightforest:ice_bomb",
+            "text": "透過使用冰霜炸彈製作的甜點和飲品獲得$(br2)如果你有這個效果，你周圍地上的物品會緩慢被冰凍。查看冰川冰茶的JEI獲取詳細資訊"
+        }
+    ]
 }

@@ -1,16 +1,16 @@
 ﻿{
-  "name": "範圍火焰",
-  "icon": "twilightforest:torchberries",
-  "category": "twilightdelight:effects",
-  "pages": [
-	{
-	  "type": "patchouli:text",
-	  "text": "這個效果會防止你著火，並且點燃你周圍的所有敵對生物。注意這並不能抵消火焰傷害，所以別踩火裡。$(br2)效果範圍通過火焰粒子標註"
-	},
-	{
-	  "type": "patchouli:spotlight",
-	  "item": "twilightforest:torchberries",
-	  "text": "透過使用火炬漿果製作的甜點和飲品獲得"
-	}
-  ]
+    "name": "範圍火焰",
+    "icon": "twilightforest:torchberries",
+    "category": "twilightdelight:effects",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "這個效果會防止你著火，並且點燃你周圍的所有敵對生物。注意這並不能抵消火焰傷害，所以別踩火裡。$(br2)效果範圍通過火焰粒子標註"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "twilightforest:torchberries",
+            "text": "透過使用火炬漿果製作的甜點和飲品獲得"
+        }
+    ]
 }
