@@ -1,5 +1,5 @@
 ﻿{
-  "name": "物品",
-  "description": "萊特蘭背包的所有物品的功能和使用介紹",
-  "icon": "l2backpack:backpack_white"
+    "name": "物品",
+    "description": "萊特蘭背包的所有物品的功能和使用介紹",
+    "icon": "l2backpack:backpack_white"
 }

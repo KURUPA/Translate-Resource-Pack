@@ -1,0 +1,18 @@
+﻿{
+    "flag": "mod:l2backpack",
+    "name": "古遺物快捷切換",
+    "icon": "l2artifacts:swap",
+    "category": "l2artifacts:general",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "儲存9套古遺物。右鍵打開GUI，每列為1套。$(br2)手持快捷切換時會顯示袋內所有古遺物。按上下或者數字鍵選擇， 按R切換$(br2)切換時，已裝備的古遺物回到選中區域，選中區域中的古遺物裝備。."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "l2artifacts:swap",
+            "text": "右鍵不用的空格子來鎖定格子，這樣可以避免切換時把想保留的古遺物摘下來。"
+        }
+    ]
+}

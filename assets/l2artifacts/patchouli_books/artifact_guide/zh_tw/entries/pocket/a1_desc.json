@@ -1,0 +1,18 @@
+﻿{
+    "name": "古遺物多功能包",
+    "icon": "l2artifacts:filter",
+    "category": "l2artifacts:pocket",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2artifacts:filter",
+            "text": "多功能包，顧名思義還有多種功能:$(li)可以儲存大量的古遺物。$(li)可以通過不同的選項篩選古遺物，並在列表欄顯示滿足條件的古遺物。$(li)可以把不需要的古遺物分解為經驗值並儲存於多功能包內。$(li)可以升級和查看古遺物屬性值。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2artifacts:upgraded_pocket",
+            "text": "古遺物多功能包是儲存和升級古遺物的最好途徑，它將自動顯示未鑑定古遺物的古遺物種類，並顯示未打開的古遺物的數據，多功能包共可以儲存256件古遺物(可配置的)。$(br2)如果對其進行升級，儲存容量會提升到512，並額外添加三種功能。"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+﻿{
+    "name": "古遺物進階",
+    "icon": "l2artifacts:protection_head_5",
+    "category": "l2artifacts:general",
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "如果你在對抗強敵時困難重重，進階古遺物是一個不錯的選擇。$(br2)為此，您需要 2 件品階、套裝和部位都完全相同的古遺物以及大量古遺物經驗值。你就可以合成一個屬性隨機但品階更高的同系列古遺物。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "l2artifacts:protection_head_2",
+            "text": "與古遺物同理，你也可以按照相同的方式用低品階的古遺物經驗合成更高品階的古遺物經驗。"
+        }
+    ]
+}

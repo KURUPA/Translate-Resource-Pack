@@ -1,0 +1,17 @@
+﻿{
+    "name": "詞條容器",
+    "icon": "l2artifacts:stat_container_1",
+    "category": "l2artifacts:overdrive",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "主詞條無用的古遺物堆積如山，而想要升級的副詞條卻次次都歪。$(br2)不妨選擇詞條容器，它可以讓你指定下一次要升級的副屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2artifacts:stat_container_1",
+            "text": "詞條容器可以吸收同品階古遺物的主詞條，然後用於另一件相同品階的古遺物，指定下一次升級的副詞條。$(br2)由於該物品過於便利，所以只有在安裝 萊特蘭-擴充（L2Complements） 作為前置時才可以製作，此mod增加了很多難以獲得的材料。"
+        }
+    ]
+}

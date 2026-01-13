@@ -1,9 +1,9 @@
 ﻿{
-  "name": "任意快捷訪問",
-  "icon": "l2backpack:dimensional_storage_white",
-  "category": "l2backpack:mechanics",
-  "pages": [
-	"有這個功能的物品：$(li)$(l:items/2_dimensional_storages)空間背包$(/l)$(li)$(l:items/3_ender_backpack)終界背包$(/l)$(br2)手持物品右鍵打開，或者在任意容器UI中右鍵物品直接打開，不需要取出。$(br2)這個和$(l:mechanics/inv_access)物品欄快捷訪問$(/l)相似，但是沒有哪裡可以打開的限制",
-    "這些物品並不會把內容物儲存在物品NBT中，所以可以放入其他背包/界伏盒內，也可以儲存其他背包/界伏盒，不需要考慮NBT溢出。$(br2)你可以把其他有物品欄快捷訪問功能的背包放進終界背包，這樣可以在終界背包中直接打開背包，讓你能夠直接從終界背包裡面的背包裡存取物品。"
-  ]
+    "name": "任意快捷訪問",
+    "icon": "l2backpack:dimensional_storage_white",
+    "category": "l2backpack:mechanics",
+    "pages": [
+        "有這個功能的物品：$(li)$(l:items/2_dimensional_storages)空間背包$(/l)$(li)$(l:items/3_ender_backpack)終界背包$(/l)$(br2)手持物品右鍵打開，或者在任意容器UI中右鍵物品直接打開，不需要取出。$(br2)這個和$(l:mechanics/inv_access)物品欄快捷訪問$(/l)相似，但是沒有哪裡可以打開的限制",
+        "這些物品並不會把內容物儲存在物品NBT中，所以可以放入其他背包/界伏盒內，也可以儲存其他背包/界伏盒，不需要考慮NBT溢出。$(br2)你可以把其他有物品欄快捷訪問功能的背包放進終界背包，這樣可以在終界背包中直接打開背包，讓你能夠直接從終界背包裡面的背包裡存取物品。"
+    ]
 }

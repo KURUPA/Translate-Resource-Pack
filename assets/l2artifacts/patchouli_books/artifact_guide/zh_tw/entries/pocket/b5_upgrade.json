@@ -1,0 +1,16 @@
+﻿{
+    "name": "選項：升級",
+    "icon": "minecraft:anvil",
+    "category": "l2artifacts:pocket",
+    "sortnum": 105,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "在此頁面中，您可以使用古遺物經驗值進行升級。$(br2)將要升級的古遺物放在中央槽中，然後單擊箭頭按鈕升級。$(br2)此選項將顯示所需消耗的玩家等級和古遺物經驗值。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "它還將顯示當前的古遺物詞條數值和詞條類型。 升級古遺物時，獲得的主詞條值和副詞條值也會短暫顯示。"
+        }
+    ]
+}

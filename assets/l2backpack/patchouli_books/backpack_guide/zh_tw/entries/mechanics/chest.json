@@ -1,9 +1,9 @@
 ﻿{
-  "name": "箱子快速裝卸",
-  "icon": "l2backpack:drawer",
-  "category": "l2backpack:mechanics",
-  "pages": [
-    "有這個功能的物品：$(li)$(l:items/1_backpacks)背包$(/l)$(li)$(l:items/4_swaps)快捷切換袋$(/l)$(li)$(l:items/5_drawer)水晶匣子$(/l)$(li)$(l:items/7_storage_bags)儲物袋$(/l)",
-	"手持此物品潛行左鍵箱子或者其他容器方塊可以從容器中盡可能的抽取物品。$(br2)手持此物品潛行右鍵箱子或者其他容器方塊可以把物品盡可能地把放入容器中。$(br2)這個功能便於玩家在箱子間轉移物品。"
-  ]
+    "name": "箱子快速裝卸",
+    "icon": "l2backpack:drawer",
+    "category": "l2backpack:mechanics",
+    "pages": [
+        "有這個功能的物品：$(li)$(l:items/1_backpacks)背包$(/l)$(li)$(l:items/4_swaps)快捷切換袋$(/l)$(li)$(l:items/5_drawer)水晶匣子$(/l)$(li)$(l:items/7_storage_bags)儲物袋$(/l)",
+        "手持此物品潛行左鍵箱子或者其他容器方塊可以從容器中盡可能的抽取物品。$(br2)手持此物品潛行右鍵箱子或者其他容器方塊可以把物品盡可能地把放入容器中。$(br2)這個功能便於玩家在箱子間轉移物品。"
+    ]
 }

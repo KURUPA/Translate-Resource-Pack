@@ -1,0 +1,17 @@
+﻿{
+    "name": "獲取古遺物",
+    "icon": "l2artifacts:random_1",
+    "category": "l2artifacts:general",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "當高生命值的敵人被玩家殺死時會掉落未鑑定古遺物，掉落的古遺物品階和怪物的血量成正比。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2artifacts:random_1",
+            "text": "默認情況下，生命值在100及以上的敵人會掉落普通品階的未鑑定古遺物，生命值每增加100點，掉落的古遺物就會高出一個品階，生命值在500點以上的敵人會掉落最高品階古遺物，這些數值都是可以通過封包自行調整的。"
+        }
+    ]
+}

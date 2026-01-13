@@ -1,0 +1,16 @@
+﻿{
+    "name": "高級選項：溶解",
+    "icon": "l2artifacts:stat_container_5",
+    "category": "l2artifacts:pocket",
+    "sortnum": 201,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "這個選項可以讓你方便地填充詞條容器，作為鐵砧的替代品。$(br2)將空的詞條容器放入，然後選擇你想要用作詞條容器吸收的材料的古遺物，然後拿出。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "您可以使用詞條種類過濾來過濾出您想要的詞條種類，並確保該詞條種類在排序頁面中處於第一優先度，以該詞條作為主詞條的古遺物便會首先顯示在此選項中。"
+        }
+    ]
+}

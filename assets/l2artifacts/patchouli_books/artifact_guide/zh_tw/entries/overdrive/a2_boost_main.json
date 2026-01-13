@@ -1,0 +1,17 @@
+﻿{
+    "name": "主詞條充能水晶",
+    "icon": "l2artifacts:boost_main_1",
+    "category": "l2artifacts:overdrive",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "主詞條充能水晶可以用於同品階的古遺物，使用後下一次強化古遺物增加的主詞條屬值性必定為最高值。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2artifacts:boost_main_1",
+            "text": "這件物品過於便利，你只有安裝了萊特蘭-擴充（L2Complements）後才可以製作，其mod中添加了許多難以獲取的新材料。"
+        }
+    ]
+}

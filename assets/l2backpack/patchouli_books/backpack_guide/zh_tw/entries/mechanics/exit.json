@@ -1,8 +1,9 @@
 ﻿{
-  "name": "UI疊加",
-  "icon": "l2backpack:backpack_black",
-  "category": "l2backpack:mechanics",
-  "pages": [
-	"有這個功能的物品：$(li)$(l:mechanics/inv_access)物品欄快捷訪問物品$(/l)$(li)$(l:mechanics/any_access)任意快捷訪問物品$(/l)$(br2)退出容器UI時，如果容器是在上一個UI中打開的，會返回到上一個UI中。如果需要全部退出，按Shift+Esc。"
-  ]
+    "name": "UI疊加",
+    "icon": "l2backpack:backpack_black",
+    "category": "l2backpack:mechanics",
+    "pages": [
+        "有這個功能的物品：$(li)$(l:mechanics/inv_access)物品欄快捷訪問物品$(/l)$(li)$(l:mechanics/any_access)任意快捷訪問物品$(/l)$(br2)退出容器UI時，如果容器是在上一個UI中打開的，會返回到上一個UI中。如果需要全部退出，按Shift+Esc。",
+        "此功能適用於可在其他選單中開啟的物品，例如背包和次元儲存空間。當你開啟它們時，先前的選單將會被暫存，並在關閉新選單時恢復，就像返回按鈕的功能。因此，我們也提供了一次關閉所有選單的方式，例如關閉按鈕。"
+    ]
 }

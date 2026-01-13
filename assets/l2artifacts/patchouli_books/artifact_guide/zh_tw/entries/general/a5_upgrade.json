@@ -1,0 +1,16 @@
+﻿{
+    "name": "升級古遺物",
+    "icon": "l2artifacts:artifact_experience_1",
+    "category": "l2artifacts:general",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "古遺物可以升級，也可以轉化為古遺物經驗。每個古遺物的資訊提示中都有2個數值：達到下一等級所需的古遺物經驗值，以及轉化為經驗時所能提供的經驗值。$(br2)高等級古遺物在轉化為經驗時可提供升級消耗掉的大部分經驗值，所以不用擔心在遊戲早期升級不好的古遺物。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "在古遺物包中儲存古遺物，把古遺物轉化為經驗，儲存古遺物經驗，以及升級古遺物"
+        }
+    ]
+}

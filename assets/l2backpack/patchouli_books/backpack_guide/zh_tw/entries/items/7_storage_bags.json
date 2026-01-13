@@ -1,14 +1,14 @@
 ﻿{
-  "name": "儲物袋",
-  "icon": "l2backpack:armor_bag",
-  "category": "l2backpack:items",
-  "sortnum": 7,
-  "pages": [
-	"儲物袋讓你能大量儲存各不相同的不可堆疊物品。目前有2種：裝備袋儲存任何有耐久的物品，附魔書袋儲存附魔書。$(br2)一個儲物袋可以儲存至多64個物品，但是儲物袋沒有UI。物品欄中，用物品左鍵儲物袋以插入物品，右鍵儲物袋以提取物品。",
-	{
-	  "type": "patchouli:spotlight",
-	  "item": "tag:l2backpack:bags",
-	  "text": "物品功能：$(li)儲物袋收集：手持儲物袋右鍵收集物品欄中（除了工具欄以外）所有符合的物品$(li)儲物袋傾倒：潛行右鍵倒出袋中所有物品。一次最多倒出16個$(li)雙擊整合可儲存的物品$(li)$(l:mechanics/chest)箱子快速裝卸$(/l)$(li)$(l:mechanics/quick_insert)物品便捷插入$(/l)$(li)$(l:mechanics/drawer_quickmove)快速內容轉移$(/l)$(li)$(l:mechanics/pickup)物品自動歸類模式$(/l)"
-	}
-  ]
+    "name": "儲物袋",
+    "icon": "l2backpack:armor_bag",
+    "category": "l2backpack:items",
+    "sortnum": 7,
+    "pages": [
+        "儲物袋讓你能大量儲存各不相同的不可堆疊物品。目前有2種：裝備袋儲存任何有耐久的物品，附魔書袋儲存附魔書。$(br2)一個儲物袋可以儲存至多64個物品，但是儲物袋沒有UI。物品欄中，用物品左鍵儲物袋以插入物品，右鍵儲物袋以提取物品。",
+        {
+            "type": "patchouli:spotlight",
+            "item": "tag:l2backpack:bags",
+            "text": "物品功能：$(li)儲物袋收集：手持儲物袋右鍵收集物品欄中（除了工具欄以外）所有符合的物品$(li)儲物袋傾倒：潛行右鍵倒出袋中所有物品。一次最多倒出16個$(li)雙擊整合可儲存的物品$(li)$(l:mechanics/chest)箱子快速裝卸$(/l)$(li)$(l:mechanics/quick_insert)物品便捷插入$(/l)$(li)$(l:mechanics/drawer_quickmove)快速內容轉移$(/l)$(li)$(l:mechanics/pickup)物品自動歸類模式$(/l)"
+        }
+    ]
 }

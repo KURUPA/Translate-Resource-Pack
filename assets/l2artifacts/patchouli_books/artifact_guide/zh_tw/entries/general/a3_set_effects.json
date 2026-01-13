@@ -1,0 +1,16 @@
+﻿{
+    "name": "套裝效果的搭配",
+    "icon": "l2artifacts:froze_head_1",
+    "category": "l2artifacts:general",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "當裝備同一系列中的多個古遺物時，可以獲得額外的特殊增益。$(br2)你可以自行組合古遺物套裝。啟用的效果將顯示在效果提示頁面和庫存標籤頁中的設置效果頁面。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "套裝增益的品階取決於觸發該效果古遺物的最低品階。$(br2)按住 shift可以查看對應品階古遺物的套裝效果。$(br2)綠色提示代表該效果已成功觸發，灰色則反之。觸發較低品階的效果時提示也是灰色的。"
+        }
+    ]
+}
