@@ -1,0 +1,12 @@
+﻿{
+    "name": "騎乘升級",
+    "icon": "modulargolems:mount_upgrade",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:mount_upgrade",
+            "text": "只對犬型傀儡有效。讓傀儡不能攻擊，也不能被攻擊。免疫來自不以自己為攻擊對象的怪物的傷害。大幅提升血量，移動速度，跳躍高度。"
+        }
+    ]
+}

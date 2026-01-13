@@ -1,0 +1,12 @@
+﻿{
+    "name": "鍾升級",
+    "icon": "modulargolems:bell",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:bell",
+            "text": "傀儡切換攻擊目標時會敲鐘，吸引48格內周圍所有敵人的仇恨，並且施加螢光效果。"
+        }
+    ]
+}

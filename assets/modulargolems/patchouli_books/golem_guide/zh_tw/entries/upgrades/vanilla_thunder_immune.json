@@ -1,0 +1,12 @@
+﻿{
+    "name": "導電升級",
+    "icon": "modulargolems:thunder_immune",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:thunder_immune",
+            "text": "令傀儡免疫雷電傷害。被雷擊中時獲得火焰免疫，並回復部分血量。"
+        }
+    ]
+}

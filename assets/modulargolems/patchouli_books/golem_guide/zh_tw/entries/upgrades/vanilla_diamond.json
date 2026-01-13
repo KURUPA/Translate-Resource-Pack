@@ -1,0 +1,12 @@
+﻿{
+    "name": "鑽石升級",
+    "icon": "modulargolems:diamond",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:diamond",
+            "text": "為傀儡提供護甲值，提升其生存能力。最大等級：2"
+        }
+    ]
+}

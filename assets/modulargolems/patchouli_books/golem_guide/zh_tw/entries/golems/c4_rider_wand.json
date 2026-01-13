@@ -1,0 +1,16 @@
+﻿{
+    "name": "騎乘手杖",
+    "icon": "modulargolems:rider_wand",
+    "category": "modulargolems:golems",
+    "sortnum": 23,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "右鍵騎上犬型傀儡。如果傀儡在水中，蹲下會使傀儡加速下沉。這個時候，你不能透過蹲下來脫離，需要用騎乘手杖右鍵來脫離。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "modulargolems:rider_wand"
+        }
+    ]
+}

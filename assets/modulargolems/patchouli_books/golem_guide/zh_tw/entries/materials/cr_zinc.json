@@ -1,0 +1,29 @@
+﻿{
+    "flag": "mod:create",
+    "name": "鋅",
+    "icon": "create:zinc_ingot",
+    "category": "modulargolems:materials",
+    "sortnum": 301,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "create:zinc_ingot",
+            "text": "製作鋅質傀儡部件的主要材料。數值很低，但是可以降低受到的傷害。適合用於對付傷害較低的怪物。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"create:zinc\"},{part:\"modulargolems:metal_golem_body\",material:\"create:zinc\"},{part:\"modulargolems:metal_golem_arm\",material:\"create:zinc\"},{part:\"modulargolems:metal_golem_legs\",material:\"create:zinc\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"create:zinc\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"create:zinc\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"create:zinc\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"create:zinc\"},{part:\"modulargolems:dog_golem_legs\",material:\"create:zinc\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

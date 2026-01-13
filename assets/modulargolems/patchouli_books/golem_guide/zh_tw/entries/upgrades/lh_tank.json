@@ -1,0 +1,14 @@
+﻿{
+    "flag": "mod:l2hostility",
+    "advancement": "l2hostility:hostility/ingot",
+    "name": "惡意升級：重裝",
+    "icon": "modulargolems:hostility_tank",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:hostility_tank",
+            "text": "等價於萊特蘭惡意的重裝詞條。最高5級"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+﻿{
+    "name": "編隊手杖",
+    "icon": "modulargolems:squad_wand",
+    "category": "modulargolems:golems",
+    "sortnum": 24,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "右鍵有配置卡的傀儡將其設為隊長。一個配置卡只能有一個隊長。$(br2)不是隊長的傀儡被設為編隊模式時，會跟隨那個傀儡的配置卡的隊長。隊長本身不應該被設為編隊模式，因為隊長本身需要帶領隊員。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "modulargolems:squad_wand"
+        }
+    ]
+}

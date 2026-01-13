@@ -1,0 +1,14 @@
+﻿{
+    "flag": "mod:twilightforest",
+    "advancement": "twilightforest:root",
+    "name": "砷鉛鐵升級",
+    "icon": "modulargolems:carminite",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:carminite",
+            "text": "與砷鉛鐵方塊類似，傀儡將會在受到傷害後隱身且無敵一段時間。最大等級：5"
+        }
+    ]
+}

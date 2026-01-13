@@ -1,0 +1,14 @@
+﻿{
+    "flag": "mod:l2hostility",
+    "advancement": "l2hostility:hostility/ingot",
+    "name": "惡意核心升級",
+    "icon": "modulargolems:hostility_core",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:hostility_core",
+            "text": "其他惡意升級不消耗升級槽。這個升級能大幅拔高傀儡的上限"
+        }
+    ]
+}

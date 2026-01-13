@@ -1,0 +1,17 @@
+﻿{
+    "name": "召喚手杖",
+    "icon": "modulargolems:summon_wand",
+    "category": "modulargolems:golems",
+    "sortnum": 22,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "右鍵從副手或者背包召喚一個傀儡到目標方塊。$(br2)蹲下右鍵從背包盡可能地召喚傀儡到身旁。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "modulargolems:summon_wand",
+            "text": "批次召喚傀儡的道具。"
+        }
+    ]
+}

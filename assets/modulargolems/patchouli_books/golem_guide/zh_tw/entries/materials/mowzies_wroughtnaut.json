@@ -1,0 +1,30 @@
+﻿{
+    "flag": "mod:mowziesmobs",
+    "advancement": "mowziesmobs:kill_ferrous_wroughtnaut",
+    "name": "千鍛鋼",
+    "icon": "modulargolems:wroughtnaut_ingot",
+    "category": "modulargolems:materials",
+    "sortnum": 1101,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:wroughtnaut_ingot",
+            "text": "製造千鍛鋼傀儡的主要材料。千鍛鋼傀儡有極高的魔法抗性，攻擊有機率穿透護甲，並且能製造衝擊波。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"mowziesmobs:wroughtnaut\"},{part:\"modulargolems:metal_golem_body\",material:\"mowziesmobs:wroughtnaut\"},{part:\"modulargolems:metal_golem_arm\",material:\"mowziesmobs:wroughtnaut\"},{part:\"modulargolems:metal_golem_legs\",material:\"mowziesmobs:wroughtnaut\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"mowziesmobs:wroughtnaut\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"mowziesmobs:wroughtnaut\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"mowziesmobs:wroughtnaut\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"mowziesmobs:wroughtnaut\"},{part:\"modulargolems:dog_golem_legs\",material:\"mowziesmobs:wroughtnaut\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

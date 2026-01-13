@@ -1,0 +1,14 @@
+﻿{
+    "flag": "mod:cataclysm",
+    "advancement": "cataclysm:kill_scylla",
+    "name": "斯庫拉升級",
+    "icon": "modulargolems:scylla_lightning_upgrade",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:scylla_lightning_upgrade",
+            "text": "對[等級x3]個目標放出鳴雷槊。最高等級: 3"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "flag": "mod:l2complements",
+    "name": "藥水升級：魂火",
+    "icon": "modulargolems:soul_flame",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:soul_flame",
+            "text": "傀儡攻擊敵人或者被敵人攻擊會施加魂火效果且自身免疫魂火傷害。最大等級: 3"
+        }
+    ]
+}

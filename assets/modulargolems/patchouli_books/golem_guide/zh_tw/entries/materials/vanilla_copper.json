@@ -1,0 +1,28 @@
+﻿{
+    "name": "銅",
+    "icon": "minecraft:copper_ingot",
+    "category": "modulargolems:materials",
+    "sortnum": 101,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:copper_ingot",
+            "text": "製作銅質傀儡部件的主要材料，銅質傀儡部件造價低廉，擁有不錯的屬性且免疫雷電傷害，也能作為移動的避雷針。$(br2)你可以大量地製作銅傀儡作為防禦設施，使用銅質軀幹的傀儡修復成本極低。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"modulargolems:copper\"},{part:\"modulargolems:metal_golem_body\",material:\"modulargolems:copper\"},{part:\"modulargolems:metal_golem_arm\",material:\"modulargolems:copper\"},{part:\"modulargolems:metal_golem_legs\",material:\"modulargolems:copper\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"modulargolems:copper\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"modulargolems:copper\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"modulargolems:copper\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"modulargolems:copper\"},{part:\"modulargolems:dog_golem_legs\",material:\"modulargolems:copper\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

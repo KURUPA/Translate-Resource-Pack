@@ -1,0 +1,12 @@
+﻿{
+    "name": "綠寶石升級",
+    "icon": "modulargolems:emerald",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:emerald",
+            "text": "大幅提升傀儡對掠奪者的傷害。最高等級：2"
+        }
+    ]
+}

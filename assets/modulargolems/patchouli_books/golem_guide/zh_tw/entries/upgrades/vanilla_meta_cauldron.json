@@ -1,0 +1,12 @@
+﻿{
+    "name": "輔助升級：煉藥鍋",
+    "icon": "modulargolems:cauldron",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:cauldron",
+            "text": "重複的藥水升級不消耗升級槽。一種藥水升級不論等級只消耗一個槽。"
+        }
+    ]
+}

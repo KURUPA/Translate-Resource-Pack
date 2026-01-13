@@ -1,0 +1,14 @@
+﻿{
+    "flag": "mod:cataclysm",
+    "advancement": "cataclysm:kill_leviathan",
+    "name": "利維坦升級",
+    "icon": "modulargolems:leviathan_blast_portal",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:leviathan_blast_portal",
+            "text": "在[等級x3]個目標位置放出深淵衝擊波。最高等級: 3"
+        }
+    ]
+}

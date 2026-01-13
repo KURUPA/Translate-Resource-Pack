@@ -1,0 +1,12 @@
+﻿{
+    "name": "藥水升級：虛弱",
+    "icon": "modulargolems:weak",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:weak",
+            "text": "對攻擊傀儡和被傀儡攻擊的敵人施加3秒的虛弱效果。效果等級和升級等級相同。最高等級：3"
+        }
+    ]
+}

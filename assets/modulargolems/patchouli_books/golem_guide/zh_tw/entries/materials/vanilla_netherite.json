@@ -1,0 +1,28 @@
+﻿{
+    "name": "獄髓",
+    "icon": "minecraft:netherite_ingot",
+    "category": "modulargolems:materials",
+    "sortnum": 104,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:netherite_ingot",
+            "text": "製作獄髓傀儡部件的主要材料，獄髓傀儡部件擁有高生命值，火焰免疫和高傷害，攻擊敵人甚至可以造成範圍傷害。但厚重的獄髓會使傀儡的移動速度減慢。$(br2)推薦用於手臂，當然雙腿和軀幹同樣適用。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"modulargolems:netherite\"},{part:\"modulargolems:metal_golem_body\",material:\"modulargolems:netherite\"},{part:\"modulargolems:metal_golem_arm\",material:\"modulargolems:netherite\"},{part:\"modulargolems:metal_golem_legs\",material:\"modulargolems:netherite\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"modulargolems:netherite\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"modulargolems:netherite\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"modulargolems:netherite\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"modulargolems:netherite\"},{part:\"modulargolems:dog_golem_legs\",material:\"modulargolems:netherite\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

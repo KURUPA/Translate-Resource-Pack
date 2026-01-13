@@ -1,0 +1,30 @@
+﻿{
+    "flag": "mod:alexscaves",
+    "advancement": "alexscaves:alexscaves/discover_magnetic_caves",
+    "name": "磁力",
+    "icon": "modulargolems:magnetic_construct",
+    "category": "modulargolems:materials",
+    "sortnum": 1302,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:magnetic_construct",
+            "text": "製造磁力傀儡的主要材料。近戰模式吸引敵人，遠程模式排斥敵人。消耗鐵錠保護自己"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"alexscaves:magnetic\"},{part:\"modulargolems:metal_golem_body\",material:\"alexscaves:magnetic\"},{part:\"modulargolems:metal_golem_arm\",material:\"alexscaves:magnetic\"},{part:\"modulargolems:metal_golem_legs\",material:\"alexscaves:magnetic\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"alexscaves:magnetic\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"alexscaves:magnetic\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"alexscaves:magnetic\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"alexscaves:magnetic\"},{part:\"modulargolems:dog_golem_legs\",material:\"alexscaves:magnetic\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

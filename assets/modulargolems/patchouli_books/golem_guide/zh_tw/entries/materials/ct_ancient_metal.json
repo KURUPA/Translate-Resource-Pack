@@ -1,0 +1,30 @@
+﻿{
+    "flag": "mod:cataclysm",
+    "advancement": "cataclysm:find_cursed_pyramid",
+    "name": "遠古金屬",
+    "icon": "cataclysm:ancient_metal_ingot",
+    "category": "modulargolems:materials",
+    "sortnum": 706,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "cataclysm:ancient_metal_ingot",
+            "text": "製造遠古金屬傀儡的主要材料。能召喚沙暴進行攻擊。$(br2)熔鍛：傀儡低血量時消耗最大血量上限來回復血量，最多8/5/5次。可以用修復材料填補"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"cataclysm:ancient_metal\"},{part:\"modulargolems:metal_golem_body\",material:\"cataclysm:ancient_metal\"},{part:\"modulargolems:metal_golem_arm\",material:\"cataclysm:ancient_metal\"},{part:\"modulargolems:metal_golem_legs\",material:\"cataclysm:ancient_metal\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"cataclysm:ancient_metal\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"cataclysm:ancient_metal\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"cataclysm:ancient_metal\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"cataclysm:ancient_metal\"},{part:\"modulargolems:dog_golem_legs\",material:\"cataclysm:ancient_metal\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

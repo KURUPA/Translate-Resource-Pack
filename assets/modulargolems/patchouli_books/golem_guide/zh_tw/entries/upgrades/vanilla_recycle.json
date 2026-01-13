@@ -1,0 +1,12 @@
+﻿{
+    "name": "回收升級",
+    "icon": "modulargolems:recycle",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:recycle",
+            "text": "死亡時，傀儡會掉落生命值為0的待修復傀儡。如果玩家存在，傀儡會直接回到玩家背包。"
+        }
+    ]
+}

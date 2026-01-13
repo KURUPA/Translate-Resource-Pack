@@ -1,0 +1,9 @@
+﻿{
+    "name": "傀儡皮膚",
+    "icon": "modulargolems:golem_facade",
+    "category": "modulargolems:golems",
+    "sortnum": 32,
+    "pages": [
+        "你可以使用傀儡皮膚讓傀儡看起來是用另一種材料做的。$(br2)在鐵砧中用空白升級和目標傀儡材料合成傀儡皮膚，然後放入“傀儡皮膚”飾品欄中"
+    ]
+}

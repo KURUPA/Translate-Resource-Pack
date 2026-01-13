@@ -1,0 +1,13 @@
+﻿{
+    "flag": "mod:l2complements",
+    "name": "藥水升級：淨化",
+    "icon": "modulargolems:cleanse",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:cleanse",
+            "text": "傀儡獲得永久的淨化效果。獲得淨化效果後傀儡將對所有其他藥水效果免疫。最高等級：1"
+        }
+    ]
+}

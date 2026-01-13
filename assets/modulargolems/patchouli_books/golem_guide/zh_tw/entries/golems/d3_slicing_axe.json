@@ -1,0 +1,14 @@
+﻿{
+    "name": "斬鐵巨斧",
+    "icon": "modulargolems:golem_slicing_axe",
+    "category": "modulargolems:golems",
+    "sortnum": 33,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:golem_slicing_axe",
+            "text": "當大型傀儡持此斧擊殺其他玩家的沒有回收升級的傀儡時，掉落所有部件，且每個升級有一定機率掉落。$(br2)編輯配置卡中的目標選擇器以讓傀儡能攻擊其他傀儡。注意你自己的傀儡不能攻擊你自己的傀儡"
+        },
+        "當大型傀儡持此斧擊殺部分生物時，掉落一個對應材料的大型傀儡部件：$(li)原版：鐵傀儡，監守者$(li)災變：獄髓巨獸，焰魔，先驅者，咒翼靈骸，斯庫拉，遠古遺骸$(li)Mowzie生物：鋼鐵守護者$(li)傳奇生物：荒古守衛者，浮雲傀儡"
+    ]
+}

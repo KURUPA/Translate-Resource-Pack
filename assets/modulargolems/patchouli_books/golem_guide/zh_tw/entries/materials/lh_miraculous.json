@@ -1,0 +1,30 @@
+﻿{
+    "flag": "mod:l2hostility",
+    "advancement": "l2hostility:miracle",
+    "name": "奇蹟",
+    "icon": "l2hostility:hostility/miracle",
+    "category": "modulargolems:materials",
+    "sortnum": 1102,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2hostility:miracle_ingot",
+            "text": "製造奇蹟傀儡的主要材料。奇蹟傀儡獲得了適應和破魔詞條的力量，使其更容易對付高等級的惡意敵人。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"l2hostility:miraculous\"},{part:\"modulargolems:metal_golem_body\",material:\"l2hostility:miraculous\"},{part:\"modulargolems:metal_golem_arm\",material:\"l2hostility:miraculous\"},{part:\"modulargolems:metal_golem_legs\",material:\"l2hostility:miraculous\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"l2hostility:miraculous\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"l2hostility:miraculous\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"l2hostility:miraculous\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"l2hostility:miraculous\"},{part:\"modulargolems:dog_golem_legs\",material:\"l2hostility:miraculous\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

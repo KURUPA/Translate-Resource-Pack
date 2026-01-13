@@ -1,0 +1,14 @@
+﻿{
+    "flag": "mod:twilightforest",
+    "advancement": "twilightforest:root",
+    "name": "娜迦升級",
+    "icon": "modulargolems:naga",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:naga",
+            "text": "娜迦的力量為傀儡帶來了各項屬性的提升。最大等級：2"
+        }
+    ]
+}

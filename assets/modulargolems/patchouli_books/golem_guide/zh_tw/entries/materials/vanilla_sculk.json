@@ -1,0 +1,28 @@
+﻿{
+    "name": "幽匿",
+    "icon": "minecraft:echo_shard",
+    "category": "modulargolems:materials",
+    "sortnum": 105,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:echo_shard",
+            "text": "製作幽匿傀儡部件的主要材料，幽匿傀儡部件擁有極高生命值，火焰免疫，火焰附加和高傷害。一分錢一分貨，說的就是這個道理。$(br2)推薦用於腿部以獲取極高移動速度和生命值。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"modulargolems:sculk\"},{part:\"modulargolems:metal_golem_body\",material:\"modulargolems:sculk\"},{part:\"modulargolems:metal_golem_arm\",material:\"modulargolems:sculk\"},{part:\"modulargolems:metal_golem_legs\",material:\"modulargolems:sculk\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"modulargolems:sculk\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"modulargolems:sculk\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"modulargolems:sculk\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"modulargolems:sculk\"},{part:\"modulargolems:dog_golem_legs\",material:\"modulargolems:sculk\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

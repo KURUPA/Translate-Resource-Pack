@@ -1,0 +1,14 @@
+﻿{
+    "flag": "mod:twilightforest",
+    "advancement": "twilightforest:root",
+    "name": "騎士升級",
+    "icon": "modulargolems:knightmetal",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:knightmetal",
+            "text": "攻擊傀儡的敵人會受到荊棘傷害。最大等級：5"
+        }
+    ]
+}

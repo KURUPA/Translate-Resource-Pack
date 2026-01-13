@@ -1,0 +1,30 @@
+﻿{
+    "flag": "mod:cataclysm",
+    "advancement": "cataclysm:kill_scylla",
+    "name": "風暴",
+    "icon": "modulargolems:storm_construct",
+    "category": "modulargolems:materials",
+    "sortnum": 704,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:storm_construct",
+            "text": "製作終界守衛傀儡部件的主要材料。發射鳴雷槊同時攻擊多個目標，受到傷害時召喚海浪推開敵人"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"cataclysm:storm\"},{part:\"modulargolems:metal_golem_body\",material:\"cataclysm:storm\"},{part:\"modulargolems:metal_golem_arm\",material:\"cataclysm:storm\"},{part:\"modulargolems:metal_golem_legs\",material:\"cataclysm:storm\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"cataclysm:storm\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"cataclysm:storm\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"cataclysm:storm\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"cataclysm:storm\"},{part:\"modulargolems:dog_golem_legs\",material:\"cataclysm:storm\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

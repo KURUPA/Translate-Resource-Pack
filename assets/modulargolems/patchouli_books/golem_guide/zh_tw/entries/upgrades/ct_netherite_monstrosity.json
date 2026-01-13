@@ -1,0 +1,14 @@
+﻿{
+    "flag": "mod:cataclysm",
+    "advancement": "cataclysm:kill_monstrosity",
+    "name": "獄髓巨獸升級",
+    "icon": "modulargolems:netherite_monstrosity_earthquake",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:netherite_monstrosity_earthquake",
+            "text": "傀儡會起跳砸地造成範圍傷害。最高等級: 1"
+        }
+    ]
+}

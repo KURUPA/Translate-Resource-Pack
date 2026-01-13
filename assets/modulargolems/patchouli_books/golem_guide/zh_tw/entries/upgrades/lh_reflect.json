@@ -1,0 +1,14 @@
+﻿{
+    "flag": "mod:l2hostility",
+    "advancement": "l2hostility:hostility/ingot",
+    "name": "惡意升級：反射",
+    "icon": "modulargolems:hostility_reflect",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:hostility_reflect",
+            "text": "等價於萊特蘭惡意的反射詞條。最高5級"
+        }
+    ]
+}

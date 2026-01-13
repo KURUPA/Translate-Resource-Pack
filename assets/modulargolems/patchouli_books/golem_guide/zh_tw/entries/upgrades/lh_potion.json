@@ -1,0 +1,14 @@
+﻿{
+    "flag": "mod:l2hostility",
+    "advancement": "l2hostility:hostility/ingot",
+    "name": "惡意升級：藥水",
+    "icon": "modulargolems:hostility_potion",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:hostility_potion",
+            "text": "每個第一級的藥水升級不消耗升級槽。和煉藥鍋升級一起使用時，所有藥水升級都不消耗升級槽。"
+        }
+    ]
+}

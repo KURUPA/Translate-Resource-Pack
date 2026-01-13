@@ -1,0 +1,29 @@
+﻿{
+    "flag": "mod:l2complements",
+    "name": "界伏",
+    "icon": "l2complements:shulkerate_ingot",
+    "category": "modulargolems:materials",
+    "sortnum": 403,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2complements:shulkerate_ingot",
+            "text": "製造界伏傀儡部件的主要材料。界伏傀儡部件能提供極其恐怖的血量，同時還會限制受到的傷害，進一步強化生存能力。和生命回復材料或鍍膜升級相性極佳。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"l2complements:shulkerate\"},{part:\"modulargolems:metal_golem_body\",material:\"l2complements:shulkerate\"},{part:\"modulargolems:metal_golem_arm\",material:\"l2complements:shulkerate\"},{part:\"modulargolems:metal_golem_legs\",material:\"l2complements:shulkerate\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"l2complements:shulkerate\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"l2complements:shulkerate\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"l2complements:shulkerate\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"l2complements:shulkerate\"},{part:\"modulargolems:dog_golem_legs\",material:\"l2complements:shulkerate\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

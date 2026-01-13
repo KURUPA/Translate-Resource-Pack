@@ -1,0 +1,14 @@
+﻿{
+    "flag": "mod:twilightforest",
+    "advancement": "twilightforest:root",
+    "name": "鐵木升級",
+    "icon": "modulargolems:ironwood",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:ironwood",
+            "text": "在暮色森林中獲得額外的回覆效果。最大等級：5"
+        }
+    ]
+}

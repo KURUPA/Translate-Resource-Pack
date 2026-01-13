@@ -1,0 +1,30 @@
+﻿{
+    "flag": "mod:cataclysm",
+    "advancement": "cataclysm:kill_maledictus",
+    "name": "咒魂",
+    "icon": "cataclysm:cursium_ingot",
+    "category": "modulargolems:materials",
+    "sortnum": 703,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "cataclysm:cursium_ingot",
+            "text": "製作咒魂傀儡部件的主要材料。身體部件讓傀儡能使用下墜攻擊召喚戰戟。手臂部件讓傀儡能穿透護甲並通過連續攻擊提升傷害"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"cataclysm:cursium\"},{part:\"modulargolems:metal_golem_body\",material:\"cataclysm:cursium\"},{part:\"modulargolems:metal_golem_arm\",material:\"cataclysm:cursium\"},{part:\"modulargolems:metal_golem_legs\",material:\"cataclysm:cursium\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"cataclysm:cursium\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"cataclysm:cursium\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"cataclysm:cursium\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"cataclysm:cursium\"},{part:\"modulargolems:dog_golem_legs\",material:\"cataclysm:cursium\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

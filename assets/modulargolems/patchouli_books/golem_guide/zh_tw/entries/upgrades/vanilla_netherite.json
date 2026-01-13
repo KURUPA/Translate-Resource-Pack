@@ -1,0 +1,12 @@
+﻿{
+    "name": "獄髓升級",
+    "icon": "modulargolems:netherite",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:netherite",
+            "text": "為傀儡提供大量護甲值與護甲韌性。最大等級：2"
+        }
+    ]
+}

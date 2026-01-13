@@ -1,0 +1,16 @@
+﻿{
+    "name": "如何升級傀儡",
+    "icon": "modulargolems:recycle",
+    "category": "modulargolems:golems",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "在鐵砧中放入升級模組可對傀儡進行次數有限的升級，升級後的傀儡將獲得特殊增益，不同的增益都具有自己的等級上限。$(br2)用砂輪可以去除所有傀儡升級。通過爆炸破壞物品形態傀儡可以回收升級組件。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "如果你安裝了機械動力，可以透過機械手給傀儡自動添加升級，不需要消耗經驗"
+        }
+    ]
+}

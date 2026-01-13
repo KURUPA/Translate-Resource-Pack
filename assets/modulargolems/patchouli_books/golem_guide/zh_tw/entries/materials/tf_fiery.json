@@ -1,0 +1,30 @@
+﻿{
+    "flag": "mod:twilightforest",
+    "advancement": "twilightforest:root",
+    "name": "熾鐵",
+    "icon": "twilightforest:fiery_ingot",
+    "category": "modulargolems:materials",
+    "sortnum": 204,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "twilightforest:fiery_ingot",
+            "text": "製作熾鐵傀儡部件的主要材料，熾鐵傀儡部件擁有荊棘效果，火焰免疫，火焰附加與高屬性。推薦用熾鐵製作傀儡的手臂使其攻擊附帶火焰。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"twilightforest:fiery\"},{part:\"modulargolems:metal_golem_body\",material:\"twilightforest:fiery\"},{part:\"modulargolems:metal_golem_arm\",material:\"twilightforest:fiery\"},{part:\"modulargolems:metal_golem_legs\",material:\"twilightforest:fiery\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"twilightforest:fiery\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"twilightforest:fiery\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"twilightforest:fiery\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"twilightforest:fiery\"},{part:\"modulargolems:dog_golem_legs\",material:\"twilightforest:fiery\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

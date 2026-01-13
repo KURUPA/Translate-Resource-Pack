@@ -1,0 +1,30 @@
+﻿{
+    "flag": "mod:cataclysm",
+    "advancement": "cataclysm:kill_ender_golem",
+    "name": "終界守衛",
+    "icon": "modulargolems:void_construct",
+    "category": "modulargolems:materials",
+    "sortnum": 705,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:void_construct",
+            "text": "製作終界守衛傀儡部件的主要材料。召喚漩渦困住敵人並用虛空符文攻擊。能同時攻擊多個目標"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"cataclysm:ender_guardian\"},{part:\"modulargolems:metal_golem_body\",material:\"cataclysm:ender_guardian\"},{part:\"modulargolems:metal_golem_arm\",material:\"cataclysm:ender_guardian\"},{part:\"modulargolems:metal_golem_legs\",material:\"cataclysm:ender_guardian\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"cataclysm:ender_guardian\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"cataclysm:ender_guardian\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"cataclysm:ender_guardian\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"cataclysm:ender_guardian\"},{part:\"modulargolems:dog_golem_legs\",material:\"cataclysm:ender_guardian\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

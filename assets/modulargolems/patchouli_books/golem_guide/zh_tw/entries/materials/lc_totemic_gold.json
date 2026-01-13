@@ -1,0 +1,29 @@
+﻿{
+    "flag": "mod:l2complements",
+    "name": "生命",
+    "icon": "l2complements:totemic_gold_ingot",
+    "category": "modulargolems:materials",
+    "sortnum": 401,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "l2complements:totemic_gold_ingot",
+            "text": "製造生命傀儡部件的主要材料。生命傀儡身體部件會提供極其恐怖的生命回復速度。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"l2complements:totemic_gold\"},{part:\"modulargolems:metal_golem_body\",material:\"l2complements:totemic_gold\"},{part:\"modulargolems:metal_golem_arm\",material:\"l2complements:totemic_gold\"},{part:\"modulargolems:metal_golem_legs\",material:\"l2complements:totemic_gold\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"l2complements:totemic_gold\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"l2complements:totemic_gold\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"l2complements:totemic_gold\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"l2complements:totemic_gold\"},{part:\"modulargolems:dog_golem_legs\",material:\"l2complements:totemic_gold\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

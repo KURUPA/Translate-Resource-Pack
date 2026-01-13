@@ -1,0 +1,28 @@
+﻿{
+    "name": "金",
+    "icon": "minecraft:gold_ingot",
+    "category": "modulargolems:materials",
+    "sortnum": 103,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:gold_ingot",
+            "text": "製作黃金傀儡部件的主要材料，黃金傀儡部件擁有生命恢復能力，但都極為脆弱。$(br2)如果你想要傀儡擁有自癒能力，黃金軀幹或腿是個不錯的選擇,其他部位則需要選擇擁有較高生命值的傀儡部件。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"modulargolems:gold\"},{part:\"modulargolems:metal_golem_body\",material:\"modulargolems:gold\"},{part:\"modulargolems:metal_golem_arm\",material:\"modulargolems:gold\"},{part:\"modulargolems:metal_golem_legs\",material:\"modulargolems:gold\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"modulargolems:gold\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"modulargolems:gold\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"modulargolems:gold\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"modulargolems:gold\"},{part:\"modulargolems:dog_golem_legs\",material:\"modulargolems:gold\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

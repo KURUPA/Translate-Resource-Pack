@@ -1,0 +1,17 @@
+﻿{
+    "name": "犬型傀儡",
+    "icon": "modulargolems:dog_golem_holder",
+    "category": "modulargolems:golems",
+    "sortnum": 12,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "犬型傀儡類似狗，移動速度高，攻擊力高，但是血量偏低，而且不能範圍攻擊。$(br2)蹲下或者用物品右鍵犬型傀儡能讓它坐下。空手右鍵犬型傀儡能回收傀儡。$(br2)通過$(l:golems/c4_rider_wand)騎乘手杖$(/l)你可以騎上犬型傀儡，也可以用人形傀儡右鍵犬型傀儡讓人形騎上去。使用$(l:upgrades/vanilla_size)體型升級$(/l)可以增加最大騎乘人數。2級體型升級允許大傀儡騎乘"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "modulargolems:dog_golem_holder",
+            "text": "犬型傀儡很便宜，但是血量也不高。與其他傀儡不同，犬型傀儡的不同部件的製造成本不一樣，數值也不一樣。"
+        }
+    ]
+}

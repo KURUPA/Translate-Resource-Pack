@@ -1,0 +1,14 @@
+﻿{
+    "flag": "mod:mowziesmobs",
+    "advancement": "mowziesmobs:kill_ferrous_wroughtnaut",
+    "name": "千鍛震升級",
+    "icon": "modulargolems:wroughtnaut",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:wroughtnaut",
+            "text": "進行下落攻擊並產生衝擊波"
+        }
+    ]
+}

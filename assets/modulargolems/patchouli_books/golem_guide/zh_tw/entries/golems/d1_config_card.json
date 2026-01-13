@@ -1,0 +1,31 @@
+﻿{
+    "name": "配置卡",
+    "icon": "modulargolems:white_config_card",
+    "category": "modulargolems:golems",
+    "sortnum": 31,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:white_config_card",
+            "text": "右鍵傀儡設置配置卡，再次右鍵移除。副手持有時，手杖只對持有相同配置卡的傀儡生效。$(br2)重命名物品並右鍵可以把配置名字設為物品名字。相同所有者且相同顏色的配置卡本質上都是同一個配置卡。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "在配置界面中，放入傀儡可以讓傀儡綁定此配置。你可以選擇傀儡被召喚時的模式，也可以選擇傀儡將會被召喚到指向地點還是上次收回的地點。$(br2)注意如果收回的地點在64格以外則不會生效，且如果默認模式是跟隨，則還是會在指向地點召喚。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "你也可以鎖定傀儡交互，以避免不小心把傀儡撿起或者換掉裝備。這時副手拿卡片也沒用。如果卡片不小心弄丟了，可以做個同色的來解鎖傀儡。$(br2)你也可以配置拾取升級的物品過濾器，以避免傀儡拾取不想要的物品或者不小心銷毀重要物品。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:target_filter_type,modulargolems:target_filter_uuid,modulargolems:target_filter_name,modulargolems:target_filter_default",
+            "text": "你可以配置傀儡的主動攻擊目標和友好列表。友好列表內的生物不會被攻擊，主動攻擊目標內的生物會主動被攻擊，其他生物只有試圖攻擊傀儡和玩家的時候才會被攻擊。$(br2)初始配置中存在默認攻擊配置。你可以移除它們並放入你自己的配置，以允許傀儡攻擊其他傀儡和其他玩家"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:patrol_path_recorder",
+            "text": "你可以配置傀儡在固定移動路線模式下的移動路徑。手持巡邏手冊右鍵方塊記錄路徑。$(br2)路徑點之間的距離不能超過16，超過的路徑會標紅，且傀儡可能會直接傳送到終點。$(br2)固定移動路徑模式下的傀儡發現攻擊目標的時候會偏移路徑進行戰鬥。"
+        }
+    ]
+}

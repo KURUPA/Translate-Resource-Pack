@@ -1,0 +1,17 @@
+﻿{
+    "name": "金蘋果升級",
+    "icon": "modulargolems:gold",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:gold",
+            "text": "使傀儡自癒能力提升一級。最大等級：5"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:enchanted_gold",
+            "text": "使傀儡自癒能力提升兩級。最大等級：5"
+        }
+    ]
+}

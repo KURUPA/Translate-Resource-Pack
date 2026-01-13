@@ -1,0 +1,13 @@
+﻿{
+    "flag": "mod:l2complements",
+    "name": "藥水升級：寒流",
+    "icon": "modulargolems:freezing",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:freezing",
+            "text": "傀儡攻擊或者被攻擊時施加霜凍效果並且自身免疫霜凍。最大等級：3"
+        }
+    ]
+}

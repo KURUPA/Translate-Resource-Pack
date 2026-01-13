@@ -1,0 +1,14 @@
+﻿{
+    "flag": "mod:twilightforest",
+    "advancement": "twilightforest:root",
+    "name": "熾鐵升級",
+    "icon": "modulargolems:fiery",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:fiery",
+            "text": "對燃燒中的敵人造成更多傷害。最大等級：5"
+        }
+    ]
+}

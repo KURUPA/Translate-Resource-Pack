@@ -1,0 +1,30 @@
+﻿{
+    "flag": "mod:cataclysm",
+    "advancement": "cataclysm:kill_ignis",
+    "name": "騰炎",
+    "icon": "cataclysm:ignitium_ingot",
+    "category": "modulargolems:materials",
+    "sortnum": 701,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "cataclysm:ignitium_ingot",
+            "text": "製作騰炎傀儡部件的主要材料。身體部件允許傀儡發射焰魔火球。手部部件允許傀儡疊加熾熱烙印效果並吸血"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"cataclysm:ignitium\"},{part:\"modulargolems:metal_golem_body\",material:\"cataclysm:ignitium\"},{part:\"modulargolems:metal_golem_arm\",material:\"cataclysm:ignitium\"},{part:\"modulargolems:metal_golem_legs\",material:\"cataclysm:ignitium\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"cataclysm:ignitium\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"cataclysm:ignitium\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"cataclysm:ignitium\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"cataclysm:ignitium\"},{part:\"modulargolems:dog_golem_legs\",material:\"cataclysm:ignitium\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+﻿{
+    "flag": "mod:twilightforest",
+    "advancement": "twilightforest:root",
+    "name": "騎士金屬",
+    "icon": "twilightforest:knightmetal_ingot",
+    "category": "modulargolems:materials",
+    "sortnum": 203,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "twilightforest:knightmetal_ingot",
+            "text": "製作騎士傀儡主要部件的材料，騎士傀儡部件具有顯著的荊棘效果與高屬性，推薦用於腿部或軀幹"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"twilightforest:knightmetal\"},{part:\"modulargolems:metal_golem_body\",material:\"twilightforest:knightmetal\"},{part:\"modulargolems:metal_golem_arm\",material:\"twilightforest:knightmetal\"},{part:\"modulargolems:metal_golem_legs\",material:\"twilightforest:knightmetal\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"twilightforest:knightmetal\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"twilightforest:knightmetal\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"twilightforest:knightmetal\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"twilightforest:knightmetal\"},{part:\"modulargolems:dog_golem_legs\",material:\"twilightforest:knightmetal\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

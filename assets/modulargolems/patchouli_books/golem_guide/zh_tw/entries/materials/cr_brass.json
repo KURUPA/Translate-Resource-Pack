@@ -1,0 +1,29 @@
+﻿{
+    "flag": "mod:create",
+    "name": "黃銅",
+    "icon": "create:brass_ingot",
+    "category": "modulargolems:materials",
+    "sortnum": 303,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "create:brass_ingot",
+            "text": "製作黃銅傀儡部件的主要材料。可為傀儡提供更高的魔法抗性。消耗燃料可以提升速度和攻擊傷害。$(br2)可以自動從該傀儡或者同隊的傀儡隊長身上裝備的空間背包（來自萊特蘭背包）中消耗燃料。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"create:brass\"},{part:\"modulargolems:metal_golem_body\",material:\"create:brass\"},{part:\"modulargolems:metal_golem_arm\",material:\"create:brass\"},{part:\"modulargolems:metal_golem_legs\",material:\"create:brass\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"create:brass\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"create:brass\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"create:brass\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"create:brass\"},{part:\"modulargolems:dog_golem_legs\",material:\"create:brass\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

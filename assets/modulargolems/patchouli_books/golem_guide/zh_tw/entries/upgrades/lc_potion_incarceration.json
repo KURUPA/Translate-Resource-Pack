@@ -1,0 +1,13 @@
+﻿{
+    "flag": "mod:l2complements",
+    "name": "藥水升級：禁錮",
+    "icon": "modulargolems:incarcerate",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:incarcerate",
+            "text": "對攻擊傀儡和被傀儡攻擊的敵人施加每級3秒的禁錮效果。禁錮效果會阻止敵方移動。最高等級：3"
+        }
+    ]
+}

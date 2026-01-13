@@ -1,0 +1,13 @@
+﻿{
+    "flag": "mod:l2complements",
+    "name": "瞬移升級",
+    "icon": "modulargolems:teleport",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:teleport",
+            "text": "傀儡可以通過類似終界使者的傳送規避傷害並且接近那些遠距離的敵人。最大等級：1"
+        }
+    ]
+}

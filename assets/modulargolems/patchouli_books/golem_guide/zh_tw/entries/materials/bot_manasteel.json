@@ -1,0 +1,29 @@
+﻿{
+    "flag": "mod:botania",
+    "name": "魔鋼",
+    "icon": "botania:manasteel_ingot",
+    "category": "modulargolems:materials",
+    "sortnum": 601,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "botania:manasteel_ingot",
+            "text": "製作魔鋼傀儡部件的主要材料，魔鋼傀儡部件具有平衡的攻擊力和生命值，且在飾品欄中有魔力可用時提高傷害並以較快的速度修復自身。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:metal_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:metal_golem_arm\",material:\"botania:manasteel\"},{part:\"modulargolems:metal_golem_body\",material:\"botania:manasteel\"},{part:\"modulargolems:metal_golem_arm\",material:\"botania:manasteel\"},{part:\"modulargolems:metal_golem_legs\",material:\"botania:manasteel\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:humanoid_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:humanoid_golem_body\",material:\"botania:manasteel\"},{part:\"modulargolems:humanoid_golem_arms\",material:\"botania:manasteel\"},{part:\"modulargolems:humanoid_golem_legs\",material:\"botania:manasteel\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:dog_golem_holder[modulargolems:golem_materials={parts:[{part:\"modulargolems:dog_golem_body\",material:\"botania:manasteel\"},{part:\"modulargolems:dog_golem_legs\",material:\"botania:manasteel\"}]}]",
+            "text": "使用JEI物品管理器 (R鍵默認)來查看以此為原料的傀儡部件的詳細屬性。"
+        }
+    ]
+}

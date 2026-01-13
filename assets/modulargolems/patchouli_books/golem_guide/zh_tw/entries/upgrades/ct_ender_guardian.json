@@ -1,0 +1,14 @@
+﻿{
+    "flag": "mod:cataclysm",
+    "advancement": "cataclysm:kill_ender_guardian",
+    "name": "終界守衛升級",
+    "icon": "modulargolems:ender_guardian_void_rune",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:ender_guardian_void_rune",
+            "text": "對[等級x2]個目標放出漩渦和虛空符文。最高等級: 5"
+        }
+    ]
+}

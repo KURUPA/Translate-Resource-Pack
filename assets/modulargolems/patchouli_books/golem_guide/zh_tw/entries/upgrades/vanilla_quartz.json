@@ -1,0 +1,12 @@
+﻿{
+    "name": "石英升級",
+    "icon": "modulargolems:quartz",
+    "category": "modulargolems:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "modulargolems:quartz",
+            "text": "略微提升傀儡攻擊傷害。最大等級：5"
+        }
+    ]
+}
