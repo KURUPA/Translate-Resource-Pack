@@ -1,0 +1,24 @@
+﻿{
+    "name": "巨型藥劑",
+    "icon": "dynamictrees:dendro_potion[dynamictrees:potion_index=2]",
+    "category": "dynamictrees:potions",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "dynamictrees:brewing",
+            "title": "巨型藥劑",
+            "ingredient": "minecraft:brown_mushroom",
+            "bottle": "dynamictrees:dendro_potion",
+            "output": "dynamictrees:dendro_potion[dynamictrees:potion_index=2]",
+            "text": "這種藥劑使樹木生長到巨大尺寸。請注意，這僅適用於具有 $(l:trees/mega_trees)巨型變體$() 的樹木——預設為雲杉和叢林樹。$(br)這等同於以 2x2 的模式種植樹苗。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "dynamictrees:textures/patchouli/images/mega_spruce.png"
+            ],
+            "text": "一棵普通雲杉樹旁邊是一棵完全成熟的巨型雲杉樹。",
+            "border": true
+        }
+    ]
+}

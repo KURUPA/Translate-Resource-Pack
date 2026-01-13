@@ -1,0 +1,6 @@
+﻿{
+    "name": "機制",
+    "sortnum": 2,
+    "description": "這些條目記錄了動態樹木（Dynamic Trees）的功能與機制。",
+    "icon": "dynamictrees:dirt_bucket"
+}

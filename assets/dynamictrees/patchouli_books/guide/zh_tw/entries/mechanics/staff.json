@@ -1,0 +1,19 @@
+﻿{
+    "name": "林地法杖",
+    "read_by_default": "true",
+    "icon": "dynamictrees:staff",
+    "category": "dynamictrees:mechanics",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "dynamictrees:staff",
+            "title": "林地法杖",
+            "text": "林地法杖是一種創造性工具，允許你複製和貼上樹木的狀態。$(br2)可以透過使用 /dt createstaff 指令或從創造模式選單中取得。"
+        },
+        {
+            "type": "text",
+            "text": "您可以右鍵點擊樹木來設定／重設目標物種，或按住 Shift 鍵並右鍵點擊樹木來設定／重設樹木和 JoCode。$(br2)JoCode 是一種樹木形狀的壓縮描述，與物種無關。使用林地法杖也會將此代碼複製到您的剪貼簿。$(br2)雖然這是一種創造模式工具，但它的斧頭採集等級為 3，使其成為砍伐樹木的快速工具。"
+        }
+    ]
+}

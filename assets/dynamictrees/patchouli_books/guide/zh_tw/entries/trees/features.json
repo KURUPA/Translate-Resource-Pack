@@ -1,0 +1,29 @@
+﻿{
+    "name": "特性",
+    "icon": "minecraft:bone_meal",
+    "category": "dynamictrees:trees",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "text",
+            "title": "樹木",
+            "text": "- 樹木會隨著時間從樹種逐步生長為成熟樹木，並以自然的方式繞過障礙物生長。$(br2)- 樹木的生長速度和成熟大小取決於生態域、溫度和降雨量。$(br2)- 細小的樹枝可以像梯子一樣攀爬。"
+        },
+        {
+            "type": "text",
+            "text": "- 可以透過使用骨粉來加快它們的生長，骨粉也會補充 $(l:mechanics/rooty_soil)土壤的肥沃度$()。$(br2)- 樹木會隨機掉落種子，這些種子有可能自行種植。$(br2)- 樹木不會在黑暗中生長。沒有連接到外側樹枝或缺乏光線的樹葉會枯死。沒有樹葉的外側樹枝會慢慢腐爛。"
+        },
+        {
+            "type": "text",
+            "text": "- 走在樹葉方塊上會很慢，並且您會稍微下陷。掉落在樹葉上可防止摔落傷害，但會摧毀該樹葉方塊。$(br2)- 還有獨特的新水果物種，例如 $(l:trees/apple_tree)蘋果樹$()。$(br2)- 倒下的樹木如果擊中物體會造成大量傷害，請務必小心！"
+        },
+        {
+            "type": "image",
+            "images": [
+                "dynamictrees:textures/patchouli/images/falling_tree_1.png"
+            ],
+            "text": "倒下的樹木砸死了一隻豬",
+            "border": true
+        }
+    ]
+}

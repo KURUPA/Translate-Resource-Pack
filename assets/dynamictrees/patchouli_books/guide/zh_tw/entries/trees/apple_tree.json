@@ -1,0 +1,25 @@
+﻿{
+    "name": "蘋果樹",
+    "icon": "dynamictrees:apple_oak_seed",
+    "category": "dynamictrees:trees",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "text",
+            "title": "蘋果樹",
+            "text": "蘋果樹是一種果樹，也是橡樹的一種變種。它們預設生成在平原生物群系中。這些樹木會隨著時間推移並在成熟後，在樹葉上長出可供採摘的蘋果。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "dynamictrees:textures/patchouli/images/apple_oak_1.png"
+            ],
+            "text": "一棵成熟的蘋果樹",
+            "border": true
+        },
+        {
+            "type": "text",
+            "text": "如果安裝了 Serene Seasons 等季節模組，果實的生長將取決於季節，否則它會全年都在生長。$(br2)收穫後，若想獲得更多樹種以重新種植，只需使用 $(l:mechanics/dirt_bucket)土桶$()，即可將多餘的蘋果變成額外的樹種。"
+        }
+    ]
+}

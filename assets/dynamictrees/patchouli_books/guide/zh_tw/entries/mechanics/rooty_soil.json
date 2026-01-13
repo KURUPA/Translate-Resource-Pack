@@ -1,0 +1,22 @@
+﻿{
+    "name": "根系泥土",
+    "read_by_default": "true",
+    "icon": "minecraft:grass_block",
+    "category": "dynamictrees:mechanics",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "text",
+            "title": "根系泥土",
+            "text": "- 為樹木提供養分，並會隨時間消耗殆盡。$(br2)- 使用骨粉會增加土壤肥沃度，並允許樹木生長超過其成熟狀態。$(br2)- 比較器可用於感測土壤肥沃度等級。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "dynamictrees:textures/patchouli/images/rooty_soil.png"
+            ],
+            "text": "樺樹的根生草地",
+            "border": true
+        }
+    ]
+}

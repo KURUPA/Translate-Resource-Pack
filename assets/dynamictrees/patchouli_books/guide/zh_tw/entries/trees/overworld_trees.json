@@ -1,0 +1,36 @@
+﻿{
+    "name": "主世界樹木",
+    "icon": "dynamictrees:birch_seed",
+    "category": "dynamictrees:trees",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "text",
+            "title": "主世界樹木",
+            "text": "預設情況下，動態樹木（Dynamic Trees）可以在主世界的幾乎每個生態域中找到，遍布地表。$(br2)橡樹高大而堅固，而樺樹則高挑纖細。探索世界，尋找各種不同樹種及其獨特的形態。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "dynamictrees:textures/patchouli/images/oak_1.png",
+                "dynamictrees:textures/patchouli/images/spruce_1.png",
+                "dynamictrees:textures/patchouli/images/dark_oak_1.png",
+                "dynamictrees:textures/patchouli/images/acacia_1.png"
+            ],
+            "text": "樹木範例",
+            "border": true
+        },
+        {
+            "type": "text",
+            "text": "其中一些樹木可能是蜜蜂的家，因此在伐木時要小心，不要打擾這些毛茸茸的工蜂。$(br2)如果附近有花朵，橡樹或樺樹在自然生長時也有機會出現蜂巢。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "dynamictrees:textures/patchouli/images/bees_1.png"
+            ],
+            "text": "樺樹上的蜂窩",
+            "border": true
+        }
+    ]
+}

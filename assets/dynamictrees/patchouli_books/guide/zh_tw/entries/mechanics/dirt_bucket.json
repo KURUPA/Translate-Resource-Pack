@@ -1,0 +1,35 @@
+﻿{
+    "name": "土壤桶",
+    "read_by_default": "true",
+    "icon": "dynamictrees:dirt_bucket",
+    "category": "dynamictrees:mechanics",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "dynamictrees:dirt_bucket",
+            "title": "土壤桶",
+            "link_recipe": true,
+            "text": "土桶可用於將樹種轉換成樹苗，反之亦然。$(br2)將土桶與樹種或樹苗放置在合成臺中即可轉換。此配方沒有固定形狀。"
+        },
+        {
+            "type": "crafting",
+            "title": "土壤桶",
+            "anchor": "dirt_bucket",
+            "recipe": "dynamictrees:dirt_bucket",
+            "text": "欲獲得土桶，只需將泥土方塊與水桶組合即可。$(br2)如果需要，用土桶對地面點擊右鍵即可清空。"
+        },
+        {
+            "type": "crafting",
+            "title": "種子變樹苗",
+            "recipe": "dynamictrees:oak_seed_to_minecraft_oak_sapling",
+            "recipe2": "dynamictrees:minecraft_oak_sapling_to_oak_seed"
+        },
+        {
+            "type": "crafting",
+            "title": "果實變種子",
+            "recipe": "dynamictrees:minecraft_apple_to_apple_oak_seed",
+            "text": "果樹不會掉落樹種，相反地，你可以從果實中取得樹種。"
+        }
+    ]
+}

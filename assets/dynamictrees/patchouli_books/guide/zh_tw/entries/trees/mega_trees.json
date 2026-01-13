@@ -1,0 +1,21 @@
+﻿{
+    "name": "巨型樹木",
+    "icon": "dynamictrees:mega_jungle_seed",
+    "category": "dynamictrees:trees",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "text",
+            "title": "巨型樹木",
+            "text": "有些樹木擁有比一般樹木大得多的變種。它們被稱為巨型變種，擁有自己的種子。$(br2)可以使用 $(l:potions/mega_agent)巨型藥劑$() 將普通樹木變成其巨型變種。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "dynamictrees:textures/patchouli/images/mega_sapling_1.png"
+            ],
+            "text": "一個雲杉樹苗（左）和一個巨型雲杉樹苗（右）。",
+            "border": true
+        }
+    ]
+}

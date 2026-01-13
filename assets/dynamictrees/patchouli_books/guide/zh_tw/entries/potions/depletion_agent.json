@@ -1,0 +1,16 @@
+﻿{
+    "name": "耗竭藥劑",
+    "icon": "dynamictrees:dendro_potion[dynamictrees:potion_index=1]",
+    "category": "dynamictrees:potions",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "dynamictrees:brewing",
+            "title": "耗竭藥劑",
+            "ingredient": "minecraft:slime_ball",
+            "bottle": "dynamictrees:dendro_potion",
+            "output": "dynamictrees:dendro_potion[dynamictrees:potion_index=1]",
+            "text": "這種藥劑會耗盡土壤肥沃度並導致樹木停止生長。$(br2)可用於裝飾較小的樹木。"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+﻿{
+    "name": "生物炭基底藥劑",
+    "icon": "dynamictrees:dendro_potion",
+    "category": "dynamictrees:potions",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "dynamictrees:brewing",
+            "title": "生物炭基底藥劑",
+            "ingredient": "minecraft:charcoal",
+            "bottle": "minecraft:potion[minecraft:potion_contents={potion:'minecraft:thick'}]",
+            "output": "dynamictrees:dendro_potion",
+            "text": "這是基礎藥劑的釀造配方。$(br)所有來自動態樹木的其他藥劑都會在釀造過程中用到它。$(br2)注意：此配方使用濃稠藥水而非粗製藥水。"
+        },
+        {
+            "type": "patchouli:relations",
+            "title": "用途",
+            "entries": [
+                "dynamictrees:potions/burgeoning_agent",
+                "dynamictrees:potions/depletion_agent",
+                "dynamictrees:potions/mega_agent"
+            ]
+        }
+    ]
+}

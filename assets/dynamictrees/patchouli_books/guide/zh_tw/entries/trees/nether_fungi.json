@@ -1,0 +1,33 @@
+﻿{
+    "name": "地獄蕈菇",
+    "icon": "dynamictrees:crimson_seed",
+    "category": "dynamictrees:trees",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "text",
+            "title": "地獄蕈菇",
+            "text": "即使是地獄，也不乏類樹木的植物。巨大的緋紅蕈類棲息於緋紅森林，而扭曲蕈類的近親則可在難尋的扭曲森林中找到。$(br2)兩者下方都會生成明亮的蕈光體球根，照亮陰森的地下環境。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "dynamictrees:textures/patchouli/images/nether_fungi_1.png"
+            ],
+            "text": "緋紅與扭曲蕈菇",
+            "border": true
+        },
+        {
+            "type": "text",
+            "text": "這些蕈類的菌蓋可以從緋紅與扭曲森林中萌芽的蘑菇處採集。它們可以種植在各自的菌絲岩上，並給予骨粉來生長更多。$(br2)一旦樹木開始生長，就不再需要持續使用骨粉來使其達到成熟。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "dynamictrees:textures/patchouli/images/nether_fungi_2.png"
+            ],
+            "text": "一小片正在萌芽的蕈菇",
+            "border": true
+        }
+    ]
+}

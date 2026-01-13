@@ -1,4 +1,5 @@
 {
+    "_comment": "更新",
     "item.ironfurnaces.upgrade_iron": "熔爐升級：石 > 鐵",
     "item.ironfurnaces.upgrade_gold": "熔爐升級：鐵 > 黃金",
     "item.ironfurnaces.upgrade_diamond": "熔爐升級：黃金 > 鑽石",
@@ -61,6 +62,7 @@
     "ironfurnaces.jei_category_regular": "熔爐套件：發電機",
     "ironfurnaces.jei_category_blasting": "發電機｜高爐熔煉",
     "ironfurnaces.jei_category_smoking": "發電機｜煙燻",
+    "tooltip.ironfurnaces.cooktime": "燒煉時間",
     "tooltip.ironfurnaces.upgrade_right_click": "對著熔爐潛行 + 點擊右鍵以套用",
     "tooltip.ironfurnaces.xmas_right_click": "對著熔爐點擊右鍵，將熔爐包裝成禮物盒",
     "tooltip.ironfurnaces.xmas1": "但包裝紙不是會因高溫起火嗎？",
@@ -69,9 +71,9 @@
     "tooltip.ironfurnaces.spooky1": "嚇死窩了",
     "tooltip.ironfurnaces.spooky2": "對著熔爐潛行 + 點擊右鍵，將駭人南瓜從熔爐上卸下",
     "tooltip.ironfurnaces.heater": "已綁定至座標：",
-    "tooltip.ironfurnaces.heaterX": "X：",
-    "tooltip.ironfurnaces.heaterY": "Y：",
-    "tooltip.ironfurnaces.heaterZ": "Z：",
+    "tooltip.ironfurnaces.heaterX": "X: ",
+    "tooltip.ironfurnaces.heaterY": "Y: ",
+    "tooltip.ironfurnaces.heaterZ": "Z: ",
     "tooltip.ironfurnaces.heater_not_bound": "尚未綁定至無線熱能供應器！",
     "tooltip.ironfurnaces.heater_tip": "將其放置在熔爐的燃料欄位上",
     "tooltip.ironfurnaces.heater_tip1": "僅會在鐵（或以上）等級的熔爐中運作",
@@ -129,7 +131,9 @@
     "tooltip.ironfurnaces.hold": "按住 ",
     "tooltip.ironfurnaces.for_details": " 查看詳細資訊。",
     "tooltip.ironfurnaces.augment_slot": "套件欄位",
+    "tooltip.ironfurnaces.rainbow_blowup": "有些東西告訴我要炸毀它...",
     "tooltip.ironfurnaces.rainbow_gen1": "當所有種類的熔爐處於發電狀態時，將產生",
+    "tooltip.ironfurnaces.rainbow_gen2": "RF/tick 如果所有其他熔爐都在發電",
     "tooltip.ironfurnaces.rainbow_gen3": "為了讓每個等級的熔爐都處於發電狀態，其內部能量暫存區不得是滿的",
     "tooltip.ironfurnaces.rainbow_gen4": "熔爐會朝設定為「輸出」的任何一側輸出能量，這時將不會向內部暫存區增加能量",
     "tooltip.ironfurnaces.rainbow_gen5": "你只能擁有一台彩虹發電機",
@@ -137,8 +141,5 @@
     "ironfurnaces.update.version": "[{\"text\":\"當前版本：\"},{\"text\":\"%s\",\"color\":\"dark_red\"},{\"text\":\"，最新版本：\",\"color\":\"none\"},{\"text\":\"%s\",\"color\":\"dark_green\"}]",
     "ironfurnaces.update.buttons": "[{\"text\":\"[\"},{\"text\":\"點擊查看更新日誌\",\"color\":\"green\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"%s\"}},{\"text\":\"] [\",\"color\":\"none\"},{\"text\":\"點擊下載\",\"color\":\"green\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"%s\"}},{\"text\":\"]\",\"color\":\"none\"}]",
     "ironfurnaces.update.buttonOptions": "點擊：更新日誌，Shift 點擊：下載（在瀏覽器）",
-    "ironfurnaces.update.failed": "[{\"text\":\"《鐵熔爐》\"},{\"text\":\"檢查更新\",\"color\":\"dark_green\"},{\"text\":\"失敗！ 查看 Logs 以獲得更多資訊！\",\"color\":\"none\"}]",
-    "tooltip.ironfurnaces.rainbow_blowup": "有些東西告訴我要炸毀它...",
-    "tooltip.ironfurnaces.cooktime": "燒煉時間",
-    "tooltip.ironfurnaces.rainbow_gen2": "RF/tick 如果所有其他熔爐都在發電"
+    "ironfurnaces.update.failed": "[{\"text\":\"《鐵熔爐》\"},{\"text\":\"檢查更新\",\"color\":\"dark_green\"},{\"text\":\"失敗！ 查看 Logs 以獲得更多資訊！\",\"color\":\"none\"}]"
 }
