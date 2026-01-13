@@ -1,0 +1,19 @@
+{
+    "item.more_wolf_armors.diamond_wolf_armor": "鑽石狼鎧",
+    "item.more_wolf_armors.gold_wolf_armor": "金狼鎧",
+    "item.more_wolf_armors.iron_wolf_armor": "鐵狼鎧",
+    "item.more_wolf_armors.netherite_wolf_armor": "獄髓狼鎧",
+    "item.more_wolf_armors.wolf_armor_upgrade_template": "狼鎧升級模版",
+    "more_wolf_armors.configuration.chestArmorEnchantable": "Armor Enchantments Support",
+    "more_wolf_armors.configuration.chestArmorEnchantable.tooltip": "Makes wolf armors from this mod enchantable with chest armor enchantments.\nRequires previous option to be enabled as well",
+    "more_wolf_armors.configuration.enchantable": "狼鎧附魔",
+    "more_wolf_armors.configuration.enchantable.tooltip": "讓狼鎧支持耐久類附魔",
+    "more_wolf_armors.configuration.ingotRepairFactor": "耐久修復比",
+    "more_wolf_armors.configuration.ingotRepairFactor.tooltip": "從0耐久修復到滿耐久消耗的原料數量\n設為0來禁用修復\n默認: 8\n範圍: 0 ~ 64",
+    "more_wolf_armors.configuration.section.more.wolf.armors.client.toml": "更多狼鎧 - 用戶端配置",
+    "more_wolf_armors.configuration.section.more.wolf.armors.client.toml.title": "更多狼鎧 - 用戶端配置",
+    "more_wolf_armors.configuration.section.more.wolf.armors.server.toml": "更多狼鎧 - 服務端配置",
+    "more_wolf_armors.configuration.section.more.wolf.armors.server.toml.title": "更多狼鎧 - 服務端配置",
+    "more_wolf_armors.configuration.title": "更多狼鎧 - 配置",
+    "more_wolf_armors.title": "更多狼鎧"
+}
