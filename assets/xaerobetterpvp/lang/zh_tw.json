@@ -75,5 +75,6 @@
     "gui.xaero_no_durability": "無",
     "gui.xaero_held_centered_position": "居中時持有的物品",
     "gui.xaero_held_centered_position_screen_edges": "邊緣",
-    "gui.xaero_held_centered_position_hotbar": "快捷欄"
+    "gui.xaero_held_centered_position_hotbar": "快捷欄",
+    "gui.xaero_better_pvp_server_profiles": "更好的PVP 伺服端設定"
 }
