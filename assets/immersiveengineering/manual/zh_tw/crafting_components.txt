@@ -1,0 +1,15 @@
+﻿製作組件
+核心部件
+許多機械與工具由不同的子組件構成。以下頁面將詳細介紹一些你常用的組件。
+簡單組件可在普通 §2 工作檯 §r 製作，而複雜組件則需借助 <link;engineers_workbench; 工程師裝配台> 完成。<np>
+<&basic_engineering>§2 基礎工程塊 §r 是眾多機械設備的主要建造材料，構成了大多數單體機械的核心框架，尤其在運輸和能量儲存設備中不可或缺。<np>
+<&mech_components>§2 鐵質 與 §2 鋼製機械零件 §r 是大小機械不可或缺的部分。<br>
+由於這些組件的製作頻率較高，建議為其繪製 <link;blueprints; 藍圖> 。<np>
+<&component_blueprint>
+繪製藍圖的說明詳見 <link;blueprints; 此處> 。<br>
+在 <link;engineers_workbench; 工程師裝配台> 中使用藍圖，可降低簡單組件的製作成本。<br>
+後續頁面將說明，藍圖對於更複雜的組件製作尤為關鍵。<np>
+<&elec_components>§2 電子元件 §r 比機械組件更為複雜且使用頻率較低，但對 <link;item_batcher; 物品分揀器> 、<link;turrets; 炮塔 > 等具備高級控制功能的設備而言必不可少。<np>
+<&light_bulbs>§2 白熾燈泡 §r 由碳化竹絲或紙製燈絲製成，通電後可發光發熱，主要用於製作 <link;engineered_lighting; 燈籠> 。<np>
+<&tubes>§2 真空管 §r 是另一種使用頻率較低的組件，這種昂貴的材料用於 <link;engineers_circuit_workbench; 邏輯電路> 及更複雜的電子設備。<np>
+<&pcb>§2 電路底板 §r 是一種絕緣銅板，可焊接各類組件，用於製作 <link;engineers_circuit_workbench; 邏輯電路> 。

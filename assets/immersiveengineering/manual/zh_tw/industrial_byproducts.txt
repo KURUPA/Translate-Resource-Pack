@@ -1,0 +1,7 @@
+﻿工業副產品
+廢棄物的逆襲
+<&sulfur>§l 硫磺粉 §r 是一種常見於 <link;mineral_deposits; 礦物礦床> 的粉末。粉碎 §2 青金石礦石 §r 或 §2 煤礦石 §r 時有機率獲得，而粉碎 §2 石英礦石 §r 與 §2 烈焰棒 §r 則更易產出。它在製作火藥或 <link;industrial_byproducts; 工業肥料> 時發揮重要作用。
+<&nitrate>§l 硝酸鹽粉 §r （又稱硝石）是通過在 <link;crusher; 粉碎機> 中處理 §2 砂岩 §r 得到的鹼性鹽混合物。與硫磺粉類似，硝酸鹽粉可用於製造 <link;industrial_byproducts; 工業肥料> ，還能作為催化劑用於生產 <link;industrial_fluids; 生物柴油 > 。
+<&slag>§l 礦渣 §r 是 <link;crude_blast_furnace; 煉鋼> 過程中產生的金屬氧化物與硫化物混合物。它可加工成建築材料，如 <link;concrete; 混凝土 > ，同樣也是製作 <link;industrial_byproducts; 工業肥料 > 的原料之一。
+<&fertilizer> 硫磺粉、礦渣和硝酸鹽粉單獨使用時，僅能對 <link;garden_cloche; 園藝鐘罩 > 內的作物生長起到微弱促進作用，無法直接用於普通作物。而 §2 工業肥料 §r 由上述三種物質混合水調配而成，能顯著加速鐘罩內作物生長。
+<&gunpowder> 將硝酸鹽粉、硫磺粉與木炭混合，即可製作火藥。相比從怪物處獲取，這種工業製法效率更高、產量更穩定。製成的火藥可快速且低成本地用於製造 <link;revolver_cartridges; 彈藥 > 和 <link;gunpowder_barrels; 炸藥 > 。

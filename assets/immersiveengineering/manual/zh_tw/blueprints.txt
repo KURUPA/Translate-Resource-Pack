@@ -1,0 +1,9 @@
+﻿工程師藍圖
+重反繪圖桌
+
+以下頁面展示了所有可透過常規方式合成的工程師藍圖。其他專業藍圖可能需要從村民處獲取或在探索世界時發現。
+
+所有這些藍圖（包括專業藍圖）均可用於<link;engineers_workbench;工程師裝配台>中，以製造其記載的物品。
+<&molds_components>
+<&banners_signs>
+<&projectiles>

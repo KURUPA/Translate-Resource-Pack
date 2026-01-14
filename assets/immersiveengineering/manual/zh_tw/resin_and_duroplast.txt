@@ -1,0 +1,8 @@
+﻿樹脂與工程塑膠 
+工業奇蹟的基石
+<&resin><link;industrial_fluids; 酚醛樹脂>是生產塑膠製品的關鍵原料。其生產需分兩步進行：首先，以§2銀板§r為催化劑，將<link;industrial_fluids;乙醇> 氧化生成前驅體<link;industrial_fluids;乙醛> ;隨後，將乙醛與<link;industrial_fluids;雜酚油>混合反應。這兩步均可在<link;refinery;§o§n 精煉廠§r>內完成。
+<&duroplast>工程塑膠由<link;resin_and_duroplast;酚醛樹脂>合成而來，這種新型材料具有硬度高、不燃、絕緣的特性，是電氣工程中理想的絕緣材料。此外，樹脂易於塑形的特點使其能被加工成板材、方塊等多種形態。
+<&duroplast_sheet> 在 <link;bottling_machine;灌裝機>中，將樹脂注入合適的<link;metal_press;模具>通過機器施加高溫高壓，促使樹脂硬化，從而製成工程塑膠板。這些板材常用於製造 <link;crafting_components; 高級電子元件> 和 <link;crafting_components; 電路底板>，發揮絕緣作用。
+<&duroplast_block>工程塑膠塊不僅可用於建築和裝飾，更重要的是，在製作<link;basic_wiring;導線接線器與繼電器>時，它能替代§2陶土§r，有效減少黏土的使用量。
+<&fiberboard>纖維板 由壓縮<link;sawmill;鋸末>與樹脂混合壓製而成，兼具木材特性，可在多數配方中替代木板，是回收廢料的絕佳途徑。
+<&empty_shell> 此外，樹脂還可用於製造 <link;revolver_cartridges; 左輪手槍子彈>的彈殼，大幅降低成本，便於批次生產。

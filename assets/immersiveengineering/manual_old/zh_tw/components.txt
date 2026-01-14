@@ -1,0 +1,9 @@
+﻿製造零件
+不可或缺的部分
+<&mech_components>許多機器和工具是由不同的零件組成的。其中一些你必須經常使用，這就是為什麼它們在本手冊中有自己的條目。§2鐵機械零件§r和§2鋼機械零件§r是大部分多方塊結構和機器不可或缺的部分。<np>
+<&create_bp>由於你會發現自己製作這些組件的頻率越來越高，建議你為它們做一個<link;blueprints;藍圖>。
+<&mech_components>在<link;workbench;工程師裝配台>中使用藍圖可以使你以更少的消耗製造零件。
+<&elec_components>§2電子元件§r比機械元件更複雜，需求量也更少。然而，對於任何具有控制擴展的設備，如<link;item_batcher;計量分配器>和<link;turrets;炮塔>，電子元件是必須的。<np>
+<&light_bulbs>§2白熾燈泡§r是的核心部件是碳化的竹子或紙張，白熾燈泡通電時會產生光和熱，主要用於工業<link;lighting;照明;electric_lantern>.<np>
+<&tubes>另一個，儘管不太常用的部件是真空管。這些玻璃管被用於製作<link;logic_circuits;邏輯電路板>的和更複雜的電子機械。<np>
+<&pcb>有一個零件很少會用到，但卻很重要，它就是§2電路板§r。這種絕緣銅板上可以焊接多種組件，以製造<link;logic_circuits;邏輯電路板>。

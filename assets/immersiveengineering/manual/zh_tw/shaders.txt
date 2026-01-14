@@ -1,0 +1,7 @@
+﻿皮膚
+紅藍黃紫的工業美學
+皮膚是可在世界中探索獲取或通過村民交易獲得的物品。它們本身無特殊功能，但可裝備於 <link;revolver;左輪手槍>、<link;mining_drill;採礦機械鑽 >、<link;chemical_thrower;化學噴射器 >、<link;heavy_plated_shield;重型盾牌 >、<link;railgun;軌道炮 >及<link;accumulator_backpack;蓄電池背包>等裝備（可能還有更多待發現物品），用於改變裝備外觀。
+使用方式：將裝備放入<link;engineers_workbench;工程師裝配台>，在對應插槽安裝皮膚即可；
+拓展應用：右鍵點擊礦車、旗幟或 <link;balloon;氣球> 也可直接應用皮膚。<np>
+<&grab_bag>皮膚獎勵袋內含隨機皮膚，可從箱子、村民交易或首領掉落中獲取。獎勵袋內皮膚品質不低於獎勵袋本身稀有度，且開啟時更易獲得未擁有的皮膚。此外，高階獎勵袋可拆解為兩個低階獎勵袋，雖降低獲取稀有皮膚的機率，但能增加開箱次數。
+查看全系列皮膚外觀、設計原型及詳細資訊，請點擊 <link;shader_list;此處> 。
