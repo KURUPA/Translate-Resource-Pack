@@ -1,0 +1,23 @@
+﻿{
+    "name": "橫向跑牆",
+    "icon": "minecraft:bricks",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  你可以在水平方向貼牆奔跑，從而使你能夠到達更遠的平台。$(br2)  雖然有時會被混淆，但是$(l:actions/wall_run)豎向跑牆（蹬壁上牆）$()技術實際上是垂直方向的，而並非水平方向。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/horizontal_wall_run.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "使用方法",
+            "text": "$(bold)1.$() 在空中側身緊貼牆面進行$(l:parcool:actions/fast_run)疾跑$()$(br)$(bold)2.$() 持續按住橫向跑牆鍵($(k:parcool.Horizontal牆Run))"
+        }
+    ]
+}

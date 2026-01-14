@@ -1,0 +1,23 @@
+﻿{
+    "name": "掛槓（吊掛）",
+    "icon": "minecraft:stone",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  你可以吊掛在橫著的鐵鏈或者終界燭等細長方塊上。$(br2)  按下跳躍鍵還能向前蕩槓跳躍從而進行移動。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/hang_down.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "使用方法",
+            "text": "$(list) 在橫著的細長方塊下方按下掛槓鍵($(k:parcool.HangDown))$(br)"
+        }
+    ]
+}

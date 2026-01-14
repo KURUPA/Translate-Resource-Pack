@@ -1,0 +1,30 @@
+﻿{
+    "name": "貓掛（邊緣懸掛）",
+    "icon": "minecraft:stone",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  你可以抓攀在方塊的邊緣並且能夠保持懸掛狀態。當然，此狀態仍然可以緩慢的進行移動。$(br2)  通過按下跳躍鍵還能爬上方塊。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/cling_to_cliff_1.png"
+            ]
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/cling_to_cliff_2.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "使用方法",
+            "text": "$(list) 在牆壁邊緣按住貓掛鍵($(k:parcool.ClingToCliff))$(br)"
+        }
+    ]
+}

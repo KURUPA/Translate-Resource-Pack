@@ -1,0 +1,16 @@
+﻿{
+    "name": "被動動作",
+    "icon": "minecraft:brick",
+    "category": "parcool:category_support_features",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  本模組新增了若干個被動能力與動畫效果。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "爬杆",
+            "text": "  玩家可自動攀爬柱形方塊，如鐵欄杆、堆疊的柵欄、終界燭等。"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+﻿{
+    "name": "豎向跑牆（蹬壁上牆）",
+    "icon": "minecraft:stone_bricks",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  $(bold)豎向跑牆$()是一種透過跑向面對著的牆壁來進行蹬壁上牆的技術，用於攀住更高的牆壁。$(br2)  請勿與$(l:actions/horizontal_wall_run)橫向跑牆$()相混淆。$(br)$(br)注意：若牆面是由冰塊等光滑材質組成的，則無法做出該動作。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/vertical_wall_run.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "使用方法",
+            "text": "$(bold)1.$() 視線高於水平線並使用$(l:parcool:actions/fast_run)疾跑$()$(br)$(bold)2.$() 跳向牆面的同時按住跳躍鍵不放$(br)$(br)  這招可能會有一點小難，但是只要多加練習應該就彳亍了。"
+        }
+    ]
+}

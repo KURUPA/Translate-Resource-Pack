@@ -1,0 +1,16 @@
+﻿{
+    "name": "快速轉向",
+    "icon": "minecraft:iron_helmet",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  有時侯你可能會需要快速向後轉身的功能。而這只需按一個按鍵即可實現。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "使用方法",
+            "text": "$(list)按下快速轉向鍵($(k:parcool.QuickTurn))"
+        }
+    ]
+}

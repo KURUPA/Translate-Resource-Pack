@@ -206,5 +206,15 @@
     "tooltip.paraglider.paraglider_broken": "已損壞",
     "tooltip.paraglider.restore_stamina": "恢復 %s 圈精力。",
     "tooltip.paraglider.rito_goddess_statue.0": "利特風格",
-    "tooltip.paraglider.stamina_vessel.1": "增加精力上限，最多可增加 %s 次。"
+    "tooltip.paraglider.stamina_vessel.1": "增加精力上限，最多可增加 %s 次。",
+        "parcool.action.StartSwimByCrawl": "爬泳",
+    "parcool.command.message.invalidStaminaType": "不存在此精力類型：%s",
+    "parcool.command.message.success.setStaminaType": "已將 %d 名玩家的強制精力類型設置為 %s",
+    "parcool.command.message.success.setZipline": "已在 %s 與 %s 之間架設流索",
+    "parcool.command.message.hookNotFound": "在 %s 找不到流索掛勾",
+    "parcool.command.message.hookTooFar": "兩個流索掛勾之間的距離太遠",
+    "parcool.command.message.ziplineTooSteep": "此流索坡度過於陡峭",
+    "parcool.config.c.show_light_hud_always": "總是顯示簡易精力 HUD",
+    "parcool.config.c.enable_stamina_exhaustion_penalty": "啟用精力耗盡減速懲罰",
+    "parcool.config.c.lowest_fall_distance_for_breakfall": "啟用精確時機著地受身的效果"
 }

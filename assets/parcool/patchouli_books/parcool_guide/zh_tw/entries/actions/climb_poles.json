@@ -1,0 +1,11 @@
+﻿{
+    "name": "爬杆",
+    "icon": "minecraft:quartz_pillar",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  你可以自動攀爬杆形方塊，例如垂直堆疊的柵欄、鎖鏈和鐵欄杆等。"
+        }
+    ]
+}

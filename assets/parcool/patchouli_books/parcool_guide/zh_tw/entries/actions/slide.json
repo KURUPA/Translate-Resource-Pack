@@ -1,0 +1,23 @@
+﻿{
+    "name": "滑鏟",
+    "icon": "minecraft:yellow_dye",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  $(bold)滑鏟$()是$(l:parcool:actions/crawl)匍匐（爬行）$()的進階動作。可以讓你快速穿過狹窄的空間。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/slide.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "使用方法",
+            "text": "$(list)在$(l:parcool:actions/fast_run)疾跑$()狀態下執行匍匐（爬行）動作"
+        }
+    ]
+}

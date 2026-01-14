@@ -1,0 +1,23 @@
+﻿{
+    "name": "躲閃",
+    "icon": "minecraft:arrow",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  $(bold)躲閃$()是一種用於閃避箭矢或者閃避子彈的技術。你可以在短距離內進行快速位移。$(br2)  但是需要注意一下躲閃的冷卻時間！"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/dodge.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "使用方法",
+            "text": "$(list)快速雙擊移動方向鍵（前進鍵除外）$(list)按住移動方向鍵的同時按下躲閃鍵($(k:parcool.Dodge))"
+        }
+    ]
+}

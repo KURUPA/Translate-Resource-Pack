@@ -1,0 +1,53 @@
+﻿{
+    "name": "鳴謝",
+    "icon": "minecraft:written_book",
+    "category": "parcool:category_about",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  這裡是模組開發者與譯者的名單。$(br2)  同時也感謝未被列入名單的貢獻者。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "模組開發者",
+            "text": "主創$()$(italic)$(list)alRex-U$()"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "音效"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "譯者（英語）"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "譯者（日語）"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "譯者（漢語）"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "譯者（法語）"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "譯者（葡萄牙語）"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "譯者（西班牙語）"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "譯者（韓語）"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "譯者（俄語）"
+        }
+    ]
+}

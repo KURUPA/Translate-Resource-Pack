@@ -1,0 +1,11 @@
+﻿{
+    "pages[2].text": "$(italic)$(list)SquARzY",
+    "pages[3].text": "$(bold)en_us$()$(italic)$(list)alRex-U",
+    "pages[4].text": "$(bold)ja_jp$()$(italic)$(list)alRex-U",
+    "pages[5].text": "$(bold)ch_zn$()$(italic)$(list)CatalystGinger$(list)GuoDaiYi$(list)njt-233$(list)Kasualix",
+    "pages[6].text": "$(bold)fr-fr$()$(italic)$(list)COwOkie",
+    "pages[7].text": "$(bold)pt-br$()$(italic)$(list)FITFC",
+    "pages[8].text": "$(bold)es-es$()$(italic)$(list)GhostOfCazador$(list)elAltrex",
+    "pages[9].text": "$(bold)ko-kr$()$(italic)$(list)Mexwell12",
+    "pages[10].text": "$(bold)ru-ru$()$(italic)$(list)MasterXort"
+}

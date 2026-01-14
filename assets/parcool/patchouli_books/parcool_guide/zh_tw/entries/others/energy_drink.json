@@ -1,0 +1,23 @@
+﻿{
+    "name": "能量飲料",
+    "icon": "minecraft:potion[potion_contents='parcool:energy_drink']",
+    "category": "parcool:category_support_features",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  總是耗盡耐力？別想著$(strike)改配置$()了，試試$(bold)能量飲料$()吧！喝完後可以無限制的使用跑酷動作並且不會消耗一點耐力！"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion[potion_contents='parcool:energy_drink']",
+            "title": "釀造能量飲料",
+            "text": "  能量飲料可通過釀造台製作。$(br2)配方：$(list)[粗製藥水] + [地獄石英]$(list)[劣質能量飲料] + [地獄石英]"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion[potion_contents='parcool:energy_drink']",
+            "title": "劣質能量飲料",
+            "text": "  能量飲料的低配版本，製作簡單但是會產生負面效果。$(br2)配方：$(list)[粗製藥水] + [毒馬鈴薯]$(list)[粗製藥水] + [生雞肉]"
+        }
+    ]
+}

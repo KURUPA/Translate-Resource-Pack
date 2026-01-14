@@ -1,0 +1,18 @@
+﻿{
+    "name": "什麼是ParCool？",
+    "icon": "minecraft:feather",
+    "category": "parcool:category_about",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "感謝遊玩本模組！$(br2)  這是一個基於Forge開發的我的世界模組，模組中添加了許多$(bold)炫酷$()且實用的動作，而這些動作實際上就源自於現實中的跑酷技術。$(br2)  現在的你將成為一位跑酷高手，一起來《當個創世神》跑酷吧！"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "parcool:textures/gui/entries/logo_round.png"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+﻿{
+    "name": "滑牆（貼牆滑降）",
+    "icon": "minecraft:sand",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  透過緊貼牆壁來減緩下落時的速度。$(br2)注意：該動作受到方塊光滑程度的影響，因此玩家無法在冰塊的牆面上實現貼牆滑降。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "使用方法",
+            "text": "$(list)在空中時貼著牆面按住滑牆鍵($(k:parcool.牆Slide))"
+        }
+    ]
+}

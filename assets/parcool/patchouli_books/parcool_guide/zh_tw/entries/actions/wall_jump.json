@@ -1,0 +1,16 @@
+﻿{
+    "name": "蹬牆跳",
+    "icon": "minecraft:leather_boots",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  蹬牆跳是一種透過蹬踩牆面來實現多段跳躍的技術。使用時需要背靠牆壁。$(br2)注意：蹬踩冰塊時無法獲得高度上的提升！"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "使用方法",
+            "text": "$(list)在空中並緊貼牆壁時按下蹬牆跳鍵($(k:parcool.牆Jump))"
+        }
+    ]
+}

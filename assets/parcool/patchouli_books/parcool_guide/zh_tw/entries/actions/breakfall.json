@@ -1,0 +1,37 @@
+﻿{
+    "name": "受身（落地緩衝）",
+    "icon": "minecraft:slime_ball",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  $(bold)受身$()是用來減輕從高處落地時所產生衝擊力的技術。$(br2)  本模組目前實現了兩種受身方式：$(bold)翻滾緩衝$()和$(bold)四肢緩衝$()。"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "parcool:textures/gui/entries/breakfall_tap.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "翻滾緩衝",
+            "text": "  $(bold)翻滾緩衝$()是一種受身技術，可將落地時產生的衝擊力透過身體滾動的方式來延長衝擊時間從而減輕和分散衝擊力。$(br2)  需要強調的是：在跑酷運動中的$(italic)翻滾$()屬於速降卸力技術，因此本模組中的翻滾也只在高處落地時使用。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "使用方法",
+            "text": "$(list)在落地時按下前後移動方向鍵+受身鍵($(k:parcool.Breakfall))"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "四肢緩衝",
+            "text": "  $(bold)四肢緩衝$()也是一種受身技術，透過屈膝和雙手撐地來減輕和分散落地時的衝擊力。$(br2)（話說史蒂夫要怎麼才能彎曲他的腿呢？）"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "使用方法",
+            "text": "$(list)在落地時按下受身鍵($(k:parcool.Breakfall))"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+﻿{
+    "name": "撐越（撐手跳）",
+    "icon": "minecraft:oak_fence",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  $(bold)撐越$()是一種用來快速翻越較矮障礙物（如柵欄）的技術。$(br2)  撐越有多種動作。就比如在本遊戲中，你就可以使用$(italic)速過$()和$(italic)金剛跳$()這兩種動作。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/speed_vault.png"
+            ],
+            "title": "快速翻越$"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "使用方法",
+            "text": "$(bold)1.$() 進行$(l:parcool:actions/fast_run)疾跑$()$(br)$(bold)2.$() 身體與方塊相碰"
+        }
+    ]
+}

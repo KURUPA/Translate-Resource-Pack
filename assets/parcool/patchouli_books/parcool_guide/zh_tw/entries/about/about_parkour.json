@@ -1,0 +1,12 @@
+﻿{
+    "name": "什麼是跑酷？",
+    "icon": "minecraft:golden_boots",
+    "category": "parcool:category_about",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  $(italic)跑酷$()是由$(italic)大衛·貝爾$()所創立的一種運動。$(br2)  其初衷是憑藉自身能力快速且高效地從A點移動到B點。$(br2)  這項運動的名稱源自法語$(italic)parcours$()，運動員則被稱為$(italic)Traceur$()（跑酷者）。$(br2)  有時此運動也被稱為$(italic)自由奔跑（Free Running）$()，據說它是跑酷的英譯版本。"
+        }
+    ]
+}
