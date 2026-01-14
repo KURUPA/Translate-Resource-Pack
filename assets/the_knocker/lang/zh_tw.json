@@ -1,0 +1,14 @@
+{
+    "advancements.cant_sleep.title": "我睡不著？",
+    "advancements.cant_sleep.descr": "因為某些讓你保持清醒的東西，你無法入眠...",
+    "item.the_knocker.knocker_spawn_egg": "敲門人 生怪蛋",
+    "entity.the_knocker.knockerdeadanimal": "敲門人",
+    "entity.the_knocker.knocker": "敲門人",
+    "item.the_knocker.knife": "小刀",
+    "entity.the_knocker.knockerswim": "敲門人",
+    "block.the_knocker.bridge": "橋樑",
+    "config.the_knocker.knockerconfig": "敲門人配置",
+    "item.the_knocker.knockerswim_spawn_egg": "敲門人 生怪蛋",
+    "entity.the_knocker.knockerstalklooked": "敲門人",
+    "entity.the_knocker.knockerstalk": "敲門人"
+}
