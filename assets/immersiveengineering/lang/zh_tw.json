@@ -1202,7 +1202,7 @@
     "desc.immersiveengineering.info.coresample.timezone": "該樣本在不同的時區/維度提取",
     "desc.immersiveengineering.info.coresample.yield": "預期產量：%1$s礦石",
     "desc.immersiveengineering.info.day": "%1$s天",
-    "desc.immersiveengineering.info.durability": "耐久：%1$s",
+    "desc.immersiveengineering.info.durability": "耐久：",
     "desc.immersiveengineering.info.electrodeIntegrity": "完整度",
     "desc.immersiveengineering.info.energyStored": "儲存能量：%1$s Flux",
     "desc.immersiveengineering.info.energyStoredEU": "儲存能量：%1$s EU",
