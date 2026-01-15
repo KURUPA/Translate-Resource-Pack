@@ -1,13 +1,15 @@
 {
-    "block.magnumtorch.diamond_magnum_torch": "鑽石卓越火炬",
-    "block.magnumtorch.emerald_magnum_torch": "綠寶石卓越火炬",
-    "block.magnumtorch.amethyst_magnum_torch": "紫水晶卓越火炬",
-    "block.magnumtorch.magnum_torch.info": "阻止生物大範圍生成。",
-    "block.magnumtorch.magnum_torch.info.more": "長按 %s 查看更多資訊",
-    "block.magnumtorch.magnum_torch.info.mob_types": "生物種類：%s",
-    "block.magnumtorch.magnum_torch.info.blacklist": "黑名單：%s",
-    "block.magnumtorch.magnum_torch.info.whitelist": "白名單：%s",
-    "block.magnumtorch.magnum_torch.info.shape_type": "形狀種類：%s",
-    "block.magnumtorch.magnum_torch.info.horizontal_range": "水平範圍：%s",
-    "block.magnumtorch.magnum_torch.info.vertical_range": "垂直範圍：%s"
+    "block.magnumtorch.amethyst_magnum_torch": "紫水晶巨型火把",
+    "block.magnumtorch.diamond_magnum_torch": "鑽石巨型火把",
+    "block.magnumtorch.emerald_magnum_torch": "綠寶石巨型火把",
+    "block.magnumtorch.magnum_torch.tooltip.additional": "按住 %s 以查看更多資訊。",
+    "block.magnumtorch.magnum_torch.tooltip.blacklist": "黑名單：%s",
+    "block.magnumtorch.magnum_torch.tooltip.description": "在大範圍內防止生物生成。",
+    "block.magnumtorch.magnum_torch.tooltip.horizontal_range": "水平方塊範圍：%s",
+    "block.magnumtorch.magnum_torch.tooltip.mob_types": "生物類型：%s",
+    "block.magnumtorch.magnum_torch.tooltip.shape_type": "形狀類型：%s",
+    "block.magnumtorch.magnum_torch.tooltip.shift": "⇧ Shift",
+    "block.magnumtorch.magnum_torch.tooltip.vertical_range": "垂直方塊範圍：%s",
+    "block.magnumtorch.magnum_torch.tooltip.whitelist": "白名單：%s",
+    "itemGroup.magnumtorch.main": "巨型火把"
 }
