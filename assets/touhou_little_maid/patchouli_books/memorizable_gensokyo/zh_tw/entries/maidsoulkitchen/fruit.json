@@ -1,0 +1,10 @@
+{
+    "sortnum": 3,
+    "icon": "minecraft:apple",
+    "category": "touhou_little_maid:maidsoulkitchen",
+    "pages": [
+        {
+            "type": "text"
+        }
+    ]
+}

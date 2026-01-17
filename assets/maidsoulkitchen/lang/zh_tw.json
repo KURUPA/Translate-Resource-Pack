@@ -317,6 +317,7 @@
     "gui.maidsoulkitchen.culinary_hub.config.clear_bind_poses": "清除",
     "gui.maidsoulkitchen.culinary_hub.config.bind_mode.ingredient.tooltip": "這裡是用來綁定存放烹飪所需要的原材料的箱子的按鈕\n\n比如蘑菇煲的紅色蘑菇、白色蘑菇，農夫樂事的米飯、番茄醬所需要的稻米、番茄",
     "gui.maidsoulkitchen.culinary_hub.config.bind_mode.start_addition.tooltip": "這裡是用來綁定存放啟動廚具烹飪的前置條件的所需要的物品的箱子的按鈕\n\n比如妖怪歸家的茶壺需要的水資源（水桶）、烹飪鍋的烹飪鍋需要的燃料（煤炭）\n\n但目前這些資源的來源還只能是女僕背包，所以和隙間搭配使用效果更佳哦\n\n但記的把生效欄位（第一欄第五格）禁用哦",
+    "gui.maidsoulkitchen.culinary_hub.config.bind_mode.ingredient_addition.tooltip": "...",
     "gui.maidsoulkitchen.culinary_hub.config.bind_mode.output_addition.tooltip": "這裡是用來綁定存放取出廚具已經烹飪好的食物所需要的容器的箱子的按鈕\n\n比如農夫樂事的廚鍋取出蘑菇煲所需要的碗，蘋果酒所需要的玻璃瓶",
     "gui.maidsoulkitchen.culinary_hub.config.bind_mode.output.tooltip": "這裡是用來綁定存放烹飪好的食物的箱子的按鈕\n\n比如烹飪好的蘑菇煲、米飯、蘋果酒",
     "gui.maidsoulkitchen.culinary_hub.config.clear_bind_poses.tooltip": "一鍵清除已綁定過的箱子的坐標",

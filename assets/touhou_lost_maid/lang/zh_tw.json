@@ -1,0 +1,12 @@
+{
+    "itemGroup.touhou_lost_maid": "東方迷途女僕 物品欄分頁",
+    "block.touhou_lost_maid.example_block": "範例方塊",
+    "item.touhou_lost_maid.example_item": "範例物品",
+    "touhou_lost_maid.configuration.title": "東方迷途女僕 配置設定",
+    "touhou_lost_maid.configuration.section.touhou_lost_maid.common.toml": "東方迷途女僕 配置設定",
+    "touhou_lost_maid.configuration.section.touhou_lost_maid.common.toml.title": "東方迷途女僕 配置設定",
+    "touhou_lost_maid.configuration.items": "物品列表",
+    "touhou_lost_maid.configuration.logDirtBlock": "紀錄泥土方塊",
+    "touhou_lost_maid.configuration.magicNumberIntroduction": "幻數文字說明",
+    "touhou_lost_maid.configuration.magicNumber": "幻數 (Magic Number)"
+}
