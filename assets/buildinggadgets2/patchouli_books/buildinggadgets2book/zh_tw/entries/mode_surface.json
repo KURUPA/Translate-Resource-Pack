@@ -1,0 +1,37 @@
+﻿{
+    "name": "平面",
+    "sortnum": 1,
+    "category": "buildinggadgets2:modes",
+    "icon": "buildinggadgets2:textures/book/mode/surface.png",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "        平面模式只會在與指向方塊相同的方塊範圍內建造，請查看右側示意圖。$(br2)        啟用“模糊”功能將取消這個限制。"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "平面模式與模糊功能",
+            "images": [
+                "buildinggadgets2:textures/book/images/surface5.png",
+                "buildinggadgets2:textures/book/images/surface1.png",
+                "buildinggadgets2:textures/book/images/surface2.png"
+            ],
+            "border": true,
+            "text": "點擊圖片右下角的箭頭來切換不同的圖片。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "        平面模式也可用於替換工具，模糊功能也有著相同的作用。$(br2)        此外，如果在替換工具中啟用“連接區域限制”功能，那麼將不會替換被其他方塊切割的相同方塊，如圖所示。"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "連接區域限制",
+            "images": [
+                "buildinggadgets2:textures/book/images/surface3.png",
+                "buildinggadgets2:textures/book/images/surface4.png"
+            ],
+            "border": true,
+            "text": "點擊圖片右下角的箭頭來切換不同的圖片。"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+﻿{
+    "name": "預覽鎖定",
+    "sortnum": 1,
+    "category": "buildinggadgets2:mechanics",
+    "icon": "buildinggadgets2:textures/book/icons/anchor.png",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "        預覽鎖定能將建造預覽鎖定，以便您可以環顧四周或自由活動。預覽鎖定可以透過設置菜單或快速鍵啟用。$(br2)        鎖定後，您隨時可以單擊右鍵來執行相應操作。$(br2)        注意：在移除預覽鎖定前，調節尺寸可能不會生效。"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "示意圖",
+            "images": [
+                "buildinggadgets2:textures/book/images/anchor1.png"
+            ],
+            "border": true,
+            "text": "鎖定住您的建造預覽！"
+        }
+    ]
+}

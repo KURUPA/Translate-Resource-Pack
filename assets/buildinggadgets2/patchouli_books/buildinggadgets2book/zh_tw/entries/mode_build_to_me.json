@@ -1,0 +1,21 @@
+﻿{
+    "name": "建造至玩家位置",
+    "sortnum": 1,
+    "category": "buildinggadgets2:modes",
+    "icon": "buildinggadgets2:textures/book/mode/build_to_me.png",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "        建造至玩家位置模式將從玩家指向的方塊面向玩家所在的位置建造一條方塊。建造可以是水平的，也可以是垂直的，這取決於玩家指向了方塊的哪一個面。$(br2)        此模式下範圍設置將無效。$(br2)        啟用“頂部放置”能使建造縱向方塊時最後一個方塊的位置與玩家頭部持平，反之則與腳部持平。"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "示意圖",
+            "images": [
+                "buildinggadgets2:textures/book/images/ghost_render.png"
+            ],
+            "border": true,
+            "text": "方塊一直延伸至玩家所在的位置。"
+        }
+    ]
+}

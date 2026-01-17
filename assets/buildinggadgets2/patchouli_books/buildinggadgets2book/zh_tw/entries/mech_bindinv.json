@@ -1,0 +1,34 @@
+﻿{
+    "name": "綁定至儲存容器",
+    "sortnum": 1,
+    "category": "buildinggadgets2:mechanics",
+    "icon": "buildinggadgets2:textures/book/icons/bind_inventory.png",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "        綁定至儲存容器可以使工具遠端存取指定容器，用以建造材料的獲取與存放。在工具的設置菜單中啟用“綁定至儲存容器”，然後按住Shift並右鍵單擊一個箱子或其他儲存容器。$(br2)        容器周圍出現藍色輪廓則說明綁定成功。如果需要解除綁定，按住Shift並右鍵單擊一個非儲存容器方塊 (例如泥土)即可解除綁定。"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "綁定範例",
+            "images": [
+                "buildinggadgets2:textures/book/images/bindinv.png"
+            ],
+            "border": true,
+            "text": "將工具與箱子綁定！"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "        目前工具還支持與應用能源2 (Applied Energistics 2)的無線訪問點進行綁定。$(br2)        無需安裝無線信號增幅器，工具的範圍不受限制，請盡情使用！"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "綁定範例",
+            "images": [
+                "buildinggadgets2:textures/book/images/bindinv_ae.png"
+            ],
+            "border": true,
+            "text": "將工具與無線訪問點綁定！"
+        }
+    ]
+}

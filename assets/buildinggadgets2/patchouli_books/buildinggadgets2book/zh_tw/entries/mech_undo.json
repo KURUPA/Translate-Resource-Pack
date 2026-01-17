@@ -1,0 +1,16 @@
+﻿{
+    "name": "撤銷",
+    "sortnum": 1,
+    "category": "buildinggadgets2:mechanics",
+    "icon": "buildinggadgets2:textures/book/icons/undo.png",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "        使用撤銷功能將還原工具的最後一次操作，無論是單個方塊，還是多個方塊組成的結構，亦或是替換完成的方塊。$(br2)        如果需要撤銷已經替換的方塊，請確保您的物品欄中有足夠的相應方塊用以還原。$(br2)        工具會儲存最後10次操作以供撤銷。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "        撤銷可以透過設置菜單或快速鍵啟用。$(br2)        注意：剪切工具沒有撤銷功能，這是不可逆的，所以在使用剪切工具時務必小心！"
+        }
+    ]
+}

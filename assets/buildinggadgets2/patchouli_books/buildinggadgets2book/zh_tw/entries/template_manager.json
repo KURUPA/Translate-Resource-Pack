@@ -1,0 +1,60 @@
+﻿{
+    "name": "模板管理器",
+    "sortnum": 1,
+    "category": "buildinggadgets2:templates",
+    "icon": "buildinggadgets2:template_manager",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "        喜歡某一結構？模板管理器能夠保存$(l:buildinggadgets2:copypaste)複製工具$(/l)中儲存的結構資訊。$(br2)        有了模板管理器，您就可以將結構保存在模板中，方便再次使用，或是分享！$(br2)        首先，打開模板管理器，在頂部的槽位中放置存有結構資訊的複製工具，然後在底部的槽位中放置一張紙。"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "示意圖",
+            "images": [
+                "buildinggadgets2:textures/book/images/templatemanager1.png"
+            ],
+            "border": true,
+            "text": "放置工具和紙張。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "        在上方的文本框中輸入喜歡的名稱，然後點擊右側的“保存”將紙轉換為模板，同時儲存的結構資訊也會以三維渲染的形式展現在窗口中。$(br2)        您可以通過滑鼠左鍵旋轉結構，滑鼠右鍵移動結構，滑鼠滾輪縮放結構。$(br2)        如需將模板中儲存的結構資訊導入工具，只需放置工具與模板後點擊右側的“載入”。"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "示意圖",
+            "images": [
+                "buildinggadgets2:textures/book/images/templatemanager2.png"
+            ],
+            "border": true,
+            "text": "模板儲存的結構資訊，並以三維渲染的形式直觀展現。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "        點擊右側的“渲染”將窗口切換至材料列表，列表顯示了該結構所需要的所有方塊，就像工具設置菜單中的材料列表一樣。$(br2)        點擊“材料”將窗口切換回三維渲染形式。"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "示意圖",
+            "images": [
+                "buildinggadgets2:textures/book/images/templatemanager3.png"
+            ],
+            "border": true,
+            "text": "模板管理器中的材料列表"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "        如何分享結構？$(br2)        將需要分享的結構模板放置在模板管理器中，點擊右側的“複製”，模板管理器會將當前的結構以JSON字串的形式複製在您的剪貼簿中。您可以將此字串分享給其他人，而其他人只需點擊右側的“黏貼”即可載入您的結構！$(br2)        在黏貼前請確保模板管理器下方的槽位中有一張紙。"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "示意圖",
+            "images": [
+                "buildinggadgets2:textures/book/images/templatemanager4.png"
+            ],
+            "border": true,
+            "text": "一座再好不過的房子。"
+        }
+    ]
+}

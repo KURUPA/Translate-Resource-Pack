@@ -1,0 +1,23 @@
+﻿{
+    "name": "旋轉",
+    "sortnum": 1,
+    "category": "buildinggadgets2:mechanics",
+    "icon": "buildinggadgets2:textures/book/icons/rotate.png",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "        旋轉功能讓放置結構時更加精確，其根據起始方塊進行旋轉。$(br2)        嘗試一下，看看預覽是如何變化的，以便更好的理解，或者查看右側的圖片。"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "示意圖",
+            "images": [
+                "buildinggadgets2:textures/book/images/rotate1.png",
+                "buildinggadgets2:textures/book/images/rotate2.png",
+                "buildinggadgets2:textures/book/images/rotate3.png"
+            ],
+            "border": true,
+            "text": "正在旋轉一座房屋。"
+        }
+    ]
+}

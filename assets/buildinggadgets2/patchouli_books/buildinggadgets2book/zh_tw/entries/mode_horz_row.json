@@ -1,0 +1,24 @@
+﻿{
+    "name": "水平柱體",
+    "sortnum": 1,
+    "category": "buildinggadgets2:modes",
+    "icon": "buildinggadgets2:textures/book/mode/horizontal_row.png",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "        水平柱體模式基於玩家指向的方塊而向前延伸，用於構建橋梁十分方便！$(br2)        啟用“頂部放置”功能，看看預覽的位置變化。$(br2)        水平柱體模式也可用於替換工具。"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "水平柱體模式",
+            "images": [
+                "buildinggadgets2:textures/book/images/horzrow1.png",
+                "buildinggadgets2:textures/book/images/horzrow3.png",
+                "buildinggadgets2:textures/book/images/horzrow2.png",
+                "buildinggadgets2:textures/book/images/horzrow4.png"
+            ],
+            "border": true,
+            "text": "點擊圖片右下角的箭頭來切換不同的圖片。"
+        }
+    ]
+}

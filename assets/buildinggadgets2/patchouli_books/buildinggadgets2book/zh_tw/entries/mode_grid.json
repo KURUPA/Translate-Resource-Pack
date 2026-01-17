@@ -1,0 +1,22 @@
+﻿{
+    "name": "網格",
+    "sortnum": 1,
+    "category": "buildinggadgets2:modes",
+    "icon": "buildinggadgets2:textures/book/mode/grid.png",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "        網格模式將方塊放置在網格中，常用於火把等發光方塊的區域照明使用。隨著範圍的增加，方塊之間的距離也會同步增加，6與12是間隔最大的兩個範圍。$(br2)        網格模式也可用於替換工具。"
+        },
+        {
+            "type": "patchouli:image",
+            "title": "網格模式",
+            "images": [
+                "buildinggadgets2:textures/book/images/mode_grid.png",
+                "buildinggadgets2:textures/book/images/mode_grid2.png"
+            ],
+            "border": true,
+            "text": "點擊圖片右下角的箭頭來切換不同的圖片。"
+        }
+    ]
+}
