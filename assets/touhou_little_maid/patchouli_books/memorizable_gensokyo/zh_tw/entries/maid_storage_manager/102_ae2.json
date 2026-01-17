@@ -1,0 +1,20 @@
+﻿{
+    "sortnum": 102,
+    "name": "與應用能源2的同步",
+    "flag": "mod:ae2",
+    "icon": "ae2:controller",
+    "category": "touhou_little_maid:maid_storage_manager",
+    "pages": [
+        {
+            "type": "text",
+            "text": "女僕默認可以向終端存取物品。具體交互的位置是終端面板所在的線纜，所以如果你不想讓女僕訪問終端，在線纜的一側貼禁止訪問即可。$(br2)另外，如果女僕需求終端內沒存但可合成的物品，女僕會自己向ae下單來獲取物品。"
+        },
+        {
+            "type": "image",
+            "title": "被禁止訪問的ME終端",
+            "images": [
+                "maid_storage_manager:textures/book/ae21.png"
+            ]
+        }
+    ]
+}

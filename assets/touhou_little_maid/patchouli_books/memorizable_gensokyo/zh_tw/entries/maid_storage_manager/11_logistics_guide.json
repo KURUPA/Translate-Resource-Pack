@@ -1,0 +1,30 @@
+﻿{
+    "sortnum": 9,
+    "name": "物流指南",
+    "icon": "maid_storage_manager:logistics_guide",
+    "category": "touhou_little_maid:maid_storage_manager",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "maid_storage_manager:logistics_guide",
+            "text": "用物流指南來教會女僕搬運物品！潛行右鍵為物流指南綁定物品取出/存入的位置，潛行滾輪修改當前綁定項。$(br2)打開物品GUI，女僕的左右會渲染物品存取的容器，右下角的按鈕可以設置女僕一次搬運一個物品還是一組物品。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "maid_storage_manager:textures/book/logistics.png"
+            ],
+            "title": "物流指南",
+            "text": "（配置好後，記得將物流指南放到女僕的飾品欄）"
+        },
+        {
+            "type": "text",
+            "title": "更智慧的物流",
+            "text": "在GUI左上方的格子放入過濾器或合成指南，會添加以下功能：$(br)$(l:maid_storage_manager/2_filter)過濾器$(/l)：女僕搬運物品時會遵從過濾器指示。$(br)$(l:maid_storage_manager/8_craft_guide)合成指南$(/l)：女僕會從“取出”位置的容器取出原料，合成出對應產物後放到“存入”位置的容器。$(br2)Tips：如果女僕有多個物流指南，她會輪流執行每一個任務。"
+        },
+        {
+            "type": "altar_recipe",
+            "recipe_id": "maid_storage_manager:logistics_guide"
+        }
+    ]
+}

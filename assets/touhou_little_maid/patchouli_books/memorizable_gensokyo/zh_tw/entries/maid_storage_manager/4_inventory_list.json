@@ -1,0 +1,40 @@
+﻿{
+    "sortnum": 4,
+    "name": "庫存清單",
+    "icon": "maid_storage_manager:inventory_list",
+    "category": "touhou_little_maid:maid_storage_manager",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "maid_storage_manager:written_inventory_list",
+            "text": "庫存清單可以讓你清楚地知道倉庫裡面現有什麼、可以合成什麼(詳見$(l:maid_storage_manager/7_craft)自動合成$(/l))。$(br2)合成一個空的庫存清單，或在工作檯上重設一個寫過的庫存清單，再將它交給女僕(丟給她，右鍵她，甚至打開背包放進去！)$(br)寫好後，女僕會將庫存清單丟出來。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "maid_storage_manager:textures/book/inventory.png"
+            ],
+            "title": "記錄過的庫存清單"
+        },
+        {
+            "type": "text",
+            "title": "尋找物品",
+            "text": "庫存清單的GUI下方可以切換排序和篩選的模式，方便你找到物品。$(br2)在查看庫存清單時，你可以點擊某一物品來讓它儲存的位置被標記，在尋找物品時非常方便。$(br2)Tips:你可以按下“透視標記框”($(k:maid_storage_manager.see_through_mark_box)鍵)來讓高亮框穿牆顯示，此功能適用於本模組所有的高亮框。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "maid_storage_manager:textures/book/inventory2.png"
+            ],
+            "title": "存著番茄的箱子"
+        },
+        {
+            "type": "text",
+            "text": "提示：如果你的背包中有[庫存清單]，則當從JEI/EMI轉移配方時，會優先取倉庫中數量較多或可以合成的物品。"
+        },
+        {
+            "type": "altar_recipe",
+            "recipe_id": "maid_storage_manager:inventory_list"
+        }
+    ]
+}
