@@ -1,0 +1,19 @@
+{
+    "task.maid_useful_task.maid_tree": "伐木",
+    "task.maid_useful_task.maid_tree.desc": "女僕會砍伐身邊的原木並種下樹苗",
+    "task.maid_useful_task.locate": "定位",
+    "task.maid_useful_task.locate.desc": "女僕會根據手持物品定位指定的結構或你的出生點",
+    "task.maid_useful_task.revive_player": "救援玩家",
+    "task.maid_useful_task.revive_player.desc": "女僕會救援附近倒地的玩家",
+    "key.maid_useful_tasks.switch_vehicle_control": "切換載具控制模式",
+    "maid_useful_task.allow_handle_vehicle.none": "不允許女僕控制載具",
+    "maid_useful_task.allow_handle_vehicle.rot_only": "只允許女僕控制旋轉",
+    "maid_useful_task.allow_handle_vehicle.full": "允許女僕控制載具",
+    "key.maid_useful_tasks.categories.main": "女僕實用任務",
+    "gui.maid_useful_task.logging.plant": "種植樹苗",
+    "gui.maid_useful_task.no": "否",
+    "gui.maid_useful_task.yes": "是",
+    "gui.maid_useful_task.revive.ownerOnly": "只救援主人",
+    "gui.maid_useful_task.logging.block_up": "上搭方塊",
+    "gui.maid_useful_task.logging.skip_non_nature": "跳過非自然原木"
+}
