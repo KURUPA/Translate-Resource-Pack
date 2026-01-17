@@ -1,0 +1,6 @@
+{
+    "config.jade.plugin_friendly_villagers.villager_inventory": "顯示村民背包",
+    "text.friendly_villagers.position": "位置是: ",
+    "text.friendly_villagers.villager_inventory": "打開村民背包",
+    "text.friendly_villagers.mob_hurt_mob": "%s 毆打了 %s"
+}
