@@ -1,0 +1,11 @@
+{
+    "message.carryonextend.power_level": "投擲力量: %1$s/%2$s (%3$s%%)",
+    "advancement.carryonextend.root.title": "攜帶擴展",
+    "advancement.carryonextend.root.description": "丟出你抱著的物品",
+    "advancement.carryonextend.tnt_thrower.title": "TNT投擲者",
+    "advancement.carryonextend.tnt_thrower.description": "投擲一個點燃的TNT",
+    "advancement.carryonextend.self_destruction.title": "玉面手榴彈王",
+    "advancement.carryonextend.self_destruction.description": "被自己投擲的TNT炸死",
+    "advancement.carryonextend.player_throw.title": "裝X我讓你飛起來",
+    "advancement.carryonextend.player_throw.description": "投擲一個玩家"
+}
