@@ -1,0 +1,13 @@
+{
+    "block.hoppergadgetry.chute": "溜槽",
+    "block.hoppergadgetry.duct": "輸送管",
+    "block.hoppergadgetry.grated_hopper": "格柵漏斗",
+    "container.chute": "物品溜槽",
+    "container.duct": "物品輸送管",
+    "container.grated_hopper": "格柵漏斗",
+    "entity.hoppergadgetry.chute_minecart": "附溜槽礦車",
+    "entity.hoppergadgetry.grated_hopper_minecart": "附格柵漏斗礦車",
+    "item.hoppergadgetry.chute_minecart": "溜槽礦車",
+    "item.hoppergadgetry.grated_hopper_minecart": "格柵漏斗礦車",
+    "itemGroup.hoppergadgetry.main": "漏斗小裝置"
+}
