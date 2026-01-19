@@ -1,0 +1,14 @@
+{
+    "foodeffecttooltips.food.whenEaten": "食用後：",
+    "config.foodeffecttooltips.title": "食物效果顯示",
+    "cloth_config.FoodEffectTooltips.category.general": "一般設定",
+    "foodeffecttooltips.food.withChance": "%s [%d%%]",
+    "cloth_config.FoodEffectTooltips.ShowSuspiciousStewTooltips": "顯示謎之燉湯提示",
+    "cloth_config.FoodEffectTooltips.UseAs白色listInstead": "將清單改為白名單",
+    "cloth_config.FoodEffectTooltips.黑色listedItemIdentifiers": "黑名單物品識別碼",
+    "cloth_config.FoodEffectTooltips.黑色listedModsIDs": "黑名單模組 ID",
+    "text.cloth_config.FoodEffectTooltips.option.ShowSuspiciousStewTooltips": "顯示謎之燉湯的食物效果工具提示",
+    "text.cloth_config.FoodEffectTooltips.option.UseAs白色listInstead": "將下方清單改為白名單使用",
+    "text.cloth_config.FoodEffectTooltips.option.黑色listedItemIdentifiers": "黑名單物品識別碼 (Item Identifiers)",
+    "text.cloth_config.FoodEffectTooltips.option.黑色listedModsIDs": "黑名單模組 ID (Mod IDs)"
+}
