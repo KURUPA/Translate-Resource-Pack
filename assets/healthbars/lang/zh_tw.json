@@ -1,0 +1,5 @@
+{
+    "key.categories.healthbars": "血量條",
+    "key.toggle_health_bars": "切換血量條",
+    "key.toggle_health_bars.message": "顯示血量條: %s"
+}
