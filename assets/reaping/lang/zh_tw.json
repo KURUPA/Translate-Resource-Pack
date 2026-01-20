@@ -1,0 +1,20 @@
+{
+    "config.reaping.allowReapingPlayers": "允許收割玩家",
+    "config.reaping.allowReapingPlayers.tooltip": "是否允許玩家被收割",
+    "config.reaping.discord": "在 Discord 上交流",
+    "config.reaping.github": "在 GitHub 上回報 Bug 與請求新功能",
+    "config.reaping.modrinth": "在 Modrinth 上檢查更新",
+    "item.reaping.iron_reaper": "鐵製收割刀",
+    "item.reaping.gold_reaper": "金製收割刀",
+    "item.reaping.diamond_reaper": "鑽石收割刀",
+    "item.reaping.netherite_reaper": "獄髓收割刀",
+    "item.reaping.humanoid_meat": "可疑的肉",
+    "effect.reaping.shrink": "縮小",
+    "enchantment.reaping.bluntness_curse": "鈍化詛咒",
+    "enchantment.reaping.bluntness_curse.desc": "增加動物在被收割時死亡的機率。",
+    "advancements.reaping.humanoid_meat.title": "不太好吃...",
+    "advancements.reaping.humanoid_meat.description": "你在吃之前應該再三考慮的。",
+    "advancements.reaping.netherite_reaper.title": "你為什麼要這麼做？",
+    "advancements.reaping.netherite_reaper.description": "說正經的，坐下來問問你自己：「我到底為什麼要這樣做？」",
+    "stat.reaping.use_reaper_tool": "收割工具使用次數"
+}
