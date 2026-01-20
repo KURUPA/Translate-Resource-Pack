@@ -1,0 +1,5 @@
+{
+    "advancements.adventure.trim_with_any_armor_pattern.description": "在鍛造台中對工具或盔甲進行紋樣裝飾",
+    "item.minecraft.smithing_template.armor_trim.base_slot_description": "添加工具或盔甲",
+    "item.minecraft.smithing_template.armor_trim.applies_to": "盔甲與工具"
+}
