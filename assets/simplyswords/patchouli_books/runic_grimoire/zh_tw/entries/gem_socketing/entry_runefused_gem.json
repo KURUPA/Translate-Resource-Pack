@@ -1,0 +1,20 @@
+﻿{
+    "name": "符文寶石",
+    "icon": "simplyswords:runefused_gem",
+    "category": "simplyswords:category_gem_socketing",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:runefused_gem",
+            "text": "符文寶石可以在鍛造台中將強能結晶和符文石板鍛造合成。在點擊鑑定之後，它們會隨機揭示一個能力。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "符文寶石可以鑲嵌進獨特武器的[符文槽]。符文寶石的能力只有攻擊時觸發。"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "simplyswords:runefused_gem"
+        }
+    ]
+}

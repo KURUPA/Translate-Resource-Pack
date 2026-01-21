@@ -1,0 +1,22 @@
+﻿{
+    "name": "沉眠遺劍",
+    "icon": "simplyswords:dormant_relic",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:dormant_relic",
+            "text": "沉睡遺劍是一把特殊的神秘的武器。它初看是一把普通的不起眼的劍，但它可以通過合成，逐漸解封隱藏的力量。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:righteous_relic",
+            "recipe2": "simplyswords:tainted_relic"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:sunfire",
+            "recipe2": "simplyswords:harbinger"
+        }
+    ]
+}

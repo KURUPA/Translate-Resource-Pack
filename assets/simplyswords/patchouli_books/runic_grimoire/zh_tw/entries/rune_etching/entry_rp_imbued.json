@@ -1,0 +1,17 @@
+﻿{
+    "name": "淬魔",
+    "icon": "simplyswords:runic_tablet",
+    "category": "simplyswords:category_rune_etching",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:runic_tablet",
+            "title": "淬魔",
+            "text": "淬魔符文注入了$(#389fff)$(l)魔法$()的精華. $(br2)它可以讓武器攻擊時釋放隱藏的魔法力量攻擊敵人。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "該符文造成的傷害是有機率的，且會額外消耗武器的耐久。最好是保證這種武器隨時得到修復。"
+        }
+    ]
+}

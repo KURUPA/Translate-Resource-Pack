@@ -1,0 +1,17 @@
+﻿{
+    "name": "弱化",
+    "icon": "simplyswords:runic_tablet",
+    "category": "simplyswords:category_rune_etching",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:runic_tablet",
+            "title": "弱化",
+            "text": "弱化符文給武器提供了$(#87185d)$(l)枯萎()的精華。$(br2)它能在攻擊時減速並虛弱目標。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "該符文的虛弱效果可以有很多作用(譯者：比如拿來治癒殭屍村民)。$(br2)它很適合近戰玩家，降低敵人的傷害來讓自己攻擊機會更多。"
+        }
+    ]
+}

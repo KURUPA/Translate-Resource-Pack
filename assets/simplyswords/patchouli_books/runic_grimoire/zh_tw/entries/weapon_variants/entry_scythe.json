@@ -1,0 +1,26 @@
+﻿{
+    "name": "長柄鐮",
+    "icon": "simplyswords:iron_scythe",
+    "category": "simplyswords:category_weapon_variants",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:iron_scythe",
+            "text": "長柄鐮是一種重型的鋒利武器，揮舞時可造成大量傷害。長柄鐮裝有大型的彎曲刀刃和長柄，使得它能夠進行大範圍的斬擊和劈砍攻擊。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:iron_scythe",
+            "recipe2": "simplyswords:gold_scythe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:diamond_scythe"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "simplyswords:netherite_scythe",
+            "recipe2": "simplyswords:runic_scythe"
+        }
+    ]
+}

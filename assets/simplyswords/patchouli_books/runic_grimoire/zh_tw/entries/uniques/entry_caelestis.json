@@ -1,0 +1,11 @@
+﻿{
+    "icon": "simplyswords:caelestis",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:caelestis",
+            "text": "一把奇異的武器，其刀刃與星界相通。它能賦予使用者遁入星界的能力，短暫免疫傷害。"
+        }
+    ]
+}

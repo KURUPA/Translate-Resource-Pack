@@ -1,0 +1,17 @@
+﻿{
+    "name": "漂浮",
+    "icon": "simplyswords:runic_tablet",
+    "category": "simplyswords:category_rune_etching",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:runic_tablet",
+            "title": "漂浮",
+            "text": "該符文可以讓使用者利用漂浮的力量，操縱重力，反轉攻擊目標的重力。$(br2)它使持有者有機率讓敵人離開地面，使他們暫時無法移動或攻擊。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "漂浮是一種強大的符文，能干擾戰鬥節奏，讓持有者占據優勢。$(br2)它適合喜歡輔助和團控的玩家，他們可以使用這個能力控制敵人，給隊友攻擊的機會。"
+        }
+    ]
+}

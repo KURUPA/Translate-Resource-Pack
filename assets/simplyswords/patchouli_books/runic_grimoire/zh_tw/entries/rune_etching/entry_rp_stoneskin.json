@@ -1,0 +1,17 @@
+﻿{
+    "name": "石膚",
+    "icon": "simplyswords:runic_tablet",
+    "category": "simplyswords:category_rune_etching",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:runic_tablet",
+            "title": "石膚",
+            "text": "石膚符文給武器注入$(#916f49)$(l)大地與岩石$()的魔法。$(br2)它使持有者在攻擊時有機率提高自己的抗性，但降低速度。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "這個符文擁有很強的防禦作用。$(br2)它可能對喜歡靈活機動的玩家是一個缺點，但抗性提升的效果可以彌補這一點。"
+        }
+    ]
+}

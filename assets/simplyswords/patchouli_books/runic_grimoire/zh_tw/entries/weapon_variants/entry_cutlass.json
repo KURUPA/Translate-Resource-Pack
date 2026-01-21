@@ -1,0 +1,26 @@
+﻿{
+    "name": "彎刀",
+    "icon": "simplyswords:iron_cutlass",
+    "category": "simplyswords:category_weapon_variants",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:iron_cutlass",
+            "text": "彎刀適合近距離的切砍和刺擊，在船上的近戰攻擊尤為適用。因此彎刀被海上的人們所喜愛。它的刀刃形狀除了能加強砍切，還適合切肉、割繩子。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:iron_cutlass",
+            "recipe2": "simplyswords:gold_cutlass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:diamond_cutlass"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "simplyswords:netherite_cutlass",
+            "recipe2": "simplyswords:runic_cutlass"
+        }
+    ]
+}

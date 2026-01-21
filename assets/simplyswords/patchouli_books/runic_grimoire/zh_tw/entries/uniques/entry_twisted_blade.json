@@ -1,0 +1,16 @@
+﻿{
+    "name": "扭曲波刃劍",
+    "icon": "simplyswords:twisted_blade",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:twisted_blade",
+            "text": "扭曲波刃劍是一把令人生畏的大劍，以其獨特而致命的設計聞名。這把劍是由一種特殊的鋼製造，能在打擊時改變自身的形狀。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "這種扭曲的特性賦予了武器前所未有的速度和力量，在戰場中尤為致命。這把劍的特殊能力是每次攻擊都能提高速度，這使得它極為致命，快速的攻擊可以迅速削弱對手的防禦並打出致命一擊。此外，它獨特的設計也難以被格擋或招架。"
+        }
+    ]
+}

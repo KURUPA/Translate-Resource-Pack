@@ -1,0 +1,26 @@
+﻿{
+    "name": "戰刃",
+    "icon": "simplyswords:iron_warglaive",
+    "category": "simplyswords:category_weapon_variants",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:iron_warglaive",
+            "text": "戰刃擁有很高的速度和靈活性，尤其是雙持，可以利用鋒利的刀刃打出快速而致命的連擊。它需要持有者非常靈活，才能在戰場上高效發揮。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:iron_warglaive",
+            "recipe2": "simplyswords:gold_warglaive"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:diamond_warglaive"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "simplyswords:netherite_warglaive",
+            "recipe2": "simplyswords:runic_warglaive"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+﻿{
+    "name": "動能",
+    "icon": "simplyswords:runic_tablet",
+    "category": "simplyswords:category_rune_etching",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:runic_tablet",
+            "title": "動能",
+            "text": "動能符文為武器提供$(#389fff)$(l)動能$()的精華. $(br2)它能產生向前的推力，推動持有者向前移動。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "該符文的位移效果可以在戰鬥中發揮很大作用，能讓持有者快速切入戰場進行攻擊。"
+        }
+    ]
+}

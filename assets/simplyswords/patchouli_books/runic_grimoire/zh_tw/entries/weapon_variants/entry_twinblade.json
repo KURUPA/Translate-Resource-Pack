@@ -1,0 +1,26 @@
+﻿{
+    "name": "雙頭劍",
+    "icon": "simplyswords:iron_twinblade",
+    "category": "simplyswords:category_weapon_variants",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:iron_twinblade",
+            "text": "雙頭劍是一種需要高超的技巧和靈活性才能駕馭的武器。它由兩把劍刃組合在一起而成，因此它擁有很高的速度和精確度。它是一把強大的武器，但需要合適的人。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:iron_twinblade",
+            "recipe2": "simplyswords:gold_twinblade"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:diamond_twinblade"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "simplyswords:netherite_twinblade",
+            "recipe2": "simplyswords:runic_twinblade"
+        }
+    ]
+}

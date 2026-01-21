@@ -1,0 +1,16 @@
+﻿{
+    "name": "冰語",
+    "icon": "simplyswords:icewhisper",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:icewhisper",
+            "text": "冰語這把戟非常致命，只要手持它，就會散發弱化敵人的冰凍光環，減速周圍的敵人，並且造成持續的傷害。減速效果也方便後續的攻擊。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "除了冰凍光環，該武器還可以召喚出一陣暴風雪，將戰場籠罩在冰天雪地之中。暴風雪會持續造成傷害，並且減速他們，讓敵人難以發現自己，為自己提供優勢。據說這把戟是用最純淨的冰打造的，它閃爍著冰冷的藍光。"
+        }
+    ]
+}

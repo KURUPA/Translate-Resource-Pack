@@ -1,0 +1,17 @@
+﻿{
+    "name": "加護",
+    "icon": "simplyswords:runic_tablet",
+    "category": "simplyswords:category_rune_etching",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:runic_tablet",
+            "title": "加護",
+            "text": "加護符文的能力很強，但也有風險。它可以給持有者提供一個護盾抵抗傷害。啟用時，持有者會消耗一半的生命值，在周圍形成一個屏障吸收傷害。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "護盾持續 6 秒，並且每次發出脈衝都會提供一層吸收效果。護盾的強度隨著當前生命值增加而提高。對於那些喜歡冒險的玩家來說，這個符文可以作為防禦選擇。"
+        }
+    ]
+}

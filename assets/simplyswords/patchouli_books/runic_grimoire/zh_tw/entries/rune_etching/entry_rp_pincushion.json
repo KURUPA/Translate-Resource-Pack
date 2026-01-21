@@ -1,0 +1,17 @@
+﻿{
+    "name": "針墊",
+    "icon": "simplyswords:runic_tablet",
+    "category": "simplyswords:category_rune_etching",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:runic_tablet",
+            "title": "針墊",
+            "text": "針墊符文為武器注入了$(#d1422c)$(l)反擊$()的精華。$(br2)它能使武器根據持有者身上的箭矢數量造成額外的傷害。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "裝備了這個符文的玩家會真的如符文的名字一樣變成“針墊”，弓箭手要想射擊他們之前得三思了。持有者中箭越多，他就越強，戰場上的威脅就越大。"
+        }
+    ]
+}

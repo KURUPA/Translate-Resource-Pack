@@ -1,0 +1,16 @@
+﻿{
+    "name": "縱雷",
+    "icon": "simplyswords:thunderbrand",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:thunderbrand",
+            "text": "縱雷是一把傳奇的能駕馭雷電的戟。它由一種導電性非常好的稀有金屬打造。柄上包裹一種特殊的絕緣材料，使用者可以安全地握持。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "該武器的特殊能力可以使持有者向前衝刺，拉近距離並以致命的精度進行攻擊。它在蓄力施放時還能放出強大的電流，同時攻擊多個敵人，使得它成為戰場上的可怕殺器。"
+        }
+    ]
+}

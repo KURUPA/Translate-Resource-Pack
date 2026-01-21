@@ -1,0 +1,16 @@
+﻿{
+    "name": "寶石鑲嵌機制",
+    "icon": "simplyswords:netherfused_gem",
+    "category": "simplyswords:category_gem_socketing",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:netherfused_gem",
+            "text": "要想鑲嵌寶石，您必須在物品欄中有寶石和對應的空寶石槽武器（符文寶石-符文槽，獄靈寶石-獄靈槽）"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "打開物品欄之後，左鍵點擊寶石取出，然後點擊武器即可將寶石鑲嵌到武器上。寶石物品會消失，武器獲得寶石的能力。"
+        }
+    ]
+}

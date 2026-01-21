@@ -1,0 +1,17 @@
+﻿{
+    "name": "霜衛",
+    "icon": "simplyswords:runic_tablet",
+    "category": "simplyswords:category_rune_etching",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:runic_tablet",
+            "title": "霜衛",
+            "text": "霜衛符文附加了$(#38caff)$(l)寒冰$()的力量。$(br2)它能夠召喚一個守衛，持續發射雪球攻擊範圍內的敵人。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "霜衛適合擅長防禦的玩家，他們可以用雪球控制戰場。"
+        }
+    ]
+}

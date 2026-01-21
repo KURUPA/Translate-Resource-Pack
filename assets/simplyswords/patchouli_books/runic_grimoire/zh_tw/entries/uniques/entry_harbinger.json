@@ -1,0 +1,10 @@
+﻿{
+    "icon": "simplyswords:harbinger",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:harbinger"
+        }
+    ]
+}

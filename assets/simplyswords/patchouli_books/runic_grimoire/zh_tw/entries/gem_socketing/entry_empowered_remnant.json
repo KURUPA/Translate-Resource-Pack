@@ -1,0 +1,20 @@
+﻿{
+    "name": "強能結晶",
+    "icon": "simplyswords:empowered_remnant",
+    "category": "simplyswords:category_gem_socketing",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:empowered_remnant",
+            "text": "強能結晶可以在熔爐中燒煉獨特武器獲得。獨特武器經過燒煉之後被摧毀，一部分力量形成強能結晶保留。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "在鍛造台中將強能結晶和符文石板或獄髓結晶鍛造合成時，就會合成寶石。這些寶石可以鑲嵌進對應的寶石槽中，用多樣的方式強化你的獨特武器。"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "simplyswords:unique_melting"
+        }
+    ]
+}

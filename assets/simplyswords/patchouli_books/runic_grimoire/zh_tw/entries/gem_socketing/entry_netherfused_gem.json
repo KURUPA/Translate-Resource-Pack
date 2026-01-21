@@ -1,0 +1,20 @@
+﻿{
+    "name": "獄靈寶石",
+    "icon": "simplyswords:netherfused_gem",
+    "category": "simplyswords:category_gem_socketing",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:netherfused_gem",
+            "text": "獄靈寶石可以在鍛造台中將獄髓和強能結晶鍛造合成。在點擊鑑定之後，它們會隨機揭示一個能力。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "獄靈寶石可以嵌入獨特武器的[獄靈槽]。"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "simplyswords:netherfused_gem"
+        }
+    ]
+}

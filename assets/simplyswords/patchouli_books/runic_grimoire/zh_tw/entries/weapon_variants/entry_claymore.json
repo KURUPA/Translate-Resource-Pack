@@ -1,0 +1,26 @@
+﻿{
+    "name": "闊劍",
+    "icon": "simplyswords:iron_claymore",
+    "category": "simplyswords:category_weapon_variants",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:iron_claymore",
+            "text": "闊劍是一種雙手使用、可以切割和刺擊的重型武器，歷史上蘇格蘭勇士會在戰鬥中使用闊劍。它依靠巨大的體積和重量對敵人進行毀滅性的打擊。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:iron_claymore",
+            "recipe2": "simplyswords:gold_claymore"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:diamond_claymore"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "simplyswords:netherite_claymore",
+            "recipe2": "simplyswords:runic_claymore"
+        }
+    ]
+}

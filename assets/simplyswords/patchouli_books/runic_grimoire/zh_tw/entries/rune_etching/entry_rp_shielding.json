@@ -1,0 +1,17 @@
+﻿{
+    "name": "庇佑",
+    "icon": "simplyswords:runic_tablet",
+    "category": "simplyswords:category_rune_etching",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:runic_tablet",
+            "title": "庇佑",
+            "text": "庇佑符文給武器注入$(#389fff)$(l)保護$()的精髓。$(br2)它能讓持有者每次攻擊都有可能獲得一層傷害吸收效果。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "這個符文強大的保護作用不言而喻。它非常適合喜歡做坦克吸收傷害的玩家。$(br2)對那些喜歡近距離輸出的玩家也很有用，因為傷害吸收效果可以讓他們在敵人中間堅持更久。"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+﻿{
+    "name": "細劍",
+    "icon": "simplyswords:iron_rapier",
+    "category": "simplyswords:category_weapon_variants",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:iron_rapier",
+            "text": "細劍是流行於16~17世紀的歐洲上流社會的武器，一般用於決鬥和平民的自衛。細劍在歷史上以快速、精準的攻擊和優雅的造型著稱。由於劍身細長，細劍需要一定的技巧和策略才能駕馭。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:iron_rapier",
+            "recipe2": "simplyswords:gold_rapier"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:diamond_rapier"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "simplyswords:netherite_rapier",
+            "recipe2": "simplyswords:runic_rapier"
+        }
+    ]
+}

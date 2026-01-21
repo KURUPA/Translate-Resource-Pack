@@ -1,0 +1,17 @@
+﻿{
+    "name": "主動防禦",
+    "icon": "simplyswords:runic_tablet",
+    "category": "simplyswords:category_rune_etching",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:runic_tablet",
+            "title": "主動防禦",
+            "text": "主動防禦符文給武器注入$(#389fff)$(l)保護$()的精華。$(br2)它可以讓持有者自動向周圍敵人射箭，只要物品欄中有足夠的箭矢。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "請注意，發動這個能力要求持有者物品欄中有足夠的箭。如果箭用完了，這個能力將無法發動。你必須重新獲得箭才能繼續使用能力。$(br2)這個能力是喜歡風箏別人和群控玩家的理想選擇，持有者可以通過走位自動射箭阻擋敵人。"
+        }
+    ]
+}
