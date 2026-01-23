@@ -1,0 +1,20 @@
+{
+    "curios.identifier.pandora": "潘多拉串飾",
+    "curios.modifiers.pandora": "作為潘多拉串飾時：",
+    "item.pandora.pandora_bracelet": "潘多拉手環",
+    "item.pandora.pandora_necklace": "潘多拉項鍊",
+    "itemGroup.l2core.pandora": "潘多拉",
+    "pandora.menu.invalid": "已移除欄位",
+    "pandora.menu.title": "潘多拉串飾",
+    "pandora.title": "潘多拉",
+    "pandora.tooltip.contain": "已串上 %s 個潘多拉串飾",
+    "pandora.tooltip.duplicate": "你可以在一個潘多拉飾品中裝載複數此串飾",
+    "pandora.tooltip.holder": "最多能串上 %s 個潘多拉串飾",
+    "pandora.tooltip.shift": "按住 [SHIFT] 顯示內容物，右鍵點擊物品編輯內容",
+    "pandora.configuration.section.l2configs.pandora.client.toml": "潘多拉 API 客戶端配置",
+    "pandora.configuration.section.l2configs.pandora.client.toml.title": "潘多拉 API 客戶端配置",
+    "pandora.configuration.section.l2configs.pandora.server.toml": "潘多拉 API 伺服器配置",
+    "pandora.configuration.section.l2configs.pandora.server.toml.title": "潘多拉 API 伺服器配置",
+    "pandora.configuration.showItemTitle": "在潘多拉分頁中顯示容器物品名稱",
+    "pandora.configuration.title": "潘多拉 API 配置"
+}
