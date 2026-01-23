@@ -1,4 +1,4 @@
-﻿{
+{
     "name": "遊戲後期",
     "icon": "irons_spellbooks:arcane_anvil",
     "category": "irons_spellbooks:root",
@@ -33,7 +33,7 @@
         },
         {
             "type": "patchouli:entity",
-            "name": "冰霜術士套裝",
+            "name": "冰霜术士套装",
             "entity": "minecraft:armor_stand{ArmorItems:[{id:'irons_spellbooks:cryomancer_boots',Count:1b},{id:'irons_spellbooks:cryomancer_leggings',Count:1b},{id:'irons_spellbooks:cryomancer_chestplate',Count:1b},{id:'irons_spellbooks:cryomancer_helmet',Count:1b}],NoBasePlate:1b}",
             "text": "流派裝甲由奧術布料(arcane cloth)和特定流派符文製成，並遵循以下模板"
         },
@@ -53,6 +53,12 @@
             "name": "升級製作材料",
             "enable_visualize": false,
             "multiblock": {
+                "pattern": [
+                    [
+                        " D S ",
+                        "DA0PF"
+                    ]
+                ],
                 "mapping": {
                     "D": "minecraft:deepslate",
                     "A": "irons_spellbooks:deepslate_mithril_ore",

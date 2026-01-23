@@ -1,4 +1,4 @@
-﻿{
+{
     "name": "墨水",
     "icon": "irons_spellbooks:epic_ink",
     "category": "irons_spellbooks:root",
@@ -18,7 +18,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "irons_spellbooks:rare_ink",
-            "text": "稀有墨水應該可以經常在魔法寶箱中找到，或者透過殺死會施法的小怪來獲得。"
+            "text": "稀有墨水應該可以經常在魔法寶箱中找到，或者通過殺死會施法的小怪來獲得。"
         },
         {
             "type": "patchouli:spotlight",
