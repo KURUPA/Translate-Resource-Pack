@@ -1,0 +1,16 @@
+﻿{
+    "name": "葬魂",
+    "icon": "simplyswords:soulpyre",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:soulpyre",
+            "text": "葬魂是一把強大的上古戰斧，據說它包含著靈魂、火焰、移形換位的多重力量。這把戰斧據說是由一種神秘的稀有金屬鍛造的，注入了無數個靈魂。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "該武器的獨特能力：施放時轉移目標的靈魂，使持有者與目標交換位置。它還可以釋放被困的靈魂，釋放出毀滅性的熾熱能量。"
+        }
+    ]
+}

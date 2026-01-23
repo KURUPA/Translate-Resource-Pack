@@ -1,0 +1,21 @@
+﻿{
+    "name": "巫妖巨劍",
+    "icon": "simplyswords:slumbering_lichblade",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:slumbering_lichblade",
+            "text": "巫妖巨劍是一把散發痛苦靈魂的大劍，會持續對附近敵人造成傷害。據說這把劍是用一個強大的巫妖的遺骨打造而成，注入了它吞噬過的靈魂。有時候，能聽到一些邪惡的低語從劍上傳出。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "然而，一開始的巫妖巨劍處於沉眠狀態，其真正力量尚未解封。通過特殊的合成儀式，可以逐漸解封劍的更強能力。完全覺醒的巫妖巨劍可以命令靈魂攻擊敵人，吸取它們的生命並回復持有者。這是一種威力巨大的武器，請小心使用。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:waking_lichblade",
+            "recipe2": "simplyswords:awakened_lichblade"
+        }
+    ]
+}

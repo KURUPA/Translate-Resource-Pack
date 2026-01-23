@@ -1,0 +1,16 @@
+﻿{
+    "name": "瘟疫長劍",
+    "icon": "simplyswords:toxic_longsword",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:toxic_longsword",
+            "text": "瘟疫長劍是一把被詛咒的武器，能夠將敵人身上的「增益效果」（如生命再生或抗性提升）轉化為虛弱不堪的減益狀態。這會讓敵人陷入虛弱且易受攻擊的境地，使持劍者在戰鬥中佔據絕對優勢。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "據說這把劍是由一場大瘟疫受害者的遺骸鍛造而成，並灌注了黑暗魔法。它散發著令人不安的腐敗氣息，對於想要干擾敵人並反轉戰局的戰士來說，這把武器是絕佳的選擇。"
+        }
+    ]
+}

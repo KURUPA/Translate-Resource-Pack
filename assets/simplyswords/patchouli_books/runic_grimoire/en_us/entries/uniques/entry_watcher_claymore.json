@@ -1,0 +1,16 @@
+﻿{
+    "name": "監視之眼",
+    "icon": "simplyswords:watcher_claymore",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:watcher_claymore",
+            "text": "「監視之眼」是一把大劍，劍柄上嵌著一顆令人毛骨悚然且不斷眨動的眼睛，據說那是其力量的泉源。它的劍身由一種深邃到近乎純黑的金屬製成，彷彿能吸收周遭的一切光線。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "監視之眼以能一擊必殺任何敵人而聞名，但據說這只有在使用者處於極度專注，且敵人已陷入垂死狀態時才會觸發。相傳只有真正的戰士——擁有堅強意志並對力量充滿渴望的人，才能駕馭監視之眼並發揮其全部潛能。"
+        }
+    ]
+}

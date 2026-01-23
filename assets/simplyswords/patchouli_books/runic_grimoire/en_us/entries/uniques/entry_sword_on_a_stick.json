@@ -1,0 +1,16 @@
+﻿{
+    "name": "綁棍的長劍",
+    "icon": "simplyswords:sword_on_a_stick",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:sword_on_a_stick",
+            "text": "這把劍是一把究極傳奇的武器，據說是一個偉大的戰士家族持有並代代相傳。它的事跡在整個大陸各地傳頌，所有聽到它的故事的人無不對它感到萬分敬畏。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "上一頁的內容都是編的。細想一下，這就是一把劍然後在劍柄綁了根棍子。"
+        }
+    ]
+}

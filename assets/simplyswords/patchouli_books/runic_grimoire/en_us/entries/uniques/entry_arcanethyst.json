@@ -1,0 +1,16 @@
+﻿{
+    "name": "奧術紫晶戟",
+    "icon": "simplyswords:arcanethyst",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:arcanethyst",
+            "text": "奧術紫晶戟使用一種類似心靈感應的魔法操控敵人。它由注入魔力的紫水晶打造而成。據說紫水晶是魔力傳播的良好媒介。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "該武器的獨特能力需要按住右鍵施放，發出的奧術衝擊能使目標飄浮，並持續造成傷害。這個技能不僅能讓目標浮空從而便於追擊，還可以對目標造成大量的傷害，但是需要目標盡量長時間地在武器的攻擊範圍內才能發揮最大效果。"
+        }
+    ]
+}

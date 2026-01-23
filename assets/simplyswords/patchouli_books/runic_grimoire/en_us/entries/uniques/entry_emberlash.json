@@ -1,0 +1,12 @@
+﻿{
+    "name": "餘燼鞭撻",
+    "icon": "simplyswords:emberlash",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:emberlash",
+            "text": "這是一把非常規的匕首。它不同於傳統武器的工藝，直接使用純粹的可控的火焰作為刀刃。它不僅是外觀驚艷：耀眼的刀刃可以燒灼傷口，而且它比相似重量的武器攻擊範圍更廣。"
+        }
+    ]
+}

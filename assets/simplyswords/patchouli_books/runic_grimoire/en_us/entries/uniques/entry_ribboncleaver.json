@@ -1,0 +1,12 @@
+﻿{
+    "name": "榮緞劈刀",
+    "icon": "simplyswords:ribboncleaver",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:ribboncleaver",
+            "text": "作者有點懶，背景故事還沒寫。"
+        }
+    ]
+}

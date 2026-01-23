@@ -1,0 +1,12 @@
+﻿{
+    "name": "腐朽遺杖",
+    "icon": "simplyswords:decaying_relic",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:decaying_relic",
+            "text": "讓黑暗引領你前往源頭……$(br2)譯者註：該武器可以在深暗之域的冒險中進化。$(br)秘法雙頭劍 - 手持該武器站在幽匿感測體上$(br)秘法之矛 - 物品欄中持有該武器時受到監守者的黑暗效果$(br)秘法之鐮 - 手持該武器時被監守者的音波擊中"
+        }
+    ]
+}

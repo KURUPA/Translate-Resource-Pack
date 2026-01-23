@@ -1,0 +1,16 @@
+﻿{
+    "name": "硫磺闊劍",
+    "icon": "simplyswords:brimstone_claymore",
+    "category": "simplyswords:category_unique_weapons",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "simplyswords:brimstone_claymore",
+            "text": "硫磺闊劍是一把令人畏懼的武器，它利用熔融硫磺的力量對敵人造成毀滅性的傷害。這把闊劍的刀刃中灌注了硫磺之力，使其在每次揮擊時都有機率噴吐出熾熱的岩漿。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "這件武器極其沉重，需要強大的使用者才能妥善操縱。使用時必須格外小心，因為它的力量可能會對環境及周遭的任何人造成嚴重傷害。只有最熟練且強大的戰士才能有效地駕馭這把硫磺闊劍。"
+        }
+    ]
+}
