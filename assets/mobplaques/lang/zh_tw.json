@@ -1,0 +1,5 @@
+{
+    "key.categories.mobplaques": "生物資訊牌",
+    "key.toggle_plaques": "切換生物資訊牌顯示",
+    "key.toggle_plaques.message": "渲染生物資訊牌：%s"
+}
