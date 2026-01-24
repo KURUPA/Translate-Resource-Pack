@@ -6,5 +6,5 @@
     "gui.mouse_pets.mouse_pet_selector.toggle_hidden": "隱藏",
     "gui.mouse_pets.mouse_pet_selector.toggle_hotbar": "僅限快捷列",
     "gui.mouse_pets.mouse_pet_selector.toggle_mouse": "僅限滑鼠",
-    "gui.mouse_pets.mouse_pet_selector.tooltip_click_here_to_learn_how_to_load": "點擊此處了解如何載入自定義寵物"
+    "gui.mouse_pets.mouse_pet_selector.tooltip_click_here_to_learn_how_to_load": "點擊此處了解如何載入自訂寵物"
 }
