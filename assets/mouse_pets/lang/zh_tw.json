@@ -1,0 +1,10 @@
+{
+    "gui.mouse_pets.mouse_pet_selector.button_toggle": "切換",
+    "gui.mouse_pets.mouse_pet_selector.label_choose_your_pet": "選擇你的寵物！",
+    "gui.mouse_pets.mouse_pet_selector.label_empty": "渲染模式",
+    "gui.mouse_pets.mouse_pet_selector.toggle_both": "快捷列 + 滑鼠",
+    "gui.mouse_pets.mouse_pet_selector.toggle_hidden": "隱藏",
+    "gui.mouse_pets.mouse_pet_selector.toggle_hotbar": "僅限快捷列",
+    "gui.mouse_pets.mouse_pet_selector.toggle_mouse": "僅限滑鼠",
+    "gui.mouse_pets.mouse_pet_selector.tooltip_click_here_to_learn_how_to_load": "點擊此處了解如何載入自定義寵物"
+}
