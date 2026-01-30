@@ -1,0 +1,16 @@
+{
+    "biome.jamd.mining": "採礦平原",
+    "block.jamd.portal_block": "採礦維度傳送門",
+    "jamd.invalid.pos": "找不到有效的傳送門位置",
+    "jamd.invalid.world": "找不到世界「%s」",
+    "advancements.jamd.mining.description": "進入採礦維度",
+    "advancements.jamd.mining.title": "地底無極限",
+    "biome.jamd.end": "終界採礦場",
+    "biome.jamd.nether": "下界採礦場",
+    "block.jamd.end_portal": "終界採礦傳送門",
+    "block.jamd.nether_portal": "下界採礦傳送門",
+    "dimension.jamd.end": "終界採礦維度",
+    "dimension.jamd.mining": "採礦維度",
+    "dimension.jamd.nether": "下界採礦維度",
+    "jamd.argument.world_type.invalid": "無效的世界類型「%s」代碼"
+}
