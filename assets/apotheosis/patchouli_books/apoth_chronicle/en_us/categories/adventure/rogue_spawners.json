@@ -1,0 +1,7 @@
+﻿{
+    "name": "流氓生怪磚",
+    "description": "在洞穴中少量發現頂部有堅硬方塊的單個生怪磚，下面藏著一個箱子。$(p)由於它們沒有已知的來源、目的或主人，我們把它們稱為$(9)流氓生怪磚$()。",
+    "icon": "minecraft:spawner",
+    "flag": "apotheosis:adventure",
+    "parent": "apotheosis:adventure/adventure"
+}

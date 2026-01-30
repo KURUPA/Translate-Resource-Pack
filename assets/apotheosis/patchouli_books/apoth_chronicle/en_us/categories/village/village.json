@@ -1,0 +1,6 @@
+﻿{
+    "name": "村莊模組",
+    "description": "村莊模組增加了各種村莊和村民相關的東西。",
+    "icon": "minecraft:textures/mob_effect/hero_of_the_village.png",
+    "flag": "apotheosis:village"
+}

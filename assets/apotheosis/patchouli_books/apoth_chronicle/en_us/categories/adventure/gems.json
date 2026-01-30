@@ -1,0 +1,7 @@
+﻿{
+    "name": "寶石與鑲孔",
+    "description": "閃亮的寶石總能吸引人的眼球。$(p)留意神化寶石，這些寶石在鑲入詞綴物品時可以提供額外加成。",
+    "icon": "apotheosis:gem",
+    "flag": "apotheosis:adventure",
+    "parent": "apotheosis:adventure/adventure"
+}

@@ -1,0 +1,19 @@
+﻿{
+    "name": "捕捉",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:spawner/spawner",
+    "flag": "apotheosis:spawner",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "生怪磚可以使用$(9)刷怪蛋$()改變刷出的實體。$(p)通常情況下，這些是無法獲得的。為了彌補這一點，神化為劍加入了$(9)捕捉$()魔咒。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:cow_spawn_egg",
+            "title": "刷怪蛋",
+            "text": "每級$(9)捕捉$()魔咒都會給予你0.4%的機率讓實體在死亡時掉落它們的刷怪蛋。$(p)沒有刷怪蛋物品的實體（見JEI）不會掉落刷怪蛋。"
+        }
+    ]
+}

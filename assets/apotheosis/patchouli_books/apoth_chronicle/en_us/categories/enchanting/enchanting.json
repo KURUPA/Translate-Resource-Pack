@@ -1,0 +1,6 @@
+﻿{
+    "name": "附魔模組",
+    "description": "附魔模組負責附魔系統的所有改動。$(p)有很多內容，那就隨便看看吧。",
+    "icon": "minecraft:enchanting_table",
+    "flag": "apotheosis:enchanting"
+}

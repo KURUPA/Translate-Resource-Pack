@@ -1,0 +1,6 @@
+﻿{
+    "name": "冒險模組",
+    "description": "冒險模組的前身是$(4)致命模組$()，它允許你用程序生成的戰利品裝備自己，這些戰利品具有強大的加成。$(p)但要小心，新的敵人也出現了。",
+    "icon": "minecraft:netherite_sword",
+    "flag": "apotheosis:adventure"
+}

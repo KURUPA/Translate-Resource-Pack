@@ -1,0 +1,7 @@
+﻿{
+    "name": "新魔咒",
+    "description": "本章節中的每個條目都詳細介紹了本模組添加的新魔咒。$(p)其他模組添加的魔咒將不在這裡介紹。",
+    "icon": "minecraft:enchanted_book",
+    "flag": "apotheosis:enchanting",
+    "parent": "apotheosis:enchanting/enchanting"
+}

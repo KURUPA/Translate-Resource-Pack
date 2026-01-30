@@ -1,0 +1,21 @@
+﻿{
+    "name": "流浪商人",
+    "icon": "minecraft:emerald",
+    "category": "apotheosis:village/village",
+    "flag": "apotheosis:village",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "你有沒有遇到過那些突然出現在草地上的黑心商人？$(p)他們被稱為$(9)流浪商人$()。$(p)通常他們只賣熱門的廢品。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "然而，神化在他們的交易表裡加入了大量新交易，所以他們實際上是值得互動的。$(p)這些交易包括像$(9)信標$()或$(9)不死圖騰$()這樣的物品，以及擁有強力附魔的鑽石裝備。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "神化還提高了流浪商人的生成機率，並允許他們在地下生成，而不是只在地表生成。"
+        }
+    ]
+}
