@@ -1,13 +1,13 @@
 {
-    "item.torchbandolier.empty_torch_bandolier": "空火把彈藥袋",
-    "item.torchbandolier.soul_torch_bandolier": "靈魂火把彈藥袋",
-    "item.torchbandolier.stone_torch_bandolier": "石製火把彈藥袋",
-    "item.torchbandolier.torch_bandolier": "火把彈藥袋",
-    "item.torchbandolier.torch_bandolier.autoFill.off": "自動填充: §c關",
-    "item.torchbandolier.torch_bandolier.autoFill.on": "自動填充: §a開",
-    "item.torchbandolier.torch_bandolier.blockPlaced": "放置: %s",
+    "item.torchbandolier.empty_torch_bandolier": "空火把背帶",
+    "item.torchbandolier.soul_torch_bandolier": "靈魂火把背帶",
+    "item.torchbandolier.stone_torch_bandolier": "石製火把背帶",
+    "item.torchbandolier.torch_bandolier": "火把背帶",
+    "item.torchbandolier.torch_bandolier.autoFill.off": "自動填充：§c關閉",
+    "item.torchbandolier.torch_bandolier.autoFill.on": "自動填充：§a開啟",
+    "item.torchbandolier.torch_bandolier.blockPlaced": "已放置：%s",
     "item.torchbandolier.torch_bandolier.count": "§e%d / %d",
     "item.torchbandolier.torch_bandolier.empty": "空",
-    "item.torchbandolier.torch_bandolier.emptyHint": "與火把一起合成",
-    "itemGroup.torchbandolier": "火把彈藥袋"
+    "item.torchbandolier.torch_bandolier.emptyHint": "與火把一同合成以進行填充",
+    "itemGroup.torchbandolier": "火把背帶"
 }
