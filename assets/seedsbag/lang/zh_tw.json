@@ -1,0 +1,6 @@
+{
+    "item.seedsbag.seedsbag": "種子袋",
+    "item.seedsbag.seedsbag.desc": "自動吸取種子。",
+    "item.seedsbag.seedsbag.capacity": "容量: %s / %s",
+    "item.seedsbag.seedsbag.contents": "內含:"
+}
