@@ -1,0 +1,23 @@
+{
+    "armorstatues.dataSync.failure": "無法修改盔甲架數據：%s",
+    "armorstatues.dataSync.failure.noArmorStand": "找不到有效的盔甲架",
+    "armorstatues.dataSync.failure.noPermission": "權限不足",
+    "armorstatues.dataSync.failure.notFinished": "隊列尚未清空",
+    "armorstatues.dataSync.failure.outOfRange": "超出距離範圍",
+    "armorstatues.dataSync.finished": "已完成傳送隊列中的盔甲架數據",
+    "armorstatues.screen.vanillaTweaks.checkTarget": "檢查盔甲架目標",
+    "armorstatues.screen.vanillaTweaks.checkTarget.description": "高亮顯示玩家周圍 3 格內、即將被調整的最接近盔甲架。由於封包運作機制的限制，編輯選單所操作的不一定就是開啟該選單的那座盔甲架。",
+    "armorstatues.screen.vanillaTweaks.lock": "鎖定",
+    "armorstatues.screen.vanillaTweaks.lock.description": "鎖定盔甲架可防止其被編輯選單修改，並停用與裝備槽的交互功能（無法直接拿取或放入物品）。",
+    "armorstatues.screen.vanillaTweaks.swapMainhandAndHead": "對調主手與頭盔",
+    "armorstatues.screen.vanillaTweaks.swapMainhandAndHead.description": "對調主手欄位與頭盔欄位中的物品。",
+    "armorstatues.screen.vanillaTweaks.swapMainhandAndOffhand": "對調主手與副手",
+    "armorstatues.screen.vanillaTweaks.swapMainhandAndOffhand.description": "對調主手欄位與副手欄位中的物品。",
+    "armorstatues.screen.vanillaTweaks.toolRack": "校準為工具掛架",
+    "armorstatues.screen.vanillaTweaks.toolRack.description": "將盔甲架與牆上的陷阱鉤對齊，使其手持的工具看起來像是掛在鉤子上。此動作同時會鎖定盔甲架，並停用除主手外的所有欄位。",
+    "armorstatues.screen.vanillaTweaks.triggerSent": "指令已發送！",
+    "armorstatues.screen.vanillaTweaks.unlock": "解鎖",
+    "armorstatues.screen.vanillaTweaks.unlock.description": "解鎖盔甲架會撤銷先前鎖定動作所套用的所有限制。",
+    "statuemenus.screen.type.alignments": "對齊選項",
+    "statuemenus.screen.type.vanillaTweaks": "原版微調 (Vanilla Tweaks)"
+}
