@@ -1,0 +1,22 @@
+{
+    "key.categories.l2mods": "萊特蘭通用按鍵",
+    "key.l2mods.alt": "切換選擇器",
+    "key.l2mods.down": "選擇-下",
+    "key.l2mods.left": "選擇-左",
+    "key.l2mods.right": "選擇-右",
+    "key.l2mods.shift": "顯示選擇器",
+    "key.l2mods.swap": "選擇-確定",
+    "key.l2mods.up": "選擇-上",
+    "l2itemselector.configuration.infoAlpha": "資訊框背景透明度",
+    "l2itemselector.configuration.infoAlpha.tooltip": "不透明為1\n範圍: 0.0 ~ 1.0",
+    "l2itemselector.configuration.infoAnchor": "資訊框垂直對齊",
+    "l2itemselector.configuration.infoAnchor.tooltip": "可選值：\n- TOP (頂部對齊)\n- CENTER (居中)\n- BOTTOM (底部對齊)",
+    "l2itemselector.configuration.infoMaxWidth": "資訊框最大寬度",
+    "l2itemselector.configuration.infoMaxWidth.tooltip": "資訊框最大寬度對螢幕總寬度的占比\n0.5表示最大占據半個螢幕\n預設值：0.3\n範圍: 0.0 ~ 0.5",
+    "l2itemselector.configuration.section.l2configs.l2itemselector.client.toml": "萊特蘭物品切換 - 用戶端配置",
+    "l2itemselector.configuration.section.l2configs.l2itemselector.client.toml.title": "萊特蘭物品切換 - 用戶端配置",
+    "l2itemselector.configuration.selectionDisplayRequireShift": "只在按[顯示選擇器]時顯示選擇器",
+    "l2itemselector.configuration.selectionScrollRequireShift": "只在按[顯示選擇器]時允許滾輪選擇",
+    "l2itemselector.configuration.title": "萊特蘭物品切換 - 配置",
+    "l2itemselector.title": "萊特蘭·物品切換"
+}
