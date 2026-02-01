@@ -1,0 +1,15 @@
+{
+    "block.createstockbridge.ae_bridge": "AE 庫存連結器",
+    "createstockbridge.ponder.ae_stockbridge.header": "將庫存網路連接至 AE",
+    "createstockbridge.ponder.ae_stockbridge.text_1": "AE 庫存連結器可將 Create 庫存網路與 AE 連結",
+    "createstockbridge.ponder.ae_stockbridge.text_2": "在放置前，先按右鍵以綁定至庫存網路",
+    "createstockbridge.ponder.ae_stockbridge.text_3": "將 AE 庫存連結器的地址設置為與蛙港 (Frogport) 地址一致",
+    "createstockbridge.ponder.ae_stockbridge.text_4": "AE",
+    "createstockbridge.ponder.ae_stockbridge.text_5": "AE",
+    "createstockbridge.ponder.ae_stockbridge.text_6": "AE 可透過「工藝製作」來請求物品",
+    "createstockbridge.ponder.ae_stockbridge.text_7": "Create 可從 AE 請求已儲存的物品",
+    "gui.createstockbridge.address": "包裹地址：",
+    "gui.stockbridge.remote_items": "Create 庫存網路物品",
+    "item.createstockbridge.request_pattern": "請求樣板",
+    "tooltip.stockbridge.remote_item": "遠端系統中的物品"
+}
