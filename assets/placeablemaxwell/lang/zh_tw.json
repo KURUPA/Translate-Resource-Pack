@@ -1,0 +1,17 @@
+{
+    "category.placeablemaxwell.placeablemaxwell_tab": "可放置的貓貓 Maxwell",
+    "block.placeablemaxwell.maxwell": "Maxwell (麥克斯威爾)",
+    "block.placeablemaxwell.mars": "Mars (火星)",
+    "block.placeablemaxwell.valenok": "Valenok (瓦列諾克)",
+    "block.placeablemaxwell.vasilisa": "Vasilisa (瓦西麗莎)",
+    "block.placeablemaxwell.poomba": "Poomba (澎澎)",
+    "death.attack.placeablemaxwell.falling_maxwell_cat": "%1$s 被掉落的貓貓壓扁了",
+    "death.attack.placeablemaxwell.falling_maxwell_cat.player": "%1$s 在與 %2$s 戰鬥時，被掉落的貓貓壓扁了",
+    "placeablemaxwell.configuration.title": "可放置的貓貓 Maxwell | 配置",
+    "placeablemaxwell.configuration.section.placeablemaxwell.common.toml": "一般設定",
+    "placeablemaxwell.configuration.section.placeablemaxwell.common.toml.title": "一般設定",
+    "placeablemaxwell.configuration.holidayFeaturesEnabled": "節慶功能",
+    "placeablemaxwell.configuration.holidayFeaturesEnabled.tooltip": "啟用或禁用節慶相關功能（如聖誕裝飾）。",
+    "placeablemaxwell.configuration.forceHoliday": "強制節慶模式",
+    "placeablemaxwell.configuration.forceHoliday.tooltip": "無視日期，強制開啟節慶功能。"
+}
