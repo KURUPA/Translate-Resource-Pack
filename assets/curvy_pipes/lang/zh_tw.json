@@ -79,5 +79,20 @@
     "curvy_pipes.too_far": "距離太遠",
     "curvy_pipes.unforce_joint": "取消強制接合",
     "curvy_pipes.wait": "正在等待伺服器響應",
-    "item.curvy_pipes.redstone_cable": "紅石電纜"
+    "item.curvy_pipes.huge_energy_pipe": "巨大能量導管",
+    "item.curvy_pipes.huge_fluid_pipe": "巨大流體導管",
+    "item.curvy_pipes.huge_item_pipe": "巨大物品導管",
+    "item.curvy_pipes.large_energy_pipe": "大型能量導管",
+    "item.curvy_pipes.large_fluid_pipe": "大型流體導管",
+    "item.curvy_pipes.large_item_pipe": "大型物品導管",
+    "item.curvy_pipes.medium_energy_pipe": "中型能量導管",
+    "item.curvy_pipes.medium_fluid_pipe": "中型流體導管",
+    "item.curvy_pipes.medium_item_pipe": "中型物品導管",
+    "item.curvy_pipes.redstone_cable": "紅石電纜",
+    "item.curvy_pipes.small_energy_pipe": "小型能量導管",
+    "item.curvy_pipes.small_fluid_pipe": "小型流體導管",
+    "item.curvy_pipes.small_item_pipe": "小型物品導管",
+    "item.curvy_pipes.tiny_energy_pipe": "極小能量導管",
+    "item.curvy_pipes.tiny_fluid_pipe": "極小流體導管",
+    "item.curvy_pipes.tiny_item_pipe": "極小物品導管"
 }
