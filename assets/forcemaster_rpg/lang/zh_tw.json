@@ -54,7 +54,7 @@
     "spell.forcemaster_rpg.asal.name": "羅煞狂爆拳",
     "spell.forcemaster_rpg.belial_smashing.description": "向目標方向衝鋒，造成 {damage_1} 奧秘傷害與 {damage_2} 物理傷害。",
     "spell.forcemaster_rpg.belial_smashing.name": "火龍拳",
-    "spell.forcemaster_rpg.burstcrack.description": "在你周圍釋放衝擊波，擊飛敵人並造成 {damage} 奧秘與物理傷害。",
+    "spell.forcemaster_rpg.burstcrack.description": "在你周圍釋放衝擊波，擊飛敵人並造成 {damage_1} 奧秘傷害與 {damage_2} 物理傷害。",
     "spell.forcemaster_rpg.burstcrack.name": "地裂震擊",
     "spell.forcemaster_rpg.improved_burstcrack.description": "增加地裂震擊的範圍 {range_add}",
     "spell.forcemaster_rpg.improved_burstcrack.name": "強化地裂震擊",
