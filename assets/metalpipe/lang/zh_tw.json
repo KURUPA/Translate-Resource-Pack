@@ -1,6 +1,8 @@
 {
-    "item.metalpipe.metalpipe": "金屬管",
-    "subtitles.metalpipe_hit": "金屬管撞擊聲",
+    "item_group.metalpipe.metalpipepage": "金屬管 XD",
     "item.metalpipe.ironsheet": "鐵板",
-    "item.metalpipe.raw_ironsheet": "粗鐵板"
+    "item.metalpipe.job_application": "求職申請表",
+    "item.metalpipe.metalpipe": "金屬管",
+    "item.metalpipe.raw_ironsheet": "粗鐵板",
+    "subtitles.metalpipe_hit": "金屬管撞擊聲"
 }
