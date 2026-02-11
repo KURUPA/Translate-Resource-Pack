@@ -87,7 +87,7 @@
             "type": "patchouli:spotlight",
             "item": "mimi:drums",
             "title": "鼓組",
-            "text": "$(l)標準$() - 木棍$(br2)$(l)房間$() - 木板$(br2)$(l)強力$() - 圓石$(br2)$(l)爵士$() - 金粒$(br2)$(l)刷子$() - 羽毛"
+            "text": "$(l)標準$() - 木棍$(br2)$(l)房間$() - 木板$(br2)$(l)強力$() - 鵝卵石$(br2)$(l)爵士$() - 金粒$(br2)$(l)刷子$() - 羽毛"
         },
         {
             "type": "patchouli:spotlight",
