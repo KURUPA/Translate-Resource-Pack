@@ -90,7 +90,7 @@
     "fdbosses.boss_drop.fdbosses.malkuth.fdbosses.malkuth_fist.info": "§6於右手持用：§r\n\n對著方塊使用可作為勾爪。在勾住的位置施放 Malkuth 的粉碎攻擊。\n若面向下方對地使用，可將使用者彈射至空中。\n\n§6於左手持用：§r\n\n對著生物使用可作為勾爪。使使用者自動攻擊目標，隨後將使用者從目標身邊擊退。\n\n§6連段 (Combo)：§r\n\n在左手使用後立即移回右手，可重設其冷卻時間。",
     "fdbosses.boss_drop.fdbosses.malkuth.fdbosses.malkuth_fist.stats": "粉碎傷害：\n{{(fdlib:image)path=fdbosses:boss_damage}}: {{(fdbosses:config_float) config=itemConfig, value=iceFireGauntletCrushDamage}}。\n\n冷卻時間：\n{{(fdlib:image)path=fdbosses:boss_duration}}: {{(fdbosses:config_float) config=itemConfig, value=iceFireGauntletCooldown}} 刻 (ticks)",
     "fdbosses.boss_drop.fdbosses.malkuth.fdbosses.malkuth_trophy.info": "「王國」的獎盃，用以彰顯你的英雄事跡",
-    "fdbosses.bosses.description.chesed": "一個由被 sculk 腐蝕的岩石所形成的生物。擁有巨大的魔力。\n\n§c推薦武器類型：{{(fdlib:item)item=minecraft:diamond_axe}}",
+    "fdbosses.bosses.description.chesed": "一個由被伏聆腐蝕的岩石所形成的生物。擁有巨大的魔力。\n\n§c推薦武器類型：{{(fdlib:item)item=minecraft:diamond_axe}}",
     "fdbosses.bosses.description.geburah": "{{(fdlib:item)item=minecraft:bow}} §c推薦使用遠程武器！§r\n\n世人皆生而有罪，因此需要審判者。成為審判者，意味著背負堅定不移的正義感——這正是我們的英雄所具備的。然而，英雄的生命日漸衰退，人們的罪孽日益增長。人們需要他，英雄遂獻身於永恆的正義，「嚴厲」自此誕生。就這樣，人們在沒有罪的世界中幸福地生活了許多許多年。\n隨著紀元流逝、時代更迭，越來越多的人開始抱怨：“讓一個有罪的存在成為永恆的審判者，真的好嗎？”\n又過了許多年，抱怨的人越來越少，直到再無問津者。",
     "fdbosses.bosses.description.malkuth": "Malkuth 的 Qliphoth。仁慈的王，曾統治一片曾經繁榮的土地，但其盲目且過度的慷慨導致王國滅亡。\n\n§5開發者註：最好在夜晚與他戰鬥。§r",
     "fdbosses.close_skill_info": "點擊空白處關閉",
