@@ -1,0 +1,14 @@
+{
+    "certain_questing_additions": "某些任務增強選項 (Certain Questing Additions)",
+    "certain_questing_additions.animations": "特定動畫設定",
+    "certain_questing_additions.animations.quest_hover": "滑鼠懸停於任務時的動畫",
+    "certain_questing_additions.animations.panel_button_hover": "滑鼠懸停於面板按鈕時的動畫",
+    "certain_questing_additions.animations.panel_animation": "任務面板出現動畫",
+    "certain_questing_additions.animations.smooth_scrolling": "任務面板平滑縮放",
+    "certain_questing_additions.animations.smooth_chapter_panel": "章節面板平滑開啟動畫",
+    "certain_questing_additions.appearance": "外觀設定",
+    "certain_questing_additions.appearance.smooth_animations": "使用緩動函數 (Easing functions) 的平滑動畫",
+    "certain_questing_additions.appearance.shader_background": "任務畫面的著色器 (Shader) 背景",
+    "certain_questing_additions.appearance.button_hover_glow_alpha": "按鈕懸停發光透明度 (0-255)",
+    "certain_questing_additions.appearance.quest_hover_glow_alpha": "任務懸停發光透明度 (0-255)"
+}
