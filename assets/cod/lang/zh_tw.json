@@ -1,0 +1,20 @@
+{
+    "pack.cod.name": "決勝時刻 槍械包",
+    "pack.cod.desc": "重鑄動視榮光，吾輩義不容辭！",
+    "cod.block.armory_weapon_box": "§b軍械庫武器箱",
+    "cod.block.armory_weapon_rack": "§e軍械庫武器架",
+    "cod.armory_weapon_box.desc": "合適的武器，完成合適的任務\n§e§l出自 決勝時刻：無限戰爭",
+    "cod.armory_weapon_rack.desc": "每把武器都有一個故事，每個士兵都有一個使命\n§e§l出自 決勝時刻：無限戰爭",
+    "cod.ammo.cod_energy.desc": "更換電池時請注意剩餘容量！",
+    "cod.ammo.cod_heavies.desc": "更換電池時請注意剩餘容量！",
+    "cod.ammo.cod_energy.name": "§b能量電池",
+    "cod.ammo.cod_heavies.name": "§c§l載荷電池⚠",
+    "cod.ammo.cod_pistol.name": "§a手槍彈",
+    "cod.ammo.cod_pistol_h.name": "§a§l重型手槍彈",
+    "cod.ammo.cod_rifle.name": "§e步槍彈",
+    "cod.ammo.cod_rifle_h.name": "§e§l重型步槍彈",
+    "cod.ammo.cod_sniper.name": "§d狙擊彈",
+    "cod.ammo.cod_sniper_h.name": "§d§l重型狙擊彈",
+    "cod.ammo.cod_12g.name": "§f12號霰彈",
+    "cod.ammo.cod_40mm.name": "§c§l40mm榴彈"
+}
