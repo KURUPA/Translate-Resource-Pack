@@ -1,0 +1,14 @@
+{
+    "block.enchantmentmachine.enchanter_block": "附魔機",
+    "tile.enchantmentmachine.enchanter.name": "附魔機",
+    "block.enchantmentmachine.disenchanter_block": "除魔機",
+    "tile.enchantmentmachine.disenchanter.name": "除魔機",
+    "block.enchantmentmachine.enchantment_block": "附魔方塊",
+    "itemGroup.enchantmentmachine": "附魔機械 (Enchantment Machine)",
+    "text.enchantmentmachine.enchant": "附魔",
+    "text.enchantmentmachine.enchant_for_level": "消耗 %d 經驗等級進行附魔",
+    "text.enchantmentmachine.require_level": "需要 %d 經驗等級",
+    "text.enchantmentmachine.unavailable": "不相容",
+    "text.enchantment_block.contained_enchantments": "所含附魔：%s",
+    "text.enchantmentmachine.next_to_storage_block": "必須放置在 %s 旁邊"
+}
