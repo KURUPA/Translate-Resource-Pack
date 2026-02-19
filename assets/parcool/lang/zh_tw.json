@@ -175,5 +175,7 @@
     "parcool.sound.vault.subtitle": "玩家撐越",
     "parcool.sound.wall_jump.subtitle": "玩家蹬牆跳",
     "parcool.sound.zipline.remove.subtitle": "滑索已移除",
-    "parcool.sound.zipline.set.subtitle": "滑索已放置"
+    "parcool.sound.zipline.set.subtitle": "滑索已放置",
+    "parcool.max_stamina": "耐力上限",
+    "parcool.stamina_recovery": "耐力回復"
 }
