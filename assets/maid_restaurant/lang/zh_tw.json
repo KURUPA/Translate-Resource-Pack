@@ -1,0 +1,18 @@
+{
+    "item.maid_restaurant.order_menu": "餐廳菜單",
+    "item.maid_restaurant.order_item": "訂單",
+    "message.maid_restaurant.block_removed": "已移除桌位",
+    "message.maid_restaurant.block_selected": "已選中桌位",
+    "task.maid_restaurant.cook": "廚師",
+    "task.maid_restaurant.waiter": "侍者",
+    "task.maid_restaurant.cook.desc": "在收到烹飪委託後，女僕會開始烹飪",
+    "task.maid_restaurant.waiter.desc": "在收到上菜委託後，女僕會將菜餚放置到指定的桌位處",
+    "gui.maid_restaurant.cook_request.cycle_on": "循環:啟用",
+    "gui.maid_restaurant.cook_request.cycle_off": "循環:關閉",
+    "gui.maid_restaurant.cook_request.stocking_mode_unlimited": "補貨模式:無限制",
+    "gui.maid_restaurant.cook_request.stocking_mode_insertable": "補貨模式:目標桌位存在空位時進行烹飪",
+    "gui.maid_restaurant.cook_request.stocking_mode_space_enough": "補貨模式:目標桌位空位足夠時進行烹飪",
+    "gui.maid_restaurant.request_handler.accept": "接受新委託",
+    "gui.maid_restaurant.request_handler.no_accept": "不接受新委託",
+    "config.maid_restaurant.server.sit_while_cooking": "女僕烹飪時是否坐下"
+}
