@@ -54,7 +54,7 @@
     "curseofpandora.tooltip.hell.eye": "你對生物造成傷害時，那個生物對%s格內的怪物造成少量魔法傷害。觸發間隔%s秒",
     "curseofpandora.tooltip.hell.reformation_1": "你免疫魂火傷害，但是即使有淨化也不免疫魂火效果",
     "curseofpandora.tooltip.hell.reformation_2": "你對生物造成傷害時，那個生物獲得和你相同等級和時長的魂火效果",
-    "curseofpandora.tooltip.hell.skull": "當你對一個持有%秒以上魂火效果的目標造成傷害時，該目標的魂火效果等級+1，但是不超過你的現實指數",
+    "curseofpandora.tooltip.hell.skull": "當你對一個持有%s秒以上魂火效果的目標造成傷害時，該目標的魂火效果等級+1，但是不超過你的現實指數",
     "curseofpandora.tooltip.misc.bind": "這個物品不可取下",
     "curseofpandora.tooltip.misc.drop": "%s擊殺%s時掉落",
     "curseofpandora.tooltip.misc.drop_chance": "%s擊殺%s時%s%%機率掉落",
