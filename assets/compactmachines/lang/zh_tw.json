@@ -55,5 +55,11 @@
     "rooms.compactmachines.player_room_info": "玩家 '%1$s' 在房間 %2$s 內。",
     "rooms.compactmachines.spawnpoint_set": "新的重生點已設置。",
     "rooms.errors.compactmachines.cannot_enter": "你亂按縮小裝置，結果無效。它拒絕工作。",
-    "rooms.errors.compactmachines.room_not_found": "無法找到房間 [%s]。"
+    "rooms.errors.compactmachines.room_not_found": "無法找到房間 [%s]。",
+    "machine.compactmachines.colossal": "緊湊機器 (龐大)",
+    "machine.compactmachines.giant": "緊湊機器 (巨大)",
+    "machine.compactmachines.large": "緊湊機器 (大)",
+    "machine.compactmachines.normal": "緊湊機器 (普通)",
+    "machine.compactmachines.small": "緊湊機器 (小)",
+    "machine.compactmachines.tiny": "緊湊機器 (迷你)"
 }
