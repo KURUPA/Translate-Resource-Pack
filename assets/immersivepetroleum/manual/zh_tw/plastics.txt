@@ -1,0 +1,16 @@
+﻿石油塑膠
+不含戴奧辛！
+<&plastics0>
+<link;industrial_fluids;酚醛樹脂;resin_acetaldehyde>是現代化學的瑰寶，但它缺失了石油相關的製造方法。
+
+而利用全新開發的裂解工藝，就將這重要一環補上了：通過高溫處理<link;immersivepetroleum:fluids;石腦油;naphtha>，將其裂解為<link;immersivepetroleum:fluids;§n§o石油氣§r;petroleum_gas>，就能進一步製得酚醛樹脂。
+<&plastics1>
+<link;immersivepetroleum:hydrotreater;§n§o高壓精煉裝置§r>可用於裂化石腦油，能將1500mB石腦油和500mB水製成2000mB石油氣。
+
+<link;industrial_fluids;酚醛樹脂;resin_acetaldehyde>作為較重的聚合物，不可直接用石油氣製備，而是需先在<link;refinery;精煉廠>將其加工為酚醛樹脂的前體。
+<&plastics2>
+在<link;refinery;精煉廠>中以§2紅石粉§r為催化劑，將<link;immersivepetroleum:fluids;粗苯;benzol>和<link;immersivepetroleum:fluids;石油氣;petroleum_gas>混合，即可製成<link;industrial_fluids;雜酚油;creosote_oil>。
+
+石油氣可被氧化為乙醛。此反應需要§2康銅板§r作為催化劑。
+
+這兩種原料可以合成<link;resin_and_duroplast;工程塑膠;duroplast_sheet>這種聚合樹脂。

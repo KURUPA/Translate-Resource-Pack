@@ -1,0 +1,22 @@
+﻿蒸餾塔
+對環境不友好
+<&distillationtower0>蒸餾塔是集現代原油精煉技術之大成的高能耗工廠機器。
+它由加熱單元和分餾塔組成。<np>
+其結構如上頁所示，需用工程師錘敲擊紅石工程塊完成搭建。
+
+能量需從加熱單元上的插座輸入，需分餾的流體則需從其底面輸入。在前面的控制面板上通入紅石信號將停止機器的進程，可以用工程師螺絲起子來反轉。
+
+產出的混合流體會從側面帶有橙色圓點的輸出口輸出，瀝青則會從前面的輸出口輸出。
+
+蒸餾塔能將下列流體分離為其組分：
+
+按50mB/t將<link;immersivepetroleum:fluids;原油;crude>加工為
+|   15mB/t <link;immersivepetroleum:fluids;石腦油;naphtha>
+|   18mB/t <link;immersivepetroleum:fluids;煤油;kerosene>
+|   30mB/t <link;immersivepetroleum:fluids;含硫柴油;diesel>
+|   12mB/t <link;immersivepetroleum:fluids;潤滑油;lubricant>
+|   0.07/t <link;immersivepetroleum:fluids;瀝青;bitumen>。
+
+按50mB/t將<link;immersivepetroleum:fluids;煤油;lubricant>加工為
+|   5mB/t <link;immersivepetroleum:fluids;粗苯;benzol>
+|   5mB/t <link;immersivepetroleum:fluids;含硫柴油;diesel>。

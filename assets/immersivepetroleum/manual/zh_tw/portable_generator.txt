@@ -1,0 +1,11 @@
+﻿攜帶式發電機
+燃油滿上
+<&portable_generator0>
+攜帶式發電機是一種可移動式輕質燃油發電機，是使用重質燃油的不可移動式<link;diesel_generator;柴油發電機>的替代機器。
+
+此類發電機可直接與低壓和中壓網路相連。潛行時右擊便可將其拿起，並且其會保留所有內容物。<np>
+攜帶式發電機在燃燒<link;immersivepetroleum:fluids;汽油;gasoline>、<link;immersivepetroleum:fluids;石腦油;naphtha>，<link;immersivepetroleum:fluids;粗苯;gasoline>等燃料時能產生最多<config;i;portablegenerator_flux>IF/t，且具有100000IF的能量快取。
+
+可用桶、油罐，或向攜帶式發電機上面的輸入口以管道輸入燃料。
+
+高品質燃料的燃燒時間更長，提供紅石信號會停止其運作，不會損失燃料。

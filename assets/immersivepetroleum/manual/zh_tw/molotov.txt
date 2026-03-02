@@ -1,0 +1,8 @@
+﻿燃燒瓶
+暴亂的絕配
+<&molotov>
+在<link;bottling_machine;灌裝機>中向空玻璃瓶中裝入<link;immersivepetroleum:fluids;汽油;gasoline>。
+再向汽油瓶的瓶頸塞入一團羊毛或者一些<link;industrial_hemp;堅韌布料;fabric_recipe>。
+
+投擲前在副手備好打火石，主手則拿上燃燒瓶，按住右鍵即可點燃。<np>
+瓶中的汽油足夠燃燒§o15秒§r，需要在那之前投出去，不然汽油就會燒光，只留下一個空玻璃瓶。
