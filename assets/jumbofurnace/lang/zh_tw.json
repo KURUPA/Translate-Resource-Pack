@@ -1,0 +1,20 @@
+{
+    "block.jumbofurnace.jumbo_furnace": "巨型熔爐",
+    "emi.category.jumbofurnace.jumbo_smelting": "巨型冶煉",
+    "item.jumbofurnace.jumbo_furnace": "巨型熔爐",
+    "item.jumbofurnace.jumbo_furnace_jei": "巨型熔爐",
+    "container.jumbofurnace.jumbo_furnace": "巨型熔爐",
+    "gui.jumbofurnace.category.jumbo_smelting": "巨型冶煉",
+    "gui.jumbofurnace.category.jumbo_furnace_upgrade": "巨型熔爐升級",
+    "gui.jumbofurnace.category.multiblock_building": "多方塊建築",
+    "jumbofurnace.jumbo_furnace_info_tooltip": "將 27 個熔爐擺放成 3x3x3 的立方體以組成巨型熔爐",
+    "jumbofurnace.jumbo_furnace_upgrade_info": "上述物品可以放入巨型熔爐的升級欄位中，以增加每個烹飪週期可冶煉的配方數量。",
+    "jumbofurnace.advancements.story.assemble_jumbo_furnace.title": "巨型熔爐",
+    "jumbofurnace.advancements.story.assemble_jumbo_furnace.description": "將 27 個熔爐擺放成 3x3x3 的立方體以組成巨型熔爐",
+    "jumbofurnace.advancements.story.obtain_jumbo_furnace.title": "外在更小巧",
+    "jumbofurnace.advancements.story.obtain_jumbo_furnace.description": "製造一個巨型熔爐物品（可能是透過在巨型熔爐中冶煉 27 個熔爐獲得）",
+    "jumbofurnace.advancements.story.upgrade_jumbo_furnace.title": "內在更寬敞",
+    "jumbofurnace.advancements.story.upgrade_jumbo_furnace.description": "使用巨型熔爐來升級你的巨型熔爐",
+    "jumbofurnace.advancements.story.fully_upgrade_jumbo_furnace.title": "無窮無盡的熔爐",
+    "jumbofurnace.advancements.story.fully_upgrade_jumbo_furnace.description": "使用一整疊（64 個）巨型熔爐來完全升級巨型熔爐"
+}
