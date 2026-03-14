@@ -1,0 +1,14 @@
+{
+    "vectorientation.configuration.title": "Vectorientation 配置",
+    "vectorientation.configuration.section.vectorientation.client.toml": "Vectorientation 用戶端配置區塊",
+    "vectorientation.configuration.section.vectorientation.client.toml.title": "Vectorientation 用戶端配置區塊",
+    "vectorientation.configuration.warpFactor": "變形係數",
+    "vectorientation.configuration.warpFactor.tooltip": "定義擠壓程度隨速度增加的比例",
+    "vectorientation.configuration.squetch": "擠壓與伸展 (Squetch)",
+    "vectorientation.configuration.squetch.tooltip": "是否啟用「擠壓與伸展」視覺效果",
+    "vectorientation.configuration.minWarp": "最小變形量",
+    "vectorientation.configuration.minWarp.tooltip": "定義速度為 0 時的垂直擠壓程度",
+    "vectorientation.configuration.blocks": "黑名單",
+    "vectorientation.configuration.blocks.tooltip": "不套用擠壓效果的方塊列表。",
+    "vectorientation.configuration.blocks.button": "編輯"
+}
