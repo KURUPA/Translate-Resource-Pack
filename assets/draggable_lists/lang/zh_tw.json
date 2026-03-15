@@ -1,0 +1,9 @@
+{
+    "text.autoconfig.draggable_lists.title": "Draggable Lists 設定",
+    "text.autoconfig.draggable_lists.option.disableResourcePackArrows": "隱藏資源包移動箭頭",
+    "text.autoconfig.draggable_lists.option.disableDatapackArrows": "隱藏資料包移動箭頭",
+    "text.autoconfig.draggable_lists.option.disableServerArrows": "隱藏伺服器移動箭頭",
+    "text.autoconfig.draggable_lists.option.disableLevelArrows": "隱藏世界列表移動箭頭",
+    "modmenu.summaryTranslation.draggable_lists": "讓伺服器、資源包與資料包列表支援拖曳功能。",
+    "modmenu.descriptionTranslation.draggable_lists": "Draggable Lists 讓你能夠直接拖曳伺服器、資源包和資料包，因為...誰想要一直去點那些細小的箭頭呢？現在只要輕鬆拖曳列表中的項目即可！"
+}
