@@ -1,6 +1,7 @@
 {
   "pack": {
     "pack_format": 34,
+    "supported_formats": [15, 34],
     "description": "§bKuriPaPa's 580+ Mods Translation§r\n§71.21.1 繁體中文翻譯整合 (自用分享)"
   }
 }
