@@ -1,0 +1,20 @@
+{
+    "config.jamlib.edit_manually": "手動編輯",
+    "config.jamlib.matches_regex_tooltip": "數值必須符合以下正則表達式：%s",
+    "config.jamlib.open": "開啟",
+    "config.jamlib.requires_restart_tooltip": "此更改需要重啟遊戲才能生效",
+    "config.jamlib.reset": "重設",
+    "config.jamlib.reset_tooltip": "重設為預設值",
+    "config.jamlib.selection_screen_title": "選擇 %s 的設定檔",
+    "config.jamlib.within_range_tooltip": "數值必須介於 %d 與 %d 之間",
+    "text.jamlib.renamed_1": "偵測到以下模組檔案已被重新命名——這通常代表該模組可能已被 %s。",
+    "text.jamlib.renamed_1.1": "未經授權惡意散佈",
+    "text.jamlib.renamed_2": "像 %s 這樣的網站會 %s，並可能被用來 %s。請從官方來源 %s 和 %s 下載模組。",
+    "text.jamlib.renamed_2.1": "9minecraft",
+    "text.jamlib.renamed_2.2": "損害開發者利益",
+    "text.jamlib.renamed_2.3": "散播惡意軟體",
+    "text.jamlib.renamed_2.4": "CurseForge",
+    "text.jamlib.renamed_2.5": "Modrinth",
+    "text.jamlib.renamed_3": "此訊息僅會出現一次。%s。",
+    "text.jamlib.renamed_3.1": "如果您認為這是誤判，請聯繫模組作者"
+}
