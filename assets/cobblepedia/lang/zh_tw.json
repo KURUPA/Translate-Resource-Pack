@@ -1011,7 +1011,7 @@
 	"book.cobblepedia.entries.beast_ball.text": "究極球是第四階神奇寶貝球。$(br)像大多數神奇寶貝球一樣，它的捕獲率在特定條件下可能會發生巨大變化.",
 	"book.cobblepedia.entries.beast_ball.crafting": "與第一、第二或第三階神奇球不同，野獸球需要鑽石和特定圖案的回聲碎片和金錠來製作.",
 	"book.cobblepedia.entries.master_ball.text": "大師球是精靈球的最高級別。$(br)它是精靈球的最終升級版，因為它具有更高的靜態捕獲率.",
-	"book.cobblepedia.entries.master_ball.crafting": "與其他級別的神奇寶貝球不同，大師球需要一顆地獄之星以及特定圖案的界伏蚌和地獄合金錠來製作.",
+	"book.cobblepedia.entries.master_ball.crafting": "與其他級別的神奇寶貝球不同，大師球需要一顆地獄之星以及特定圖案的界伏蚌和獄髓錠來製作.",
 	"book.cobblepedia.entries.cherish_ball.text": "貴重球是一種不分級的神奇寶貝球。$(br)珍愛球可以自由用於任何目的，例如用於伺服器上的事件分發.",
 	"book.cobblepedia.entries.cherish_ball.crafting": "與所有其他神奇寶貝球不同，珍愛球在正常遊戲中無法製作或獲得生成神奇寶貝命令.",
 	"book.cobblepedia.entries.spawnpokemon_command": "生成神奇寶貝",
