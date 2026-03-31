@@ -1,0 +1,7 @@
+{
+    "createcontraptionterminals.ponder.terminals.header": "在機械動力中使用湯姆的簡易儲存終端",
+    "createcontraptionterminals.ponder.terminals.text_1": "終端可以輕鬆訪問物品保險庫中的內容",
+    "createcontraptionterminals.ponder.terminals.text_2": "終端也可以在動態結構上工作",
+    "createcontraptionterminals.ponder.terminals.text_3": "終端允許訪問整個動態結構的庫存",
+    "tooltip.cct.worksOnContraptions": "適用於機械動力動態結構"
+}
