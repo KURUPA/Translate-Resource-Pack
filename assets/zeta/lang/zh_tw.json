@@ -1,0 +1,13 @@
+{
+    "zeta.misc.mod_disabled": "已停用。請安裝 %s 以啟用。",
+    "zeta.jei.hint_preamble": "[Zeta]\n",
+    "zeta.gui.config.save": "儲存變更",
+    "zeta.gui.config.header": "%s 設定",
+    "zeta.gui.config.default": "恢復預設值",
+    "zeta.gui.config.discard": "放棄變更",
+    "zeta.gui.config.subcategories": "------- 子類別 -------",
+    "zeta.gui.config.onechild": "1 個子項",
+    "zeta.gui.config.nchildren": "%d 個子項",
+    "zeta.gui.config.defaultvalue": "預設值：%s",
+    "zeta.gui.config.missingaddon": "您缺少此類別所需的擴充模組 (Addon)"
+}
