@@ -1,0 +1,5 @@
+{
+    "createenderstorage.ponder.mounted_ender_chest.header": "終界箱相容性",
+    "createenderstorage.ponder.mounted_ender_chest.text_1": "具有相同染色頻率代碼的終界箱會共享同一個物品欄。",
+    "createenderstorage.ponder.mounted_ender_chest.text_2": "這也包括安裝在機械結構上的情況。機械結構組件可以直接訪問終界箱方塊，以實現遠程自動化。"
+}
