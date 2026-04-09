@@ -1,0 +1,23 @@
+{
+    "pack.cataclysm_guns.name": "災變武裝",
+    "pack.cataclysm_guns.desc": "災變BOSS主題槍械",
+    "cataclysm_guns.gun.arson.name": "§6IG-3 “焚鐵判官”",
+    "cataclysm_guns.gun.storm.name": "§6SS-0 “狂濤雷鳴”",
+    "cataclysm_guns.gun.sawblade_launcher.name": "§6TH-11 “鋸片發射器”",
+    "cataclysm_guns.gun.void.name": "§6K-13 “終界守望”",
+    "cataclysm_guns.gun.remnant.name": "§6SK-01 “法老重錘”",
+    "cataclysm_guns.gun.ghost.name": "§6CR-9 “索命者”",
+    "cataclysm_guns.gun.rocket.name": "§6NR-5 “合金鍛爐”",
+    "cataclysm_guns.gun.abyss.name": "§6AS-7 “深淵怒濤”",
+    "cataclysm_guns.ammo.remnant_bullet": "全金屬霰彈",
+    "cataclysm_guns.ammo.rocket_bullet": "不穩定熔岩電池",
+    "cataclysm_guns.ammo.arson_bullet": "烈焰馬格南彈",
+    "cataclysm_guns.ammo.ghost_bullet": "殘魂石碑",
+    "cataclysm_guns.ammo.void_bullet": "歌萊狙擊彈",
+    "cataclysm_guns.ammo.abyss_bullet": "深淵利齒",
+    "cataclysm_guns.ammo.storm_bullet": "風暴霰彈",
+    "cataclysm_guns.ammo.sawblade_bullet": "鋸片",
+    "cataclysm_guns.block.cataclysm_table": "災變槍械工作檯",
+    "cataclysm_guns.block.cataclysm_table.desc": "用災變Boss的掉落物製作槍械",
+    "cataclysm_guns.attachment.voidaim.name": "內建瞄準鏡（請勿使用該物品）"
+}
