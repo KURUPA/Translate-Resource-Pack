@@ -25,6 +25,7 @@
     "guide.vampirism.vampire.getting_started.as_vampire": "一旦你變成吸血鬼，你的主要血源之一（至少是最好的血源）是村民，你應該找到很多這樣的人。注意，吸血鬼獵人現在會攻擊你並試圖保護村民。你已經注意到你在陽光下感覺不太好，但陽光不會傷害像你這樣虛弱的吸血鬼。",
     "guide.vampirism.vampire.getting_started.zombie": "作為一個不死的吸血鬼，殭屍會停止攻擊你，因為他們再也不能感受到您的氣息。然而，其他更聰明的生物仍然會認為你是一個敵對存在。",
     "guide.vampirism.vampire.getting_started.blood": "作為一個吸血鬼，你需要注意你有多少血液。你可以透過按住\"%s\"來從村民和一些動物身上吸血。額外的血液將儲存在你的快捷欄上的玻璃瓶/血瓶中。你也可以吸食其它玩家的血液 — 只要你從背後偷襲的話，這樣你就有足夠的時間跑路。某些生物體內沒有血液，而如果你咬了這些沒有血液的生物的話，只會對它們造成傷害。\n注意：某些生物的血液中有大蒜，瞄準這些生物時吸血鬼尖牙標誌會變綠。如果你咬了這種生物，你會中毒。",
+    "guide.vampirism.vampire.getting_started.infecting": "達到四級後，你也會解鎖感染其他生物和玩家的能力。請確保你從他們背後悄悄接近，讓他們看不到你並正對著他們的背部，然後啟動動作 %s。這將使目標生物獲得「Sanguinare Vampiris」效果，最終它們會變成吸血鬼或具有吸血鬼特性的生物。",
     "guide.vampirism.vampire.getting_started.level": "一開始，你將成為一個1級吸血鬼（等級顯示在你的經驗等級之上），並獲得速度、生命和力量的提升。\\n要達到更高的吸血鬼等級，你必須執行不同的儀式。當你通過等級提升時，你的能力會提高，但也會出現一些不利因素，比如太陽傷害。",
     "guide.vampirism.vampire.getting_started.level2": "作為一個吸血鬼，你不呼吸，所以你不會淹死。但不幸的是，水會使你虛弱不堪。\\n因此，如果你想經常涉水，你可能需要嘗試讓你的身體對水有抵抗力。你將能夠解鎖一個技能，這需要更高的等級。",
     "guide.vampirism.vampire.blood": "血液",
@@ -163,7 +164,9 @@
     "guide.vampirism.blocks.weapon_table.text": "用來製造幾種獵手武器和工具。有些食譜使用熔岩，所以你必須右擊熔岩桶來填充熔岩。\\n§4隻能由吸血鬼獵人§r使用，並且需要特殊技能。",
     "guide.vampirism.blocks.blocks.coffin": "棺材",
     "guide.vampirism.blocks.blocks.coffin.text": "能讓吸血鬼在白天睡覺。",
+    "guide.vampirism.blocks.med_chair.text": "用於注入 %s 和 %s。",
     "guide.vampirism.blocks.alchemical_cauldron.text": "被用於多個鍊金術配方的合成。§4隻能被吸血鬼獵人使用§r，並且還需要特殊的技能。",
+    "guide.vampirism.blocks.garlic.text": "可在部分村莊中找到，你可以像種植紅蘿蔔一樣培育它。",
     "guide.vampirism.blocks.garlic_diffuser": "噴蒜器",
     "guide.vampirism.blocks.garlic_diffuser.text": "將大蒜顆粒擴散到空氣中以防止生成吸血鬼並削弱附近的吸血鬼。普通版本影響的區域為%s乘%s方塊，無視高度。增強版本影響的區域為%s乘%s方塊。它對吸血鬼的效果可以透過右擊%s來暫時增強。增強後，它甚至會使附近的吸血鬼玩家失明。",
     "guide.vampirism.blocks.altar_inspiration.text": "被用於吸血鬼的升級。",
@@ -193,6 +196,7 @@
     "guide.vampirism.changelog.v1_8.accessories.text": "§l吸血鬼飾品§r\n吸血鬼現在可以裝備飾品(戒指, 護身符和腰帶，給予正面效果(和負面效果)，甚至可以修改某些技能。\n不同的效果和不同的異同，你可以嘗試收集全部的戒指， 護身符和腰帶。\n總共有超過100.000種組合。 即使許多可能的組合也是一樣的。\n飾品§c§l無法拿下來§r\n 並且如果另一個同一槽位的飾品被裝備後，原先的飾品會被摧毀。\n當重生(死亡後) 時，飾品會受到隨機傷害，最終會損壞。\n某些配件可以將暗血彈變成短程360度攻擊。",
     "guide.vampirism.changelog.v1_8.accessories.image": "在吸血鬼面板中，你可以佩戴配飾",
     "guide.vampirism.changelog.v1_8.vampire_armor.text": "§l吸血鬼盔甲§r\n- 吸血鬼在沒有裝備盔甲時有天然盔甲。\n- 盔甲值在1級時是鐵盔甲的值，在14級時是鑽石盔甲的值，其他等級會在這兩者之間變化。\n- 這個天然盔甲不會與額外的盔甲值疊加。\n- 如果穿著重裝甲(比皮革更強)，你的吸血鬼特定速度和攻擊速度會被減半\n- 盔甲附魔可以應用於可以裝備在盔甲槽中的時尚吸血鬼服裝\n- 重生後，天然盔甲需要一段時間才能完全再生。",
+    "guide.vampirism.changelog.v1_8.vampire_immortality.text": "§l吸血鬼不死§r\n- 吸血鬼不會因為某些傷害來源而立即死亡，而是會進入一種倒下但未全滅（DBNO）的狀態，在此狀態下他們仍能受到攻擊，但會被怪物忽略\n- 經過一段再生階段後，他們可以選擇復活；或者，他們也可以選擇死亡並重生\n- 復活後，吸血鬼會變得虛弱，在接下來的幾分鐘內若再次被殺，將會立即死亡\n- 在 DBNO 狀態下，吸血鬼可立即被樁子、聖水或火等對吸血鬼致命的武器擊殺",
     "guide.vampirism.changelog.v1_8.raids.text": "§l襲擊§r\n玩家攜帶不祥徵兆buff步行到一個村莊會觸發襲擊（類似於原版掠奪者的襲擊）。\n殺死獵人或吸血鬼後背上派系橫幅，就可以獲得不祥徵兆buff。\n 不祥徵兆buff的增加將導致更強大的攻擊和更高的獎勵。\n此外，在村莊裡還可能發生隨機的輕度突襲。",
     "guide.vampirism.changelog.v1_9.overview.text": "§l目錄§r\n- 常規\n- 獵人油\n- 領主技能\n- 物品祝福\n- 十字架\n- 感染\n- 弩\n- 治癒生物",
     "guide.vampirism.changelog.v1_9.general.text": "§l常規§r\n- 重新設計吸血鬼森林，看一看吧\n- 改寫吸血鬼之書的內容\n- 移除地獄黑曜石盔甲\n- 使吸血鬼的十字架更像原版\n- 新的裝飾方塊(王座, 吸血鬼架)\n- 用原版飢餓代替渴血效果\n- 減少在吸血鬼森林中的血液消耗\n- 添加吸血鬼附魔回收配方\n- 使用人類心臟修補吸血鬼衣服\n- 允許武器使用大多數附魔\n- 更新幾個模型和紋理\n- 添加工作節點清單監測命令",
@@ -202,9 +206,5 @@
     "guide.vampirism.changelog.v1_9.crucifix.text": "§l十字架§r\n一個新添加的十字架物品可以讓獵人有效地對抗吸血鬼和其他亡靈生物。 當使用十字架時，吸血鬼無法接近你。有三個等級的十字架，範圍和強度都會增加。",
     "guide.vampirism.changelog.v1_9.infection.text": "§IInfection§r\n吸血鬼玩家現在能夠積極選擇食物的命運\n只食用一名受害者將不再感染他們。 相反，你只是使用一個新的動作被解鎖，技能“不再生疏”。 查看你的目標並啟用該動作。目標生物將被感染，並最終變成一個吸血生物。",
     "guide.vampirism.changelog.v1_9.crossbows.text": "§l十字弩§r\n十字弩現在正在工作類似於原版弩。現在他們需要手動裝載來射擊",
-    "guide.vampirism.changelog.v1_9.curing.text": "§l治癒吸血生物§r\n被感染的蘋果和殭屍注射器已被移除，以使治療過程與殭屍村民的治療相吻合。該進程現在是相同的：1. 將虛弱應用於生物。2. 與它們同金蘋果發生互動。3.等待奇蹟",
-    "guide.vampirism.vampire.getting_started.infecting": "達到四級後，你也會解鎖感染其他生物和玩家的能力。請確保你從他們背後悄悄接近，讓他們看不到你並正對著他們的背部，然後啟動動作 %s。這將使目標生物獲得「Sanguinare Vampiris」效果，最終它們會變成吸血鬼或具有吸血鬼特性的生物。",
-    "guide.vampirism.blocks.med_chair.text": "用於注入 %s 和 %s。",
-    "guide.vampirism.blocks.garlic.text": "可在部分村莊中找到，你可以像種植紅蘿蔔一樣培育它。",
-    "guide.vampirism.changelog.v1_8.vampire_immortality.text": "§l吸血鬼不死§r\n- 吸血鬼不會因為某些傷害來源而立即死亡，而是會進入一種倒下但未全滅（DBNO）的狀態，在此狀態下他們仍能受到攻擊，但會被怪物忽略\n- 經過一段再生階段後，他們可以選擇復活；或者，他們也可以選擇死亡並重生\n- 復活後，吸血鬼會變得虛弱，在接下來的幾分鐘內若再次被殺，將會立即死亡\n- 在 DBNO 狀態下，吸血鬼可立即被樁子、聖水或火等對吸血鬼致命的武器擊殺"
+    "guide.vampirism.changelog.v1_9.curing.text": "§l治癒吸血生物§r\n被感染的蘋果和殭屍注射器已被移除，以使治療過程與殭屍村民的治療相吻合。該進程現在是相同的：1. 將虛弱應用於生物。2. 與它們同金蘋果發生互動。3.等待奇蹟"
 }
