@@ -1,0 +1,17 @@
+{
+    "tooltip.libtooltips.generic.shift_up": "⏬ §l§3[Shift]§r ⏬",
+    "tooltip.libtooltips.generic.shift_down": "⏫ §l§6[Shift]§r ⏫",
+    "libtooltips.configuration.line_before": "前方空白行",
+    "libtooltips.configuration.line_before.tooltip": "在描述文字之前、[Shift] 提示之後添加一行空白行",
+    "libtooltips.configuration.line_after": "後方空白行",
+    "libtooltips.configuration.line_after.tooltip": "在描述文字之後添加一行空白行",
+    "libtooltips.configuration.default_color": "描述顏色",
+    "libtooltips.configuration.default_color.tooltip": "工具提示所使用的基礎顏色。數值為整數形式的顏色代碼（可使用線上挑色器獲取）",
+    "libtooltips.configuration.title": "LibTooltip 設定",
+    "tooltip.namespace.path.0": "哇，是超華麗的 <wave><rainbow>發光波浪彩虹！</rainbow></wave>",
+    "tooltip.namespace.path.1": "你只需要透過 .1 .2 等編號就能輕鬆增加更多行內容！",
+    "tooltip.namespace.path.2": "本函式庫使用了 TysonTheEmber 優秀的文字 API，",
+    "tooltip.namespace.path.3": "這代表你可以做出許多 <grad hue=true from=330000 to=333300 f=0.3>華麗的效果！</grad>",
+    "tooltip.namespace.path.4": "請查看 tysontheember.dev 的文件以了解更多資訊！",
+    "tooltip.always.namespace.path.0": "此工具提示會一直顯示，即使沒有按下 Shift 鍵也一樣！"
+}

@@ -1,0 +1,7 @@
+{
+    "tinymultiblocklib.configuration.title": "Tiny Multiblock Lib",
+    "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml.title": "TMBL 用戶端設定",
+    "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml": "TMBL 用戶端設定",
+    "tinymultiblocklib.configuration.disable_multiblock_previews": "禁用多方塊結構預覽",
+    "tinymultiblocklib.configuration.disable_multiblock_previews.tooltip": "當嘗試放置多方塊結構時，禁用虛影預覽效果"
+}
