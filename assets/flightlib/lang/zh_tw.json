@@ -1,0 +1,11 @@
+{
+    "message.flightlib.control.toggle_active": "噴氣背包引擎: %s",
+    "message.flightlib.control.toggle_hover": "噴氣背包懸浮模式: %s",
+    "message.flightlib.control.on": "開啟",
+    "message.flightlib.control.off": "關閉",
+    "overlay.flightlib.control.toggle_hover": "懸浮",
+    "overlay.flightlib.control.toggle_active": "開啟",
+    "key.jetpack.toggle_hover.description": "切換懸浮模式",
+    "key.jetpack.toggle_active.description": "切換噴氣背包引擎",
+    "flightlib.subtitle.whoosh": "噴氣背包：呼嘯"
+}
