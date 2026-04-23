@@ -1,0 +1,16 @@
+{
+    "emi.category.actuallyadditions.coffee_machine": "咖啡機",
+    "emi.category.actuallyadditions.crushing": "磨碎",
+    "emi.category.actuallyadditions.empowerer": "賦能台",
+    "emi.category.actuallyadditions.fermenting": "發酵",
+    "emi.category.actuallyadditions.laser": "雷射",
+    "emi.category.actuallyadditions.mining_lens": "挖礦透鏡",
+    "emi.category.actuallyadditions.pressing": "擠壓",
+    "tag.item.actuallyadditions.coffee_beans": "咖啡豆",
+    "tag.item.actuallyadditions.crystal_blocks": "水晶方塊",
+    "tag.item.actuallyadditions.crystals": "水晶",
+    "tag.item.actuallyadditions.deepslate_ore_replaceables": "深層板岩礦石可替換方塊",
+    "tag.item.actuallyadditions.drills": "鑽頭",
+    "tag.item.actuallyadditions.stone_ore_replaceables": "石頭礦石可替換方塊",
+    "tag.item.actuallyadditions.tiny_coals": "微型煤炭"
+}
