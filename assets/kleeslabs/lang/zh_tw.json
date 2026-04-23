@@ -1,0 +1,8 @@
+{
+    "kleeslabs.configuration.disabledCompat": "停用相容性",
+    "kleeslabs.configuration.disabledCompat.tooltip": "要停用相容性的模組 ID 清單。",
+    "kleeslabs.configuration.dumpSlabs": "除錯傾印半磚列表",
+    "kleeslabs.configuration.dumpSlabs.tooltip": "開發專用。設定為 true 時，KleeSlabs 會在載入世界時傾印一份名稱中包含「slab」字樣的物品清單。",
+    "kleeslabs.configuration.mode": "運作模式",
+    "kleeslabs.configuration.mode.tooltip": "控制 KleeSlabs 觸發的時機：ALWAYS (總是觸發)、ONLY_WHEN_SNEAKING (僅在潛行時) 或 ONLY_WHEN_NOT_SNEAKING (僅在非潛行時)。"
+}
