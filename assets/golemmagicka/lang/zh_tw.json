@@ -1,7 +1,10 @@
 {
+    "golem_material.golemmagicka.mithril": "秘銀",
     "golem_material.golemmagicka.pyrium": "熾金",
-    "golemmagicka.configuration.section.l2configs.golemmagicka.client.toml": "Golem Magicka 客戶端設定",
-    "golemmagicka.configuration.section.l2configs.golemmagicka.client.toml.title": "Golem Magicka 客戶端設定",
+    "golemmagicka.configuration.manaMendingRate": "法力修補：法力生命轉化比例",
+    "golemmagicka.configuration.manaMendingRate.tooltip": " 默認: 10（10法力值=1生命值）\n 範圍: 0.01 ~ 100.0",
+    "golemmagicka.configuration.section.l2configs.golemmagicka.client.toml": "Golem Magicka 用戶端設定",
+    "golemmagicka.configuration.section.l2configs.golemmagicka.client.toml.title": "Golem Magicka 用戶端設定",
     "golemmagicka.configuration.section.l2configs.golemmagicka.server.toml": "Golem Magicka 伺服器設定",
     "golemmagicka.configuration.section.l2configs.golemmagicka.server.toml.title": "Golem Magicka 伺服器設定",
     "golemmagicka.configuration.title": "Golem Magicka 設定",
@@ -10,5 +13,7 @@
     "golemmagicka.info.invalid": "- %s",
     "golemmagicka.info.invalids": "無效法術:",
     "golemmagicka.info.mana": "法力值: %s/%s",
-    "golemmagicka.title": "Golem Magicka"
+    "golemmagicka.title": "Golem Magicka",
+    "modifier.golemmagicka.mana_mending": "法力修補",
+    "modifier.golemmagicka.mana_mending.desc": "法力值百分比高於生命值百分比時，回復的法力會優先用於修補自身"
 }
