@@ -1,0 +1,5 @@
+{
+    "text.autoconfig.paxi-fabric-1_21.option.general.loadFromBaseDatapacksDirectory": "從根目錄的「datapacks」資料夾載入",
+    "text.autoconfig.paxi-fabric-1_21.option.general.loadFromBaseDatapacksDirectory.@Tooltip": "Paxi 是否應強制載入位於 Minecraft 根目錄中「datapacks」資料夾內的所有資料包。此功能是為了與 CurseForge 的新資料包系統相容。",
+    "text.autoconfig.paxi-fabric-1_21.title": "Paxi"
+}

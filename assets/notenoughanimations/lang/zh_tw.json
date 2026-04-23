@@ -1,8 +1,12 @@
 {
+    "text.nea.animateLanterns": "動態燈籠",
+    "text.nea.animateLanterns.tooltip": "手持燈籠時增加搖擺動畫效果",
     "text.nea.disableLegSmoothing": "停用腿部平滑",
     "text.nea.disableLegSmoothing.tooltip": "停用腿部平滑",
     "text.nea.enable.animationsmoothing": "動畫平滑",
     "text.nea.enable.animationsmoothing.tooltip": "平滑手臂和腿部的動畫，讓它們看起還更自然並更少拼湊感",
+    "text.nea.enable.applyRotationLockToEveryone": "對所有人套用旋轉鎖定",
+    "text.nea.enable.applyRotationLockToEveryone.tooltip": "將旋轉鎖定套用至所有生物，而非僅限玩家",
     "text.nea.enable.bowAnimation": "弓動畫",
     "text.nea.enable.bowAnimation.CUSTOM_V1": "自訂 V1",
     "text.nea.enable.bowAnimation.tooltip": "要使用的弓箭動畫類型",
@@ -85,7 +89,12 @@
     "text.nea.line.holdup": "舉起動作",
     "text.nea.line.legacy": "未完成/已棄用",
     "text.nea.line.rotation": "旋轉",
+    "text.nea.line.rotationAngle": "旋轉角度",
     "text.nea.line.smoothing": "平滑化",
+    "text.nea.maxBlockingAngle": "格擋角度",
+    "text.nea.maxBlockingAngle.tooltip": "設置格擋時的旋轉鎖定角度。僅在「無 (None)」模式下生效。",
+    "text.nea.maxNormalAngle": "一般角度",
+    "text.nea.maxNormalAngle.tooltip": "設置一般狀態下的旋轉鎖定角度。僅在「無 (None)」模式下生效。",
     "text.nea.rotationlock": "旋轉鎖定",
     "text.nea.rotationlock.FIXED": "固定",
     "text.nea.rotationlock.NONE": "無",
@@ -94,6 +103,7 @@
     "text.nea.smoothingSpeed": "平滑量",
     "text.nea.smoothingSpeed.tooltip": "套用於手臂和腿部動畫的平滑量",
     "text.nea.tab.holdup": "舉起物品",
+    "text.nea.tab.lantern": "燈籠",
     "text.nea.tab.settings": "設定",
     "text.nea.title": "Not Enough Animations 設定"
 }
