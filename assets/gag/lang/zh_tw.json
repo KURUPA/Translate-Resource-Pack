@@ -56,8 +56,8 @@
             ]
         }
     ],
-    "item.gag.time_sand_pouch.flavour[0].extra[1]": "口袋裡...",
-    "item.gag.time_sand_pouch.flavour[0].text": "如果我能把時間存在一個",
+    "item.gag.time_sand_pouch.flavour[0].extra[1]": "存在袋裡……",
+    "item.gag.time_sand_pouch.flavour[0].text": "如果我能把時間",
     "item.gag.time_sand_pouch.info": "置於玩家物品欄時會緩慢累積時間。對正在運作的方塊使用可加速其處理進度，並消耗沙袋中儲存的時間。",
     "item.gag.time_sand_pouch.info.stored_grains": "含有價值 %s 的時間能量。",
     "itemGroup.gag.gag": "GAG — 反繁瑣小工具",

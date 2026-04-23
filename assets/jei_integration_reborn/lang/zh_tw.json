@@ -1,0 +1,16 @@
+{
+    "_comment": "工具提示",
+    "key.jei_integration_reborn": "JEI擴展: 重生按鍵",
+    "key.jei_integration_reborn.copy_id_key": "複製物品ID",
+    "tooltip.jei_integration_reborn.burnTime": "燃燒時間:",
+    "tooltip.jei_integration_reborn.burnTime.suffix": "ticks",
+    "tooltip.jei_integration_reborn.data_components": "數據組件:",
+    "tooltip.jei_integration_reborn.durability": "耐久度:",
+    "tooltip.jei_integration_reborn.enchantability": "附魔能力:",
+    "tooltip.jei_integration_reborn.hunger": "飢餓度:",
+    "tooltip.jei_integration_reborn.maxStackSize": "最大堆疊:",
+    "tooltip.jei_integration_reborn.registryName": "ID:",
+    "tooltip.jei_integration_reborn.saturation": "飽和度:",
+    "tooltip.jei_integration_reborn.tags": "Tags:",
+    "tooltip.jei_integration_reborn.translationKey": "翻譯鍵:"
+}

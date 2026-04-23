@@ -1,14 +1,14 @@
 {
     "golem_material.golemmagicka.pyrium": "熾金",
-    "golemmagicka.info.cd": "- %s: %s秒",
-    "golemmagicka.info.cds": "法術冷卻:",
-    "golemmagicka.info.invalids": "無效法術:",
-    "golemmagicka.info.mana": "法力值: %s/%s",
     "golemmagicka.configuration.section.l2configs.golemmagicka.client.toml": "Golem Magicka 客戶端設定",
     "golemmagicka.configuration.section.l2configs.golemmagicka.client.toml.title": "Golem Magicka 客戶端設定",
     "golemmagicka.configuration.section.l2configs.golemmagicka.server.toml": "Golem Magicka 伺服器設定",
     "golemmagicka.configuration.section.l2configs.golemmagicka.server.toml.title": "Golem Magicka 伺服器設定",
     "golemmagicka.configuration.title": "Golem Magicka 設定",
+    "golemmagicka.info.cd": "- %s: %s秒",
+    "golemmagicka.info.cds": "法術冷卻:",
     "golemmagicka.info.invalid": "- %s",
+    "golemmagicka.info.invalids": "無效法術:",
+    "golemmagicka.info.mana": "法力值: %s/%s",
     "golemmagicka.title": "Golem Magicka"
 }

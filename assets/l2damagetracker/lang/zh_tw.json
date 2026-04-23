@@ -20,6 +20,7 @@
     "l2damagetracker.configuration.section.l2configs.l2damagetracker.server.toml.title": "萊特蘭傷害統計 - 服務端配置",
     "l2damagetracker.configuration.title": "萊特蘭傷害統計 - 配置",
     "l2damagetracker.title": "萊特蘭·傷害統計",
+    "l2damagetracker.tooltip.mult": "x%s %s",
     "l2damagetracker.tooltip.tool.immune": "提供免疫: ",
     "l2damagetracker.tooltip.tool.immune_set": "全套提供免疫: "
 }

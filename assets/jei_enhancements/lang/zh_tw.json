@@ -1,0 +1,18 @@
+{
+    "jei_enhancements.tooltip.alt_click_group": "Alt + 點擊: 展開/摺疊書籤組",
+    "jei_enhancements.tooltip.click_page": "點擊頁碼: 切換垂直/水平布局",
+    "jei_enhancements.tooltip.ctrl_alt_scroll": "Ctrl + Alt + 滾輪: 按一組調整數量",
+    "jei_enhancements.tooltip.ctrl_scroll": "Ctrl + 滾輪: 調整數量",
+    "jei_enhancements.tooltip.ctrl_shift_a": "Ctrl + Shift + A: 將配方按照組完整添加到書籤",
+    "jei_enhancements.tooltip.ctrl_shift_scroll": "Ctrl + Shift + 滾輪: 調整數量 (x64)",
+    "jei_enhancements.tooltip.group_panel_left_drag": "左鍵拖動: 將多行連接成一個組",
+    "jei_enhancements.tooltip.group_panel_right_click": "右鍵點擊: 切換合成鏈模式（[變綠）",
+    "jei_enhancements.tooltip.group_panel_right_drag": "右鍵拖動: 將行從組中排除",
+    "jei_enhancements.tooltip.header": "--- 操作說明 ---",
+    "jei_enhancements.tooltip.hold_alt": "按住 Alt 查看操作說明",
+    "jei_enhancements.tooltip.left_drag_down": "左鍵從上往下拖動: 合併組",
+    "jei_enhancements.tooltip.left_drag_up": "左鍵從下往上拖動: 分解組",
+    "jei_enhancements.tooltip.right_click_bracket": "右鍵 [: 啟用合成鏈模式，數量按配方比例同步",
+    "jei_enhancements.tooltip.right_drag": "右鍵拖動: 刪除組",
+    "jei_enhancements.tooltip.shift_a": "Shift + A: 添加配方（輸出+原材料）到書籤"
+}
