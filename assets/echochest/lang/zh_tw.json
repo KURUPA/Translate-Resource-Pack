@@ -1,0 +1,5 @@
+{
+    "block.echochest.echo_chest": "迴聲箱",
+    "block.echochest.echo_chest.description": "收集方圓 8 格內生物掉落的物品與經驗值。",
+    "container.echo_chest": "迴聲箱"
+}

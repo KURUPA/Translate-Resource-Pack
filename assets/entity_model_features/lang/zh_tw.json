@@ -1,4 +1,9 @@
 {
+    "entity_model_features.config.allowed_cem": "允許的模型",
+    "entity_model_features.config.allowed_cem.all": "全部",
+    "entity_model_features.config.allowed_cem.known_only": "僅限已知模型（多為原版 / OptiFine）",
+    "entity_model_features.config.allowed_cem.tooltip": "決定 EMF 將嘗試與哪些模型進行互動。註：這並不完美，部分模組僅使用原版命名空間 ID，對此 EMF 幾乎無法處理",
+    "entity_model_features.config.allowed_cem.unknown_only": "僅限未知模型（多為模組化內容）",
     "entity_model_features.config.animate_once": "實體模型動畫僅在繪製時播放一次",
     "entity_model_features.config.animate_once.tooltip": "預設開啟\n此設定使實體模型僅在每次繪製每個實體時動畫一次\n這在遊戲中完全正常，但出現在\n物品欄畫面中的生物可能會出現奇怪的閃爍\n尤其是如果它表示您可以看到的世界上的一個實體",
     "entity_model_features.config.armor_hack": "盔甲套用自訂動畫",
