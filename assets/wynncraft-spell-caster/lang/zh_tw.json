@@ -1,0 +1,17 @@
+{
+    "config.wynncraft-spell-caster.category.general": "一般設定",
+    "config.wynncraft-spell-caster.option.left-interval-ms": "左鍵點擊間隔 [毫秒]",
+    "config.wynncraft-spell-caster.option.left-interval-ms-tooltip": "設定左鍵點擊後等待的毫秒數。",
+    "config.wynncraft-spell-caster.option.repeat-melee": "重複近戰攻擊",
+    "config.wynncraft-spell-caster.option.repeat-melee-tooltip": "若持續按住近戰鍵，則重複進行近戰打擊。",
+    "config.wynncraft-spell-caster.option.right-interval-ms": "右鍵點擊間隔 [毫秒]",
+    "config.wynncraft-spell-caster.option.right-interval-ms-tooltip": "設定右鍵點擊後等待的毫秒數。",
+    "key.category.wynncraft-spell-caster.spell": "Wynncraft 法術施放器",
+    "key.wynncraft-spell-caster.config": "開啟設定界面",
+    "key.wynncraft-spell-caster.spell.first": "施放第 1 個法術",
+    "key.wynncraft-spell-caster.spell.fourth": "施放第 4 個法術",
+    "key.wynncraft-spell-caster.spell.melee": "近戰打擊",
+    "key.wynncraft-spell-caster.spell.second": "施放第 2 個法術",
+    "key.wynncraft-spell-caster.spell.third": "施放第 3 個法術",
+    "screen.wynncraft-spell-caster.config.title": "Wynncraft 法術施放器設定"
+}
